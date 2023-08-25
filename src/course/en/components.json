@@ -53,7 +53,7 @@
       }
     ],
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -124,7 +124,7 @@
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -150,7 +150,7 @@
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "_hide": {
       "_isEnabled": true,
@@ -181,7 +181,7 @@
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -291,7 +291,7 @@
       }
     ],
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -334,7 +334,7 @@
       }
     ],
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -348,7 +348,7 @@
     "displayTitle": "Is data ethics important or critical?",
     "body": "<p>Data ethics is about the practical approaches to evaluating our collection, sharing and use of data. It&rsquo;s about going beyond the defined value proposition to further examine the dual potential of data &mdash; both good and bad.&nbsp;<\/p>\r\n<p>Not all the consequences we identify will have negative outcomes, but understanding how to promote positive outcomes and mitigate the risks associated with bias and harm is critical to trustworthy data practice.&nbsp;&nbsp;<\/p>\r\n<p>DUPLICATE VIDEO FROM ABOVE<\/p>\r\n<p>Applying data ethics practices ensures that we are aware of the challenges of managing data at scale, as well as the consequences of reinforcing historical bias and what impact this may have on people.&nbsp;<\/p>\r\n<p>This means we need to be open and transparent about our data practices so we can exploit the massive advances in technology in ways that benefit everyone.<\/p>",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -425,7 +425,7 @@
       "remainingAttemptText": "final attempt"
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -515,7 +515,7 @@
       "remainingAttemptText": "final attempt"
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -624,7 +624,7 @@
       "remainingAttemptText": "final attempt"
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -680,7 +680,7 @@
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -706,7 +706,7 @@
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -732,7 +732,7 @@
     "_isScrollable": false,
     "_defaultScrollPercent": 0,
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -3400,7 +3400,7 @@
       }
     ],
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
