@@ -1,0 +1,51 @@
+{
+  "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
+    "title": "Square image placeholder",
+    "description": "Square image placeholder",
+    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
+    "licence": "CC0",
+    "attribution": "Adapt eLearning",
+    "tags": []
+  },
+  "b46255d149de4ce358f32a2812df4c9b0658f1a8.png": {
+    "title": "odi-logo-white-small.png",
+    "description": "odi-logo-white-small.png",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": []
+  },
+  "50cd2a8785a924e204ab876d46a71c045cb0f0fc.png": {
+    "title": "clipboard-update-round.png",
+    "description": "clipbaord",
+    "source": "theodi.org",
+    "licence": "All rights reserved",
+    "attribution": "ODI",
+    "tags": []
+  },
+  "ed8c41138dc38e9d42c4c464ef200a62b430716e.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "intro logo",
+        "_id": "608686c5d0a9ce7fbf3a2e18"
+      },
+      {
+        "title": "ODI logo",
+        "_id": "608686c5d0a9ce7fbf3a2e19"
+      }
+    ]
+  },
+  "4450648f1ced09efeb257498cdb779e1a1595641.png": {
+    "title": "Data lifecycle",
+    "description": "Why is DE important? Data lifecycle",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "ODI",
+    "tags": []
+  }
+}
