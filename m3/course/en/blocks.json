@@ -56,13 +56,6 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -110,13 +103,6 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -163,13 +149,6 @@
     },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -276,13 +255,6 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -388,13 +360,6 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -470,13 +435,6 @@
     },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
     },
     "_odi-theme": {
       "_backgroundImage": {

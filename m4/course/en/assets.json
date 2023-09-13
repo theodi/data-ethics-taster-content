@@ -1,12 +1,4 @@
 {
-  "d32cdf251db65fc81b0b75b0ba4c9c64403f2dd3.jpg": {
-    "title": "building-430x430",
-    "description": "img4 mod9 NI Gov\nOther data structures and formats",
-    "source": "https://pixabay.com/photos/building-exterior-office-building-1210022/",
-    "licence": "CC0",
-    "attribution": "Free-Photos",
-    "tags": []
-  },
   "37cc928979435988b0057ffc90f6ce8937a578e2.jpg": {
     "title": "coding-error-430x430",
     "description": "img3 m11 NI Gov\nCommon errors in data",
@@ -31,28 +23,12 @@
     "attribution": "cabi",
     "tags": []
   },
-  "c993ffb7b18386102e527ec0503cb9a554b0d50b.jpg": {
-    "title": "ODI Data Ethics Canvas - Learning team derivative",
-    "description": "ODI Data Ethics Canvas - Learning team derivative",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
   "d4bc14657d8cefb2cf8ce4d8fdaecef6388d2f9a.png": {
     "title": "CC-BY-SA",
     "description": "CC-BY-SA \r\nCREATIVE COMMONS",
     "source": "cc",
     "licence": "CC-BY",
     "attribution": "cc",
-    "tags": []
-  },
-  "f9ef4032a6e4dc799bab35e53563d9be489ec418.jpg": {
-    "title": "Whiteboard Drafting",
-    "description": "story telling",
-    "source": "https://unsplash.com/photos/3V8xo5Gbusk",
-    "licence": "CC0",
-    "attribution": "Kaleidico",
     "tags": []
   },
   "02c402d1b692354b48e44b8eab1456b789f0d500.jpg": {
@@ -96,38 +72,6 @@
     "attribution": "ODI",
     "tags": []
   },
-  "d5881cf7c8eeaf62475a9968276ca548da3bf333.jpg": {
-    "title": "building",
-    "description": "gray concrete building during sunset",
-    "source": "https://unsplash.com/photos/gQI8BOaL69o",
-    "licence": "CC0",
-    "attribution": "Noah Windler",
-    "tags": []
-  },
-  "e248fe86e43a11827a1143b92a0ebf1b7818566e.jpg": {
-    "title": "railway crossing",
-    "description": "brown metal train rail between bare trees during daytime",
-    "source": "https://unsplash.com/photos/8QgQnUhYs7w",
-    "licence": "CC0",
-    "attribution": "Ivan Aleksic",
-    "tags": []
-  },
-  "18070442332608ea7c63acaf74b741ecba7241b9.png": {
-    "title": "Data ethics maturity model",
-    "description": "Data ethics maturity model front cover image",
-    "source": "https://www.theodi.org/article/data-ethics-maturity-model-benchmarking-your-approach-to-data-ethics/",
-    "licence": "All rights reserved",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "645062b54a8295154dbecbd46ed9c836d3196bb0.png": {
-    "title": "The Double Diamond Process",
-    "description": "The Double Diamond Process",
-    "source": "https://theodi.org/",
-    "licence": "CC-BY",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
   "848871b0788afcc83b2002c1bcfaf4f39efe0b1d.webp": {
     "title": "CP catapult logo footer",
     "description": "CP catapult logo footer graphic",
@@ -142,22 +86,6 @@
     "source": "https://content.invisioncic.com/f305442/set_resources_12/d0e70b4cbb9ab8afb1bc1065a3f8487a_logo.png",
     "licence": "All rights reserved",
     "attribution": "digital twin hub logo",
-    "tags": []
-  },
-  "cfdeb5a685e5c413707ed9b35b8481ab32aa4ac6.jpg": {
-    "title": "company building",
-    "description": "high-rise building in city during daytime",
-    "source": "https://unsplash.com/photos/6psstU2DLKs",
-    "licence": "CC0",
-    "attribution": "David East",
-    "tags": []
-  },
-  "e48e3b594a8c59544330712294d00c5b159746ca.jpg": {
-    "title": "Consequence Scanning",
-    "description": "Consequence Scanning cover",
-    "source": "https://www.tech-transformed.com/wp-content/uploads/2019/05/cover-cs-event-manual@2x.jpg",
-    "licence": "CC-BY",
-    "attribution": "doteveryone",
     "tags": []
   },
   "d248af2ed016dda88ceeaf791796496e70d31d2b.jpg": {
@@ -192,5 +120,85 @@
         "_id": "608686c5d0a9ce7fbf3a2e19"
       }
     ]
+  },
+  "9abca6401759cbce025e398ee88103b1330c65cb.jpg": {
+    "title": "ethics-and-data-governance.jpg",
+    "description": "Server maintenance checklist",
+    "source": "https://elements.envato.com/server-maintenance-checklist-H6MCH44",
+    "licence": "Envato Element Licence",
+    "attribution": "DC_Studio",
+    "tags": []
+  },
+  "d9d2059c1646a94b49be04ed27cd67532004ff69.jpg": {
+    "title": "Data and technology",
+    "description": "Corporate team with documents and technology working on a project with graphs, data and tech.",
+    "source": "https://elements.envato.com/corporate-team-with-documents-and-technology-worki-MCBAEVT",
+    "licence": "Envato Element Licence",
+    "attribution": "YuriArcursPeopleimages",
+    "tags": []
+  },
+  "3513fdc9abd83c1eab7367c60095651509cc659a.jpg": {
+    "title": "data ethics canvas",
+    "description": "Data ethics canvas graphic",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute ",
+    "tags": []
+  },
+  "bc7e49705a29fd0762430eea5fdfffd418cd2b8f.jpg": {
+    "title": "consequence scanning toolkit",
+    "description": "consequence scanning toolkit",
+    "source": "theodi.org",
+    "licence": "Envato Element Licence",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "92da24455d5dbec7a668250cb6066ab6bb9376fe.png": {
+    "title": "consequence scanning main",
+    "description": "act influence monitor image combo",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "1cfa7389bcbeed95ccac2199f0de228a456495c0.png": {
+    "title": "consequence scanning act icon",
+    "description": "consequence scanning act icon",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "ac11fbf2674f1ecd9ca51f7650a98f4a1a2701e3.png": {
+    "title": "consequence scanning act influence",
+    "description": "consequence scanning act influence",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "615ea4dfbe6e53558739e80b995ea23b8a13e3b0.png": {
+    "title": "consequence scanning act monitor",
+    "description": "consequence scanning act monitor",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "9ca57e557c063801aacac0e02a39ed526b19ca41.png": {
+    "title": "DEE Consequence Scanning_questions.png",
+    "description": "DEE Consequence Scanning questions",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "6d579205869ebd29a2e12879dbccbda76b7601c9.png": {
+    "title": "DEE Consequence Scanning unintended",
+    "description": "DEE Consequence Scanning unintended",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute",
+    "tags": []
   }
 }

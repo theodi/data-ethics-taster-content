@@ -1245,6 +1245,94 @@ this["Handlebars"]["templates"]["trickle-button"] = Handlebars.template({"1":fun
     + "\n  </button>\n\n</div>\n";
 },"useData":true});
 
+this["Handlebars"]["templates"]["tutor"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "      <div class=\"tutor__title\">\n        <div class=\"tutor__title-inner\" role=\"heading\" aria-level=\""
+    + container.escapeExpression((lookupProperty(helpers,"a11y_aria_level")||(depth0 && lookupProperty(depth0,"a11y_aria_level"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"_id") : depth0),"@component+1",(depth0 != null ? lookupProperty(depth0,"_ariaLevel") : depth0),{"name":"a11y_aria_level","hash":{},"data":data,"loc":{"start":{"line":10,"column":67},"end":{"line":10,"column":117}}}))
+    + "\">\n          "
+    + ((stack1 = (lookupProperty(helpers,"compile")||(depth0 && lookupProperty(depth0,"compile"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"title") : depth0),{"name":"compile","hash":{},"data":data,"loc":{"start":{"line":11,"column":10},"end":{"line":11,"column":29}}})) != null ? stack1 : "")
+    + "\n        </div>\n      </div>\n";
+},"3":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return ((stack1 = lookupProperty(helpers,"if").call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? lookupProperty(depth0,"altTitle") : depth0),{"name":"if","hash":{},"fn":container.program(4, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":14,"column":6},"end":{"line":20,"column":6}}})) != null ? stack1 : "");
+},"4":function(container,depth0,helpers,partials,data) {
+    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "      <div class=\"tutor__title aria-label\">\n        <div class=\"tutor__title-inner\" role=\"heading\" aria-level=\""
+    + container.escapeExpression((lookupProperty(helpers,"a11y_aria_level")||(depth0 && lookupProperty(depth0,"a11y_aria_level"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"_id") : depth0),"@component+1",(depth0 != null ? lookupProperty(depth0,"_ariaLevel") : depth0),{"name":"a11y_aria_level","hash":{},"data":data,"loc":{"start":{"line":16,"column":67},"end":{"line":16,"column":117}}}))
+    + "\">\n          "
+    + ((stack1 = (lookupProperty(helpers,"compile")||(depth0 && lookupProperty(depth0,"compile"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"altTitle") : depth0),{"name":"compile","hash":{},"data":data,"loc":{"start":{"line":17,"column":10},"end":{"line":17,"column":32}}})) != null ? stack1 : "")
+    + "\n        </div>\n      </div>\n      ";
+},"6":function(container,depth0,helpers,partials,data) {
+    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {}), lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "      <div class=\"tutor__btn-container\">\n        <button\n          class=\"btn-text tutor__btn js-tutor-btn\"\n          "
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,((stack1 = (depth0 != null ? lookupProperty(depth0,"_button") : depth0)) != null ? lookupProperty(stack1,"ariaLabel") : stack1),{"name":"if","hash":{},"fn":container.program(7, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":32,"column":10},"end":{"line":32,"column":99}}})) != null ? stack1 : "")
+    + "\n        >\n          "
+    + ((stack1 = (lookupProperty(helpers,"compile")||(depth0 && lookupProperty(depth0,"compile"))||container.hooks.helperMissing).call(alias1,((stack1 = (depth0 != null ? lookupProperty(depth0,"_button") : depth0)) != null ? lookupProperty(stack1,"text") : stack1),{"name":"compile","hash":{},"data":data,"loc":{"start":{"line":34,"column":10},"end":{"line":34,"column":36}}})) != null ? stack1 : "")
+    + "\n        </button>\n      </div>\n";
+},"7":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "aria-label=\""
+    + container.escapeExpression((lookupProperty(helpers,"compile_a11y_normalize")||(depth0 && lookupProperty(depth0,"compile_a11y_normalize"))||container.hooks.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),((stack1 = (depth0 != null ? lookupProperty(depth0,"_button") : depth0)) != null ? lookupProperty(stack1,"ariaLabel") : stack1),{"name":"compile_a11y_normalize","hash":{},"data":data,"loc":{"start":{"line":32,"column":47},"end":{"line":32,"column":91}}}))
+    + "\"";
+},"9":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "      <button\n        class=\"btn-icon tutor__btn-icon js-tutor-btn\"\n        "
+    + ((stack1 = lookupProperty(helpers,"if").call(depth0 != null ? depth0 : (container.nullContext || {}),((stack1 = (depth0 != null ? lookupProperty(depth0,"_button") : depth0)) != null ? lookupProperty(stack1,"ariaLabel") : stack1),{"name":"if","hash":{},"fn":container.program(7, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":40,"column":8},"end":{"line":40,"column":97}}})) != null ? stack1 : "")
+    + "\n      >\n        <span class=\"icon\"></span>\n      </button>\n";
+},"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return container.escapeExpression(((helper = (helper = lookupProperty(helpers,"import_globals") || (depth0 != null ? lookupProperty(depth0,"import_globals") : depth0)) != null ? helper : alias2),(typeof helper === "function" ? helper.call(alias1,{"name":"import_globals","hash":{},"data":data,"loc":{"start":{"line":1,"column":0},"end":{"line":1,"column":18}}}) : helper)))
+    + "\n\n<div class=\"tutor__inner\">\n\n  <div class=\"tutor__content\">\n    <div class=\"tutor__content-inner\">\n\n"
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"title") : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.program(3, data, 0),"data":data,"loc":{"start":{"line":8,"column":6},"end":{"line":20,"column":13}}})) != null ? stack1 : "")
+    + "\n      <div class=\"tutor__body\">\n        <div class=\"tutor__body-inner\">\n          "
+    + ((stack1 = (lookupProperty(helpers,"compile")||(depth0 && lookupProperty(depth0,"compile"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"body") : depth0),{"name":"compile","hash":{},"data":data,"loc":{"start":{"line":24,"column":10},"end":{"line":24,"column":28}}})) != null ? stack1 : "")
+    + "\n        </div>\n      </div>\n\n"
+    + ((stack1 = (lookupProperty(helpers,"equals")||(depth0 && lookupProperty(depth0,"equals"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"_type") : depth0),"inline",{"name":"equals","hash":{},"fn":container.program(6, data, 0),"inverse":container.program(9, data, 0),"data":data,"loc":{"start":{"line":28,"column":6},"end":{"line":44,"column":17}}})) != null ? stack1 : "")
+    + "\n    </div>\n  </div>\n\n</div>\n";
+},"useData":true});
+
 this["Handlebars"]["templates"]["devtools"] = Handlebars.template({"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
     return "<div class=\"devtools__inner\">\n\n  <div class=\"devtools__section-title\">\n    <div class=\"devtools__section-title-inner\">\n      General\n    </div>\n  </div>\n\n  <div class=\"devtools__item is-toggle hinting\">\n    <input id=\"toggle-hinting\" class=\"devtools__item-input\" type=\"checkbox\"/>\n\n    <label class=\"devtools__item-label\" for=\"toggle-hinting\">\n      <div class=\"devtools__item-state\">\n        <div class=\"devtools__item-icon\">\n          <div class=\"icon\" aria-hidden=\"true\"></div>\n        </div>\n      </div>\n\n      <div class=\"devtools__item-title\">\n        <div class=\"devtools__item-title-inner\">\n          Question hinting\n        </div>\n      </div>\n    </label>\n  </div>\n\n  <div class=\"devtools__item is-toggle auto-correct\">\n    <input id=\"toggle-auto-correct\" class=\"devtools__item-input\" type=\"checkbox\"/>\n\n    <label class=\"devtools__item-label\" for=\"toggle-auto-correct\">\n      <div class=\"devtools__item-state\">\n        <div class=\"devtools__item-icon\">\n          <div class=\"icon\" aria-hidden=\"true\"></div>\n        </div>\n      </div>\n\n      <div class=\"devtools__item-title\">\n        <div class=\"devtools__item-title-inner\">\n          Auto correct\n        </div>\n      </div>\n    </label>\n  </div>\n\n  <div class=\"devtools__item is-tip auto-correct\">\n    <div class=\"devtools__item-inner\">\n      ctrl+click submit to correctly answer questions (ctrl+shift+click for incorrect answer)\n    </div>\n  </div>\n\n  <div class=\"devtools__item is-toggle feedback\">\n    <input id=\"toggle-feedback\" class=\"devtools__item-input\" type=\"checkbox\"/>\n\n    <label class=\"devtools__item-label\" for=\"toggle-feedback\">\n      <div class=\"devtools__item-state\">\n        <div class=\"devtools__item-icon\">\n          <div class=\"icon\" aria-hidden=\"true\"></div>\n        </div>\n      </div>\n\n      <div class=\"devtools__item-title\">\n        <div class=\"devtools__item-title-inner\">\n          Tutor\n        </div>\n      </div>\n    </label>\n  </div>\n\n  <div class=\"devtools__item is-toggle alt-text\">\n    <input id=\"toggle-alt-text\" class=\"devtools__item-input\" type=\"checkbox\"/>\n\n    <label class=\"devtools__item-label\" for=\"toggle-alt-text\">\n      <div class=\"devtools__item-state\">\n        <div class=\"devtools__item-icon\">\n          <div class=\"icon\" aria-hidden=\"true\"></div>\n        </div>\n      </div>\n\n      <div class=\"devtools__item-title\">\n        <div class=\"devtools__item-title-inner\">\n          Show alt text\n        </div>\n      </div>\n    </label>\n  </div>\n\n  <div class=\"devtools__item-btn-container\">\n    <button class=\"devtools__item-btn unlock\">\n      Unlock\n    </button>\n  </div>\n\n  <div class=\"devtools__item-btn-container\">\n    <button class=\"devtools__item-btn open-map\">\n      Course map\n    </button>\n\n    <button class=\"devtools__item-btn open-spoor-log\">\n      Spoor log\n    </button>\n  </div>\n\n  <div class=\"devtools__section-title\">\n    <div class=\"devtools__section-title-inner\">\n      Page\n    </div>\n  </div>\n\n  <div class=\"devtools__item is-toggle banking\">\n    <input id=\"toggle-banking\" class=\"devtools__item-input\" type=\"checkbox\"/>\n\n    <label class=\"devtools__item-label\" for=\"toggle-banking\">\n      <div class=\"devtools__item-state\">\n        <div class=\"devtools__item-icon\">\n          <div class=\"icon\" aria-hidden=\"true\"></div>\n        </div>\n      </div>\n\n      <div class=\"devtools__item-title\">\n        <div class=\"devtools__item-title-inner\">\n          Question banks <em>(this page)</em>\n        </div>\n      </div>\n    </label>\n  </div>\n\n  <div class=\"devtools__item-btn-container\">\n    <button class=\"devtools__item-btn end-trickle\">\n      Untrickle\n    </button>\n\n    <button class=\"devtools__item-btn complete-page\">\n      Complete page\n    </button>\n  </div>\n\n  <div class=\"devtools__item is-tip pass-half-fail\"></div>\n\n  <div class=\"devtools__item-btn-container\">\n    <button class=\"devtools__item-btn pass\">\n      Pass\n    </button>\n\n    <button class=\"devtools__item-btn half\">\n      Half\n    </button>\n\n    <button class=\"devtools__item-btn fail\">\n      Fail\n    </button>\n  </div>\n\n  <div class=\"devtools__section-title\">\n    <div class=\"devtools__section-title-inner\">\n      Menu\n    </div>\n  </div>\n\n  <div class=\"devtools__item-btn-container\">\n    <button class=\"devtools__item-btn complete-menu\">\n      Complete menu\n    </button>\n  </div>\n\n  <div class=\"devtools__section-title\">\n    <div class=\"devtools__section-title-inner\">\n      Extended\n    </div>\n  </div>\n\n  <div class=\"devtools__item is-toggle trace-focus\">\n    <input id=\"toggle-trace-focus\" class=\"devtools__item-input\" type=\"checkbox\"/>\n\n    <label class=\"devtools__item-label\" for=\"toggle-trace-focus\">\n      <div class=\"devtools__item-state\">\n        <div class=\"devtools__item-icon\">\n          <div class=\"icon\" aria-hidden=\"true\"></div>\n        </div>\n      </div>\n\n      <div class=\"devtools__item-title\">\n        <div class=\"devtools__item-title-inner\">\n          Trace focus\n        </div>\n      </div>\n    </label>\n  </div>\n\n  <div class=\"devtools__item is-tip\">\n    <div class=\"devtools__item-inner\">\n      Dev tip: with the browser console open, left-click and press <kbd>m</kbd> to show the data model for that element.\n    </div>\n  </div>\n\n</div>\n";
 },"useData":true});

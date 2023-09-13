@@ -19,9 +19,13 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_assessment": {
+    "_pageLevelProgress": {
       "_isEnabled": false,
-      "_id": "",
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "taster-content-m3-why-is-data-ethics-important",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
@@ -43,16 +47,12 @@
       },
       "_questions": {
         "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
+    "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -62,11 +62,6 @@
         "_backgroundRepeat": null,
         "_backgroundSize": null,
         "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
       }
     }
   },
@@ -122,13 +117,6 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
-    },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
     },
     "_odi-theme": {
       "_backgroundImage": {

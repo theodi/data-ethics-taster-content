@@ -44,13 +44,6 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": ""
   },
   {
@@ -242,13 +235,6 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "Question text specifically for screen readers.",
     "_items": [
@@ -259,9 +245,10 @@
       },
       {
         "text": "No!",
-        "_shouldBeSelected": false,
-        "feedback": "Option two incorrect feedback",
-        "_isPartlyCorrect": false
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
       }
     ],
     "_attempts": 1,
@@ -276,13 +263,13 @@
     "_selectable": 1,
     "_feedback": {
       "title": "Feedback",
-      "correct": "<p><strong>That’s right!</strong></p><p>&nbsp;</p><p>A common misconception is that data ethics is a layer on top of data protection regulations. This is false. As defined, data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact people and society. This harm does not have to originate from the collection and processing of personal data.</p><p>As we discovered in the examples, the processing of non personal data, such as the classification of images using historical datasets can still result in outcomes that discriminate against large groups of people.&nbsp;</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>A common misconception is that data ethics is a layer on top of data protection regulations. This is false. As defined, data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact people and society. This harm does not have to originate from the collection and processing of personal data.</p><p>As we discovered in the examples, the processing of non personal data, such as the classification of images using historical datasets can still result in outcomes that discriminate against large groups of people.&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>&nbsp;</p><p>A common misconception is that data ethics is a layer on top of data protection regulations. This is false. As defined, data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact people and society. This harm does not have to originate from the collection and processing of personal data.</p><p>As we discovered in the examples, the processing of non personal data, such as the classification of images using historical datasets can still result in outcomes that discriminate against large groups of people.&nbsp;</p><p>.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A common misconception is that data ethics is a layer on top of data protection regulations. This is false. As defined, data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact people and society. This harm does not have to originate from the collection and processing of personal data.</p><p>As we discovered in the examples, the processing of non personal data, such as the classification of images using historical datasets can still result in outcomes that discriminate against large groups of people.&nbsp;</p><p>.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
-        "final": "<p>This feedback will appear if you answered the question correctly.</p>",
+        "final": "",
         "notFinal": ""
       }
     },
@@ -356,13 +343,6 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": "Choose one option then select Submit.",
     "ariaQuestion": "Question text specifically for screen readers.",
     "_items": [
@@ -386,9 +366,10 @@
       },
       {
         "text": "All of the above and more.",
-        "_isCorrect": "true",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
       }
     ],
     "_attempts": 1,
@@ -402,7 +383,7 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "title": "Feedback",
+      "title": "",
       "correct": "<p><strong>That’s right!</strong></p><p>There is a perception that data risks are predominantly related to mis-use or the risks related to regulatory infringement or changes to regulation. Collecting and storing huge amounts of data is easy, but doesn’t make it ethical to do so.&nbsp; As we have discovered in the case studies, collecting, modelling and even the lack of sharing of data all have ethical implications that need to be considered. A common misconception is that using data that was curated, rather than created, absolves you of responsibility for the impact. If we don’t examine the provenance of data, we cannot fully comprehend the potential for harm.</p>",
       "_incorrect": {
         "final": "<p><strong>Are you sure about that?</strong></p><p>There is a perception that data risks are predominantly related to mis-use or the risks related to regulatory infringement or changes to regulation. Collecting and storing huge amounts of data is easy, but doesn’t make it ethical to do so.&nbsp; As we have discovered in the case studies, collecting, modelling and even the lack of sharing of data all have ethical implications that need to be considered. A common misconception is that using data that was curated, rather than created, absolves you of responsibility for the impact. If we don’t examine the provenance of data, we cannot fully comprehend the potential for harm.</p>",
@@ -483,13 +464,6 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": "Choose an option from each dropdown list and select Submit.",
     "ariaQuestion": "Question text specifically for screen readers.",
     "_attempts": 1,
@@ -548,10 +522,10 @@
       }
     ],
     "_feedback": {
-      "title": "Feedback",
-      "correct": "<p>That’s right! These are two of the questions that people battle with most commonly when taking a closed approach to a data ethics challenge.&nbsp; At the Open Data Institute, we get asked a lot about who should be included in a data ethics workshop or other discussion. The answer to this question is always the same. Who are you going to exclude? This doesn’t mean we need everyone from an organisation, but it does force you to think carefully about inclusion.&nbsp; The same is true around data sharing practices. Many evaluate the risks associated with data becoming more open on our data spectrum. However, there are also ethical implications in choosing not to share data. Why not start with the opposite question and assume the data will be openly available and justify either legally or ethically why it shouldn’t be. This is also known as the “open by default” approach.</p>",
+      "title": "",
+      "correct": "<p><strong>That’s right! </strong></p><p>These are two of the questions that people battle with most commonly when taking a closed approach to a data ethics challenge.&nbsp; At the Open Data Institute, we get asked a lot about who should be included in a data ethics workshop or other discussion. The answer to this question is always the same. Who are you going to exclude? This doesn’t mean we need everyone from an organisation, but it does force you to think carefully about inclusion.&nbsp; The same is true around data sharing practices. Many evaluate the risks associated with data becoming more open on our data spectrum. However, there are also ethical implications in choosing not to share data. Why not start with the opposite question and assume the data will be openly available and justify either legally or ethically why it shouldn’t be. This is also known as the “open by default” approach.</p>",
       "_incorrect": {
-        "final": "<p>Are you sure about that? These are two of the questions that people battle with most commonly when taking a closed approach to a data ethics challenge.&nbsp; At the Open Data Institute, we get asked a lot about who should be included in a data ethics workshop or other discussion. The answer to this question is always the same. Who are you going to exclude? This doesn’t mean we need everyone from an organisation, but it does force you to think carefully about inclusion.&nbsp; The same is true around data sharing practices. Many evaluate the risks associated with data becoming more open on our data spectrum. However, there are also ethical implications in choosing not to share data. Why not start with the opposite question and assume the data will be openly available and justify either legally or ethically why it shouldn’t be. This is also known as the “open by default” approach.</p>",
+        "final": "<p><strong>Are you sure about that? </strong></p><p>These are two of the questions that people battle with most commonly when taking a closed approach to a data ethics challenge.&nbsp; At the Open Data Institute, we get asked a lot about who should be included in a data ethics workshop or other discussion. The answer to this question is always the same. Who are you going to exclude? This doesn’t mean we need everyone from an organisation, but it does force you to think carefully about inclusion.&nbsp; The same is true around data sharing practices. Many evaluate the risks associated with data becoming more open on our data spectrum. However, there are also ethical implications in choosing not to share data. Why not start with the opposite question and assume the data will be openly available and justify either legally or ethically why it shouldn’t be. This is also known as the “open by default” approach.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -596,7 +570,7 @@
     "_disableAccessibilityState": false,
     "title": "Reflecting on your own ethical practice",
     "displayTitle": "Reflecting on your own ethical practice",
-    "body": "<p>Consider what data you use in your professional practice. Do you build products, or deliver services? Maybe you collect and analyse data to share with a range of stakeholders?</p>\n\n<p><strong>Whatever your purpose is, the data you use has come from somewhere. Now, ask yourself, did you collect the data? If so:</strong></p>\n\n<ul>\n\t<li><em>What methods did you use for data collection?</em></li>\n\t<li><em>How confident are you in the accuracy and reliability of this data?</em></li>\n</ul>\n<hr>\n<p><strong>But, what if you didn&rsquo;t directly collect the data. Instead, you may have collated that data from elsewhere. In which case, change the framing of the prompts:</strong></p>\n\n<ul>\n\t<li><em>Considering the data you&#39;ve compiled:</em></li>\n\t<li><em>How do you ensure the accuracy and consistency of the aggregated data?</em></li>\n\t<li><em>Are there challenges in reconciling disparate data sources?</em></li>\n</ul>\n\n<p>With this in mind, are you fully aware of the potential risks associated with your data, whether that is how you use it, or the misuse of someone it has been shared with? Maybe there are unforeseen users who are delivering positive outcomes?</p>\n\n<hr>\n\n<p><em><strong>What will you do to promote positive outcomes, and mitigate potential harm?</strong></em></p>\n",
+    "body": "<p>Consider what data you use in your professional practice. Do you build products, or deliver services? Maybe you collect and analyse data to share with a range of stakeholders?</p>\n\n<p><strong>Whatever your purpose is, the data you use has come from somewhere. Now, ask yourself, did you collect the data? If so:</strong></p>\n\n<ul>\n\t<li><em>What methods did you use for data collection?</em></li>\n\t<li><em>How confident are you in the accuracy and reliability of this data?</em></li>\n</ul>\n<hr>\n<p><strong>But, what if you didn’t directly collect the data. Instead, you may have collated that data from elsewhere. In which case, change the framing of the prompts:</strong></p>\n\n<ul>\n\t<li><em>Considering the data you've compiled:</em></li>\n\t<li><em>How do you ensure the accuracy and consistency of the aggregated data?</em></li>\n\t<li><em>Are there challenges in reconciling disparate data sources?</em></li>\n</ul>\n\n<p>With this in mind, are you fully aware of the potential risks associated with your data, whether that is how you use it, or the misuse of someone it has been shared with? Maybe there are unforeseen users who are delivering positive outcomes?</p>\n\n<hr>\n\n<p><em><strong>What will you do to promote positive outcomes, and mitigate potential harm?</strong></em></p>",
     "_id": "64f1c12d94389ef9d9f95566",
     "_parentId": "64f1c12c94389ef9d9f9555b",
     "_type": "component",
@@ -628,13 +602,6 @@
         "ariaLabel": "",
         "iconClass": "icon-expand_1"
       }
-    },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
     },
     "instruction": ""
   },
@@ -683,13 +650,6 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": ""
   },
   {
@@ -737,20 +697,13 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/ea0e4c227c6031fd7d30211bc2b5ed98c400088a.jpg",
+      "small": "course/en/assets/ea0e4c227c6031fd7d30211bc2b5ed98c400088a.jpg",
+      "attribution": "<a href=\"https://elements.envato.com/businessman-using-fingerprint-identification-to-ac-2D38HVZ\" target=\"_blank\">thanmano</a> <span class='assetLicence'>[Envato Element Licence]</span>",
       "_url": "",
       "_target": null
     },
@@ -802,19 +755,12 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/4450648f1ced09efeb257498cdb779e1a1595641.png",
-      "small": "course/en/assets/4450648f1ced09efeb257498cdb779e1a1595641.png",
+      "large": "course/en/assets/e68719240d8b66b3b087182332e049d4c4f33618.png",
+      "small": "course/en/assets/e68719240d8b66b3b087182332e049d4c4f33618.png",
       "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
@@ -867,20 +813,13 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/35e7036f4703491b8c2e1fd7f23bedff84d46ef7.jpg",
+      "small": "course/en/assets/35e7036f4703491b8c2e1fd7f23bedff84d46ef7.jpg",
+      "attribution": "<a href=\"https://elements.envato.com/i-have-a-question-2A78VNF\" target=\"_blank\">gstockstudio</a> <span class='assetLicence'>[Envato Element Licence]</span>",
       "_url": "",
       "_target": null
     },
@@ -931,13 +870,6 @@
         "ariaLabel": "",
         "iconClass": "icon-expand_1"
       }
-    },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
     },
     "instruction": "Select the play button to start the video.",
     "_setCompletionOn": "play",
@@ -1003,13 +935,6 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": "Select the play button to start the video.",
     "_setCompletionOn": "play",
     "_media": {
@@ -1074,13 +999,6 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -1139,13 +1057,6 @@
         "iconClass": "icon-expand_1"
       }
     },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
     "instruction": ""
   },
   {
@@ -1192,13 +1103,6 @@
         "ariaLabel": "",
         "iconClass": "icon-expand_1"
       }
-    },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
     },
     "instruction": "",
     "_graphic": {

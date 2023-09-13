@@ -19,15 +19,15 @@
     "_isEnabled": false,
     "_isSkipNavigationEnabled": true,
     "_ariaLevels": {
-      "_menu": 1,
-      "_menuGroup": 2,
-      "_menuItem": 2,
-      "_page": 1,
-      "_article": 2,
-      "_block": 3,
-      "_component": 4,
-      "_componentItem": 5,
-      "_notify": 1
+      "_menu": "1",
+      "_menuGroup": "2",
+      "_menuItem": "2",
+      "_page": "1",
+      "_article": "2",
+      "_block": "3",
+      "_component": "4",
+      "_componentItem": "5",
+      "_notify": "1"
     }
   },
   "__v": 6,
@@ -49,5 +49,41 @@
     "small": 520,
     "medium": 760,
     "large": 900
+  },
+  "_xapi": {
+    "_isEnabled": true,
+    "_specification": "xAPI",
+    "_activityID": "https://testing.learndata.info/odi-taster-content-test",
+    "_cookiePrefix": "info.learndata.lms",
+    "_endpoint": "https://theodi.learninglocker.net/data/xAPI",
+    "_user": "",
+    "_password": "",
+    "_lang": "en-US",
+    "_generateIds": false,
+    "_shouldTrackState": true,
+    "_shouldUseRegistration": false,
+    "_componentBlacklist": "blank,graphic",
+    "_coreEvents": {
+      "Adapt": {
+        "router:menu": false,
+        "router:page": false,
+        "questionView:recordInteraction": true,
+        "assessments:complete": true
+      },
+      "contentObjects": {
+        "change:_isComplete": false
+      },
+      "articles": {
+        "change:_isComplete": false
+      },
+      "blocks": {
+        "change:_isComplete": false
+      },
+      "components": {
+        "change:_isComplete": true
+      }
+    },
+    "_lrsFailureBehaviour": "show",
+    "_queryURL": ""
   }
 }

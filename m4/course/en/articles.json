@@ -125,13 +125,13 @@
     },
     "_assessment": {
       "_isEnabled": true,
-      "_id": "applying-data-ethics-first-qs",
+      "_id": "taster-content-m4-applying-data-ethics-set1",
       "_attempts": 1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_correctToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 0.3,
+      "_assessmentWeight": 1,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -146,15 +146,11 @@
         "_randomisation": false
       },
       "_questions": {
-        "_resetType": "soft",
+        "_resetType": "hard",
         "_canShowFeedback": true,
         "_canShowMarking": true,
         "_canShowModelAnswer": true
       }
-    },
-    "_branching": {
-      "_isEnabled": false,
-      "_start": ""
     },
     "_trickle": {
       "_isEnabled": false,
@@ -185,6 +181,10 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_start": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -403,7 +403,7 @@
     "title": "Choosing a consequence",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-six invert-even",
+    "_classes": "color-six invert-odd",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -447,9 +447,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": true,
-        "_canShowMarking": true,
-        "_canShowModelAnswer": true
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
       }
     },
     "_trickle": {
@@ -500,110 +500,10 @@
     }
   },
   {
-    "title": "Taking action on the consequences",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-five invert-odd",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64edb6da0667765a0b978be6",
-    "_parentId": "64e5ce310667765a0b978b00",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_correctToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_scrollToOnReset": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_branching": {
-      "_isEnabled": false,
-      "_start": ""
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
     "title": "Data Ethics Canvas",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-five invert-odd",
+    "_classes": "color-six invert-even",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -618,9 +518,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_branching": {
-      "_isEnabled": false
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -685,6 +582,10 @@
         "_isLockedOnRevisit": false
       }
     },
+    "_branching": {
+      "_isEnabled": false,
+      "_start": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -702,7 +603,7 @@
     "title": "Data Ethics Maturity Model",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-six invert-odd",
+    "_classes": "color-six invert-even",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -717,9 +618,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_branching": {
-      "_isEnabled": false
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -783,6 +681,10 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_start": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
