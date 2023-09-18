@@ -7,6 +7,22 @@
     "attribution": "Adapt eLearning",
     "tags": []
   },
+  "f9855a4bc775449c566dabcd78c05fde759d0689.png": {
+    "title": "logo-small.png",
+    "description": "ODI logo used in content section of footer",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "ODI",
+    "tags": []
+  },
+  "d4bc14657d8cefb2cf8ce4d8fdaecef6388d2f9a.png": {
+    "title": "CC-BY-SA",
+    "description": "CC-BY-SA \r\nCREATIVE COMMONS",
+    "source": "cc",
+    "licence": "CC-BY",
+    "attribution": "cc",
+    "tags": []
+  },
   "b46255d149de4ce358f32a2812df4c9b0658f1a8.png": {
     "title": "odi-logo-white-small.png",
     "description": "odi-logo-white-small.png",
@@ -40,12 +56,28 @@
     "attribution": "ODI",
     "tags": []
   },
-  "4450648f1ced09efeb257498cdb779e1a1595641.png": {
-    "title": "Data lifecycle",
+  "e68719240d8b66b3b087182332e049d4c4f33618.png": {
+    "title": "lifecycle_full-annotated-white.png",
     "description": "Why is DE important? Data lifecycle",
     "source": "theodi.org",
     "licence": "CC0",
     "attribution": "ODI",
+    "tags": []
+  },
+  "8cfb57f3093169df4877d51ce2e9e7bc721408d0.jpg": {
+    "title": "data-ethics.jpg",
+    "description": " close up view of human green eye with data illustration, robotic concept\r\n",
+    "source": "https://elements.envato.com/close-up-view-of-human-green-eye-with-data-illustr-34JTMW7",
+    "licence": "Envato Element Licence",
+    "attribution": "LightFieldStudios",
+    "tags": []
+  },
+  "2eacc15a692bb9ea91d963fd1c9b936af7e00f57.jpg": {
+    "title": "Company",
+    "description": "Group of workers gathered to make decisions about the company",
+    "source": "https://elements.envato.com/group-of-workers-gathered-to-make-decisions-about--JUFCCLZ",
+    "licence": "Envato Element Licence",
+    "attribution": "isitophotostock",
     "tags": []
   }
 }

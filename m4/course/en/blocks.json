@@ -415,71 +415,11 @@
     }
   },
   {
-    "title": "The Data Ethics Canvas",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 6,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b0e",
-    "_parentId": "64e5ce310667765a0b978b05",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    }
-  },
-  {
     "title": "Picking scenerio",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 7,
+    "_trackingId": 6,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -558,11 +498,11 @@
     }
   },
   {
-    "title": "Consequence scanning toolkit",
-    "displayTitle": "",
+    "title": "Let’s try out the Consequence Scanning Toolkit",
+    "displayTitle": "Let’s try out the Consequence Scanning Toolkit",
     "body": "",
     "_classes": "",
-    "_trackingId": 8,
+    "_trackingId": 7,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -577,12 +517,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -621,6 +555,12 @@
         "_isLockedOnRevisit": false
       }
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -641,11 +581,154 @@
     }
   },
   {
-    "title": "Q: Failure percentage",
+    "title": "The importance of actions",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f86e1194389ef9d9f955de",
+    "_parentId": "64e5ce310667765a0b978b05",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The Data Ethics Canvas",
     "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5ce320667765a0b978b0e",
+    "_parentId": "64e5ce310667765a0b978b05",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "Q: Failure percentage",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -728,7 +811,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 10,
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -804,66 +887,6 @@
         "_small": null
       },
       "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "The four sections of the data ethics canvas",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 11,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b13",
-    "_parentId": "64e5ce310667765a0b978b05",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
     }
   },
   {
@@ -954,12 +977,6 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
     "_trickle": {
       "_isEnabled": false,
       "_isInherited": false,
@@ -989,6 +1006,12 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "64f8671b94389ef9d9f955d8",
+      "_partlyCorrect": "64f8671b94389ef9d9f955d8",
+      "_incorrect": "64f8671b94389ef9d9f955d8"
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1093,7 +1116,7 @@
     }
   },
   {
-    "title": "Taking action on consequences",
+    "title": "The four sections of the data ethics canvas",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1105,16 +1128,11 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64ef01330667765a0b978bee",
-    "_parentId": "64edb6da0667765a0b978be6",
+    "_id": "64e5ce320667765a0b978b13",
+    "_parentId": "64e5ce310667765a0b978b05",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -1155,24 +1173,6 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
     }
   },
   {
@@ -1259,94 +1259,11 @@
     }
   },
   {
-    "title": "Connecting the Gemini Principles to the DEC",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 17,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b1c",
-    "_parentId": "64e5ce310667765a0b978b05",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
     "title": "Data Ethics Maturity Model: Assessment levels",
     "displayTitle": "Data Ethics Maturity Model: Assessment levels",
     "body": "",
     "_classes": "",
-    "_trackingId": 18,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1429,7 +1346,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 19,
+    "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1512,7 +1429,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 20,
+    "_trackingId": 19,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1595,7 +1512,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 21,
+    "_trackingId": 20,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1603,7 +1520,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64ef40080667765a0b978c02",
+    "_id": "65005f7f94389ef9d9f95679",
     "_parentId": "64e5ce310667765a0b978b03",
     "_type": "block",
     "_pageLevelProgress": {
@@ -1613,12 +1530,6 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
     "_trickle": {
       "_isEnabled": false,
       "_isInherited": false,
@@ -1648,14 +1559,20 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     }
   },
   {
-    "title": "Putting data in data ethics",
+    "title": "Using the data ethics canvas",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 22,
+    "_trackingId": 21,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1663,68 +1580,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b1a",
+    "_id": "64e5ce320667765a0b978b1c",
     "_parentId": "64e5ce310667765a0b978b05",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    }
-  },
-  {
-    "title": "Applying the Data Ethics Maturity Model",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 23,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b2a",
-    "_parentId": "64e5ce310667765a0b978b06",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1738,12 +1595,6 @@
     "_assessment": {
       "_quizBankID": 1
     },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
     "_trickle": {
       "_isEnabled": false,
       "_isInherited": false,
@@ -1773,6 +1624,12 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1798,7 +1655,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 24,
+    "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1881,7 +1738,7 @@
     "displayTitle": "Striking a balance between positive and negative impacts",
     "body": "",
     "_classes": "",
-    "_trackingId": 25,
+    "_trackingId": 23,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1960,11 +1817,11 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "Data ethics maturity model",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 26,
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1972,82 +1829,16 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64ef3dfa0667765a0b978bfa",
-    "_parentId": "64e5ce310667765a0b978b03",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    }
-  },
-  {
-    "title": "Embedding data ethics tools into the project lifecycle",
-    "displayTitle": "Embedding data ethics tools into the project lifecycle",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 27,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b26",
-    "_parentId": "64e5ce310667765a0b978b05",
+    "_id": "64f7446294389ef9d9f955cb",
+    "_parentId": "64e5ce310667765a0b978b06",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -2082,6 +1873,12 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -2107,7 +1904,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 28,
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2129,12 +1926,6 @@
     },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_trickle": {
       "_isEnabled": false,
@@ -2166,6 +1957,12 @@
         "_isLockedOnRevisit": false
       }
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "64f86bee94389ef9d9f955dc",
+      "_partlyCorrect": "64f86bee94389ef9d9f955dc",
+      "_incorrect": "64f86bee94389ef9d9f955dc"
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -2190,7 +1987,7 @@
     "displayTitle": "Publishing crime data: unintended consequences",
     "body": "<p dir=\"ltr\"><strong>What do you think the likelihood and severity is related to the following situation?</strong></p><p dir=\"ltr\"><strong>Action: </strong>Releasing crime data with detail at street level</p><p dir=\"ltr\"><strong>Intended positive impact:</strong> Provide a rich dataset for use in consumer applications, such as travel planning apps that can now find out where high crime areas are and recommend people avoid them, making society safer.&nbsp;</p><p dir=\"ltr\"><strong>Potential unintended consequence: </strong>A significant reduction in house prices in high crime areas</p><p><strong>Perceived negative impact: </strong>People in high crime areas being unable to sell or rent out their houses</p><hr>",
     "_classes": "",
-    "_trackingId": 29,
+    "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2269,11 +2066,11 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "Barclays building trust through data ethics",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 30,
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2281,11 +2078,94 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64ef3ce80667765a0b978bf8",
-    "_parentId": "64e5ce310667765a0b978b03",
+    "_id": "64f7436694389ef9d9f955c9",
+    "_parentId": "64e5ce310667765a0b978b05",
     "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Putting data in data ethics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5ce320667765a0b978b1a",
+    "_parentId": "64e5ce310667765a0b978b05",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -2329,11 +2209,11 @@
     }
   },
   {
-    "title": "Q: Matching the phases of the double diamond to the section of the data ethics canvas.",
+    "title": "Consequence scanning: deciding what to do",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 31,
+    "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2341,8 +2221,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b29",
-    "_parentId": "64e5ce310667765a0b978b05",
+    "_id": "64e8cf060667765a0b978bc9",
+    "_parentId": "64e8cf050667765a0b978bc3",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2412,7 +2292,150 @@
     }
   },
   {
-    "title": "Consequence scanning: deciding what to do",
+    "title": "Taking action on consequences",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f8671b94389ef9d9f955d8",
+    "_parentId": "64e5ce310667765a0b978b04",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f72eb294389ef9d9f955b7",
+    "_parentId": "64e8cf050667765a0b978bc3",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    }
+  },
+  {
+    "title": "Taking action on consequences",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -2424,26 +2447,26 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e8cf060667765a0b978bc9",
-    "_parentId": "64e8cf050667765a0b978bc3",
+    "_id": "64f86bee94389ef9d9f955dc",
+    "_parentId": "64e5ce310667765a0b978b04",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_branching": {
       "_containerId": "",
       "_correct": "",
       "_partlyCorrect": "",
       "_incorrect": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_trickle": {
       "_isEnabled": false,

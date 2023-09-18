@@ -25,6 +25,16 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": ""
   },
   {
@@ -52,6 +62,16 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": "",
     "_graphic": {
@@ -92,6 +112,16 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -131,6 +161,16 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": ""
   },
   {
@@ -158,6 +198,16 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": "Choose your answer, then click 'Submit'",
     "_items": [
@@ -263,6 +313,16 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": "Choose your answer, then click 'Submit'",
     "_items": [
       {
@@ -353,7 +413,7 @@
     "_disableAccessibilityState": false,
     "title": "Q: Avoiding failure in data projects",
     "displayTitle": " Avoiding failure in data projects",
-    "body": "<p>According to a report from Gartner in 2018, what percentage of data projects fail. Drag the slider to your answer.</p>",
+    "body": "<p>In 2018, Gartner published a report that estimated the proportion of data projects that fail. Consider your own experience of data projects, how many do you think fail?</p>",
     "_id": "64e5ce320667765a0b978b3b",
     "_parentId": "64e5ce320667765a0b978b10",
     "_type": "component",
@@ -362,6 +422,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -394,9 +464,9 @@
     "_showScaleNumbers": true,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That's right</strong></p><p>85% of data projects fail (Gartner, 2017)</p>",
+      "correct": "<p><strong>That's right!</strong></p><p>Gartner found that 85% of data projects fail (<a href=\"https://www.gartner.com/en/newsroom/press-releases/2018-02-13-gartner-says-nearly-half-of-cios-are-planning-to-deploy-artificial-intelligence\">Gartner, 2017</a>)</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>85% of data projects fail (Gartner, 2017)</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Gartner found that 85% of data projects fail (<a href=\"https://www.gartner.com/en/newsroom/press-releases/2018-02-13-gartner-says-nearly-half-of-cios-are-planning-to-deploy-artificial-intelligence\">Gartner, 2017</a>)</p>",
         "notFinal": ""
       }
     },
@@ -447,6 +517,16 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -455,9 +535,9 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/d5881cf7c8eeaf62475a9968276ca548da3bf333.jpg",
-      "small": "course/en/assets/d5881cf7c8eeaf62475a9968276ca548da3bf333.jpg",
-      "attribution": "<a href=\"https://unsplash.com/photos/gQI8BOaL69o\" target=\"_blank\">Noah Windler</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/9abca6401759cbce025e398ee88103b1330c65cb.jpg",
+      "small": "course/en/assets/9abca6401759cbce025e398ee88103b1330c65cb.jpg",
+      "attribution": "<a href=\"https://elements.envato.com/server-maintenance-checklist-H6MCH44\" target=\"_blank\">DC_Studio</a> <span class='assetLicence'>[Envato Element Licence]</span>",
       "_url": "",
       "_target": null
     },
@@ -489,6 +569,16 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": "",
     "_graphic": {
@@ -525,17 +615,27 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "alt": "",
+      "alt": "There are two ODI tools that support project level assessment, these are consequence scanning and the data ethics canvas. For organisational level assessment we use the data ethics maturity model",
       "longdescription": "",
-      "large": "course/en/assets/d32cdf251db65fc81b0b75b0ba4c9c64403f2dd3.jpg",
-      "small": "course/en/assets/d32cdf251db65fc81b0b75b0ba4c9c64403f2dd3.jpg",
-      "attribution": "<a href=\"https://pixabay.com/photos/building-exterior-office-building-1210022/\" target=\"_blank\">Free-Photos</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/d9d2059c1646a94b49be04ed27cd67532004ff69.jpg",
+      "small": "course/en/assets/d9d2059c1646a94b49be04ed27cd67532004ff69.jpg",
+      "attribution": "<a href=\"https://elements.envato.com/corporate-team-with-documents-and-technology-worki-MCBAEVT\" target=\"_blank\">YuriArcursPeopleimages</a> <span class='assetLicence'>[Envato Element Licence]</span>",
       "_url": "",
       "_target": null
     },
@@ -568,338 +668,17 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": ""
-  },
-  {
-    "_component": "cards",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "The four sections of the data ethics canvas",
-    "displayTitle": "The four sections of the data ethics canvas",
-    "body": "<p>The data ethics canvas is divided into four main sections.</p>",
-    "_id": "64e5ce320667765a0b978b4b",
-    "_parentId": "64e5ce320667765a0b978b13",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Click the card to reveal more",
-    "_setCompletionOn": "allItems",
-    "_animateItems": false,
-    "_hasClickButton": false,
-    "_percentInviewVertical": 20,
-    "_transitionSpeed": 200,
-    "_columns": 4,
-    "_itemMinHeight": 0,
-    "_autoSetHeight": true,
-    "_scrollPadding": 0,
-    "_items": [
-      {
-        "title": "Assess",
-        "body": "<p>Assessing the data sources</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "<p>By asking you to assess the data sources, their limitations, the rights and legislative context of data collection, use, and share that apply to your sector.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Identify",
-        "body": "<p>Identifying the impact</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "<p>By asking you to identify your reasons for using data to develop this service/product, the potential positive and negative impact on people and society, and the potential approaches to minimise negative harm.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Evaluate",
-        "body": "<p>Evaluating the engagement</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "<p>These are consequences that you cannot control, such as political climate or global trends.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Decide",
-        "body": "<p>Deciding on the next steps</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "<p>Helps you decide on the next steps: what should you prioritise, when will you iterate, do you need training, etc.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      }
-    ]
-  },
-  {
-    "_component": "matching",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "The Double Diamond and Data Ethics Canvas",
-    "displayTitle": "The Double Diamond and Data Ethics Canvas",
-    "body": "<p>Can you identify what part of the ODI Data Ethics Canvas is best suited for which part of the Double Diamond process?</p>",
-    "_id": "64e5ce320667765a0b978b4c",
-    "_parentId": "64e5ce320667765a0b978b29",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Choose an option from each dropdown list and select Submit.",
-    "ariaQuestion": "",
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldResetAllAnswers": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_isRandomQuestionOrder": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_allowOnlyUniqueAnswers": false,
-    "placeholder": "Please select an option",
-    "_items": [
-      {
-        "text": "Phase 1: Discover",
-        "_options": [
-          {
-            "text": "Consequence scanning / Identify the impact",
-            "_isCorrect": true,
-            "_score": 0
-          },
-          {
-            "text": "Access the data",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Evaluate the engagement",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Implement the process",
-            "_isCorrect": false,
-            "_score": 0
-          }
-        ]
-      },
-      {
-        "text": "Phase 2: Define",
-        "_options": [
-          {
-            "text": "Consequence scanning / Identify the impact",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Access the data",
-            "_isCorrect": true,
-            "_score": 0
-          },
-          {
-            "text": "Evaluate the engagement",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Implement the process",
-            "_isCorrect": false,
-            "_score": 0
-          }
-        ]
-      },
-      {
-        "text": "Phase 3: Develop",
-        "_options": [
-          {
-            "text": "Consequence scanning / Identify the impact",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Access the data",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Evaluate the engagement",
-            "_isCorrect": true,
-            "_score": 0
-          },
-          {
-            "text": "Implement the process",
-            "_isCorrect": false,
-            "_score": 0
-          }
-        ]
-      },
-      {
-        "text": "Phase 4: Deliver",
-        "_options": [
-          {
-            "text": "Consequence scanning / Identify the impact",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Access the data",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Evaluate the engagement",
-            "_isCorrect": false,
-            "_score": 0
-          },
-          {
-            "text": "Implement the process",
-            "_isCorrect": true,
-            "_score": 0
-          }
-        ]
-      }
-    ],
-    "_feedback": {
-      "title": "",
-      "correct": "<p><strong>That's right!</strong></p><p>The first diamond is all about doing the right things. By the end of this phase you should be clear on what positive impact you want to achieve and what negative impacts you need to minimise and how. This will also mean being clear on if your data sources can be used to deliver the project in phase two. Phase two is thus all about delivering the project and at this stage you will need to ensure you are engaging with people to build and maintain trust and embedded processes that mean that impacts are continually monitored.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>The first diamond is all about doing the right things. By the end of this phase you should be clear on what positive impact you want to achieve and what negative impacts you need to minimise and how. This will also mean being clear on if your data sources can be used to deliver the project in phase two. Phase two is thus all about delivering the project and at this stage you will need to ensure you are engaging with people to build and maintain trust and embedded processes that mean that impacts are continually monitored.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
   },
   {
     "_component": "text",
@@ -922,6 +701,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -955,6 +744,16 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": ""
   },
   {
@@ -982,6 +781,16 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": "",
     "_graphic": {
@@ -1022,6 +831,16 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -1046,16 +865,26 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "The Data Ethics Canvas",
-    "displayTitle": "The Data Ethics Canvas",
-    "body": "<p>The Data Ethics Canvas helps teams to have a guided discussion to identify the positive and negative impacts of their data project on people and society. It's a tool for anyone who collects, shares or uses data. It helps identify and manage ethical issues - in both the promotion of positive outcomes and mitigation of negative outcomes.</p>",
+    "displayTitle": "",
+    "body": "",
     "_id": "64e5ce320667765a0b978b57",
     "_parentId": "64e5ce320667765a0b978b0e",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -1065,9 +894,9 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/c993ffb7b18386102e527ec0503cb9a554b0d50b.jpg",
-      "small": "course/en/assets/c993ffb7b18386102e527ec0503cb9a554b0d50b.jpg",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
+      "large": "course/en/assets/3513fdc9abd83c1eab7367c60095651509cc659a.jpg",
+      "small": "course/en/assets/3513fdc9abd83c1eab7367c60095651509cc659a.jpg",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute </a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
     },
@@ -1099,6 +928,16 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": "",
     "_items": [
@@ -1179,45 +1018,6 @@
     }
   },
   {
-    "_component": "graphic",
-    "_classes": "color-one",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Embedding data ethics tools into the project lifecycle",
-    "displayTitle": "",
-    "body": "<p dir=\"ltr\">You may have come across the excellent and widely recognised double diamond model before – based on a model proposed by Béla H. Bánáthy, and popularised by the British Design Council. So perhaps it might come as no surprise that the same methodology can be applied to data to help you understand where and when it fits within a project.</p><p dir=\"ltr\">The double diamond is a structured design approach to tackle challenges in two stages consisting of four phases: discover, define, develop and deliver.</p>",
-    "_id": "64e5ce320667765a0b978b5f",
-    "_parentId": "64e5ce320667765a0b978b26",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/645062b54a8295154dbecbd46ed9c836d3196bb0.png",
-      "small": "course/en/assets/645062b54a8295154dbecbd46ed9c836d3196bb0.png",
-      "attribution": "<a href=\"https://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -1243,33 +1043,15 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "section",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Applying the Data Ethics Maturity Model",
-    "displayTitle": "Applying the Data Ethics Maturity Model",
-    "body": "<p dir=\"ltr\">Unlike the other tools, the Data Ethics Maturity Model is not intended for specific data sets. Considering data ethics at project level is good, but deep and lasting developments must happen at organisation level. This is the focus of the Data Ethics Maturity Model. The tool helps assess and benchmark how widely embedded data ethics culture and practices are across your organisation.</p><p dir=\"ltr\">It provides a framework to consider current performance and future ambitions, to embed a culture of ethical data practices. This tool builds on the Open Data Institute’s <a href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\">Data Ethics Canvas</a>, which helps identify and manage ethical issues within a specific project, and may be particularly helpful to <a href=\"https://www.theodi.org/event_series/data-ethics-professional/\">Data Ethics Professionals</a> who are working to embed a data ethics culture within their organisation.</p><p>Materials and guidance to support your use of the <a href=\"https://www.theodi.org/article/data-ethics-maturity-model-benchmarking-your-approach-to-data-ethics/\">Data Ethics Maturity Model can be found on the ODI website</a>, shared under an open licence.</p>",
-    "_id": "64e5ce320667765a0b978b61",
-    "_parentId": "64e5ce320667765a0b978b2a",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
       "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": ""
   },
@@ -1299,6 +1081,16 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -1324,7 +1116,7 @@
     "_disableAccessibilityState": false,
     "title": "Data Ethics Maturity Model: Assessment levels",
     "displayTitle": "",
-    "body": "<p>Across the six themes, the organisation is assessed and categorised into one of five levels:</p><table class=\"levels\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:80%\"><tbody><tr><td style=\"background-color:red\">Initial</td><td style=\"background-color:#f4cccc\">Non-existent, ad-hoc or inconsistent, with no organisational oversight.</td></tr><tr><td style=\"background-color:#ff9900\">Repeatable</td><td style=\"background-color:#ffe599\">Becoming refined and repeatable, but only within individual teams or projects. No organisational standards.</td></tr><tr><td style=\"background-color:#6aa84f\">Defined</td><td style=\"background-color:#b6d7a8\">Standards formed around internal or external best practices. Knowledge starts to be shared internally, but may still not be widely adopted.</td></tr><tr><td style=\"background-color:#4a86e8\">Managed</td><td style=\"background-color:#9fc5e8\">Standards are widely adopted. Monitoring using defined metrics has begun.</td></tr><tr><td style=\"background-color:#0000ff\">Optimising</td><td style=\"background-color:#6d9eeb\">Attempting to refine and increase efficiency, and influence business sector.</td></tr></tbody></table>",
+    "body": "<p>Across the six themes, the organisation is assessed and categorised into one of five levels:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"levels\" style=\"color:white !important\"><tbody><tr><td style=\"background-color:red\">Initial</td><td style=\"background-color:#f4cccc\">Non-existent, ad-hoc or inconsistent, with no organisational oversight.</td></tr><tr><td style=\"background-color:#ff9900\">Repeatable</td><td style=\"background-color:#ffe599\">Becoming refined and repeatable, but only within individual teams or projects. No organisational standards.</td></tr><tr><td style=\"background-color:#6aa84f\">Defined</td><td style=\"background-color:#b6d7a8\">Standards formed around internal or external best practices. Knowledge starts to be shared internally, but may still not be widely adopted.</td></tr><tr><td style=\"background-color:#4a86e8\">Managed</td><td style=\"background-color:#9fc5e8\">Standards are widely adopted. Monitoring using defined metrics has begun.</td></tr><tr><td style=\"background-color:#0000ff\">Optimising</td><td style=\"background-color:#6d9eeb\">Attempting to refine and increase efficiency, and influence business sector.</td></tr></tbody></table>",
     "_id": "64e5ce320667765a0b978b64",
     "_parentId": "64e5ce320667765a0b978b2b",
     "_type": "component",
@@ -1333,6 +1125,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -1362,6 +1164,16 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
@@ -1370,14 +1182,14 @@
     "ariaQuestion": "",
     "_items": [
       {
-        "text": "Scenario 1",
+        "text": "Scenario 1: A charitable transformation",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "Scenario 2",
+        "text": "Scenario 2: The supply and demand of taxi services",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -1443,7 +1255,7 @@
     "_disableAccessibilityState": false,
     "title": "Scenario 2: Intended consequences",
     "displayTitle": "Scenario 2: Intended consequences",
-    "body": "<p dir=\"ltr\">To support your learning, we have provided the following intended and unintended consequences for your chosen case study. Please note, these are not exhaustive and there are many additional consequences that you may identify.</p><hr><p dir=\"ltr\"><strong>Your task is to review the list of intended and unintended consequences and sort them into the following categories:</strong></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><strong>Act:</strong> The things the core team can take forward and action immediately. Within these, prioritisation and time scales should be applied.</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Influence</strong>: Consequences that need to be handled by other stakeholders, either within the organisation or externally, but within reachable networks.</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Monitor: </strong>These are consequences that you cannot control, such as political climate or global trends.</p></li></ul><hr><p>There’s no right or wrong answer to these categorisations. When consequence scanning is applied to your own projects, you’ll have a much more granular understanding of what you can act upon, what you can influence and what you should monitor. For this activity, try to broaden your perspective and consider what can be reasonably assumed - this will help you to define actions in the next step.</p><p>&nbsp;</p>",
+    "body": "<div class=\"component__body-inner selectchoice__body-inner\"><p dir=\"ltr\">To support your learning, we have provided the following intended and unintended consequences for your chosen case study. Please note, these are not exhaustive and there are many additional consequences that you may identify.</p><hr><p dir=\"ltr\"><strong>Your task is to review the list of intended and unintended consequences and sort them into the following categories:</strong></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><strong>Act:</strong> The things the core team can take forward and action immediately. Within these, prioritisation and time scales should be applied.</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Influence</strong>: Consequences that need to be handled by other stakeholders, either within the organisation or externally, but within reachable networks.</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Monitor: </strong>These are consequences that you cannot control, such as political climate or global trends.</p></li></ul><hr><p>There’s no right or wrong answer to these categorisations. When consequence scanning is applied to your own projects, you’ll have a much more granular understanding of what you can act upon, what you can influence and what you should monitor. For this activity, try to broaden your perspective and consider what can be reasonably assumed - this will help you to define actions in the next step.</p><p>&nbsp;</p></div><p><strong>Select the corresponding radio button to categorise the consequences as Act, Influence or Monitor. </strong></p>",
     "_id": "64e8a6240667765a0b978bb8",
     "_parentId": "64e894b70667765a0b978bb3",
     "_type": "component",
@@ -1452,6 +1264,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -1607,11 +1429,21 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Select the corresponding radio button to categorise the consequences as Act, Influence or Monitor. ",
     "_choices": [
       {
         "text": "Act",
@@ -1773,6 +1605,16 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": "",
     "_choices": [
@@ -1937,6 +1779,16 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": "",
     "_choices": [
       {
@@ -2093,8 +1945,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Consequence Scanning Toolkit",
-    "displayTitle": "Consequence Scanning Toolkit",
+    "title": "Let’s try out the Consequence Scanning Toolkit",
+    "displayTitle": "",
     "body": "<p>Consequence Scanning is designed as an agile practice that fits within an iterative development cycle. This is a way for organisations to consider the potential consequences of their product or service on people and society. This practice is an innovation tool that also provides an opportunity to mitigate or address potential harms or disasters before they happen.</p>",
     "_id": "64e8cf070667765a0b978bd0",
     "_parentId": "64e8cf050667765a0b978bc4",
@@ -2104,6 +1956,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -2133,6 +1995,16 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
@@ -2141,137 +2013,14 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/e48e3b594a8c59544330712294d00c5b159746ca.jpg",
-      "small": "course/en/assets/e48e3b594a8c59544330712294d00c5b159746ca.jpg",
-      "attribution": "<a href=\"https://www.tech-transformed.com/wp-content/uploads/2019/05/cover-cs-event-manual@2x.jpg\" target=\"_blank\">doteveryone</a> <span class='assetLicence'>[CC-BY]</span>",
+      "large": "course/en/assets/bc7e49705a29fd0762430eea5fdfffd418cd2b8f.jpg",
+      "small": "course/en/assets/bc7e49705a29fd0762430eea5fdfffd418cd2b8f.jpg",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[Envato Element Licence]</span>",
       "_url": "",
       "_target": null
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "cards",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Card questions",
-    "displayTitle": "",
-    "body": "<p>The questions below will help your team to share knowledge and expertise in order to map the potential impact of your work. Most importantly, these questions are designed to be asked to a varied group of stakeholders ensuring that everyone has the opportunity to input into the project.</p>",
-    "_id": "64e8cf070667765a0b978bd4",
-    "_parentId": "64e8cf050667765a0b978bc5",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_setCompletionOn": "allItems",
-    "_animateItems": false,
-    "_hasClickButton": false,
-    "_percentInviewVertical": 20,
-    "_transitionSpeed": 200,
-    "_columns": null,
-    "_itemMinHeight": 5,
-    "_autoSetHeight": false,
-    "_scrollPadding": 0,
-    "_items": [
-      {
-        "title": "",
-        "body": "<p>What are the intended and unintended consequences?</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": false,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      },
-      {
-        "title": "",
-        "body": "<p>What are the positive consequences to focus on?</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": false,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      },
-      {
-        "title": "",
-        "body": "<p>What are the consequences we want to mitigate?</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": false,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      }
-    ]
   },
   {
     "_component": "text",
@@ -2285,7 +2034,7 @@
     "_disableAccessibilityState": false,
     "title": "Intended and unintended consequences",
     "displayTitle": "Intended and unintended consequences",
-    "body": "<p dir=\"ltr\"><strong>Intended consequences</strong> describe your purpose: What are you trying to achieve? What is the positive goal of the project? Who will be positively impacted?&nbsp;</p><p><strong>Unintended consequences</strong> describe the potential side-effects of your project and focus on who could be negatively impacted or excluded from your project, impact on wider society, economy or even environment</p>",
+    "body": "\t<div class=\"highlight-box\">\n\t\t<div class=\"consequence-section\">\n\t\t\t<span class=\"new-key-term\">Intended Consequences:</span>\n\t\t\t<p>Describe your purpose. What are you trying to achieve? What is the positive goal of the project? Who will\n\t\t\t\tbe positively impacted?</p>\n\t\t</div>\n    </div>\n\t<div class=\"highlight-box\">\n\t\t<div class=\"consequence-section\">\n\t\t\t<span class=\"new-key-term\">Unintended Consequences:</span>\n\t\t\t<p>Describe the potential side-effects of your project and focus on who could be negatively impacted or\n\t\t\t\texcluded from your project. Consider the impact on wider society, the economy, or even the environment.\n\t\t\t</p>\n\t\t</div>\n\t</div>",
     "_id": "64e8cf070667765a0b978bd5",
     "_parentId": "64e8cf050667765a0b978bc6",
     "_type": "component",
@@ -2294,6 +2043,16 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -2323,17 +2082,27 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Unintended consequences",
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/e248fe86e43a11827a1143b92a0ebf1b7818566e.jpg",
-      "small": "course/en/assets/e248fe86e43a11827a1143b92a0ebf1b7818566e.jpg",
-      "attribution": "<a href=\"https://unsplash.com/photos/8QgQnUhYs7w\" target=\"_blank\">Ivan Aleksic</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/6d579205869ebd29a2e12879dbccbda76b7601c9.png",
+      "small": "course/en/assets/6d579205869ebd29a2e12879dbccbda76b7601c9.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
     },
@@ -2356,7 +2125,7 @@
     "_id": "64e8cf080667765a0b978bd9",
     "_parentId": "64e8cf050667765a0b978bc7",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -2365,6 +2134,16 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": "Choose your answer, then click 'Submit'",
     "ariaQuestion": "",
@@ -2454,7 +2233,7 @@
     "_id": "64e8cf080667765a0b978bda",
     "_parentId": "64e8cf050667765a0b978bc7",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -2463,6 +2242,16 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": "Choose your answer, then click 'Submit'",
     "ariaQuestion": "",
@@ -2562,6 +2351,16 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": ""
   },
   {
@@ -2590,6 +2389,16 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -2602,129 +2411,6 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "cards",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Consequence scanning: deciding what to do",
-    "displayTitle": "Consequence scanning: deciding what to do",
-    "body": "<p>Once your team has had the opportunity to explore the intended and unintended consequences and rated those highest in risk. You can then group these consequences into the following categories:</p>",
-    "_id": "64e8cf080667765a0b978bdf",
-    "_parentId": "64e8cf060667765a0b978bc9",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Click the card to reveal more",
-    "_setCompletionOn": "allItems",
-    "_animateItems": false,
-    "_hasClickButton": false,
-    "_percentInviewVertical": 20,
-    "_transitionSpeed": 200,
-    "_columns": 3,
-    "_itemMinHeight": 0,
-    "_autoSetHeight": false,
-    "_scrollPadding": 0,
-    "_items": [
-      {
-        "title": "ACT",
-        "body": "<p>What is your immediate responsibility?</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "<p>The things the core team can take forward and action immediately. Within these, prioritisation and time scales should be applied.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      },
-      {
-        "title": "INFLUENCE",
-        "body": "<p>Where do you take responsibility?&nbsp;</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "<p>Consequences that need to be handled by other stakeholders, either within the organisation or externally, but within reachable networks.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      },
-      {
-        "title": "MONITOR",
-        "body": "<p>Where do you not take any responsibility yet?</p>",
-        "_graphic": {
-          "src": "",
-          "alt": ""
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": ""
-          },
-          "_close": {
-            "buttonText": "close",
-            "ariaLabel": ""
-          }
-        },
-        "description": {
-          "title": "",
-          "body": "<p>These are consequences that you cannot control, such as political climate or global trends.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      }
-    ]
   },
   {
     "_component": "accordion",
@@ -2751,6 +2437,16 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "instruction": "Your first task is to choose one scenario that captures your interest. Understand the case study and its objectives. Select the headings to find out more.",
     "_setCompletionOn": "allItems",
@@ -2782,6 +2478,264 @@
     "_shouldExpandFirstItem": false
   },
   {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Consequence scanning: deciding what to do",
+    "displayTitle": "Consequence scanning: deciding what to do",
+    "body": "<p>Once your team has had the opportunity to explore the intended and unintended consequences and rated those highest in risk. You can then group these consequences into the following categories:</p>",
+    "_id": "64f72d8694389ef9d9f955a7",
+    "_parentId": "64e8cf060667765a0b978bc9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/92da24455d5dbec7a668250cb6066ab6bb9376fe.png",
+      "small": "course/en/assets/92da24455d5dbec7a668250cb6066ab6bb9376fe.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Act, influence and montior",
+    "displayTitle": "",
+    "body": "<p>From this point, you can articulate the required roles and responsibilities, allocate the actions and start implementing them against your projects.</p>",
+    "_id": "64f72ec294389ef9d9f955b8",
+    "_parentId": "64f72eb294389ef9d9f955b7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the next and back arrows to find out more.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Act",
+        "_ariaLevel": 0,
+        "body": "<p>The things the core team can take forward and action immediately. Within these, prioritisation and time scales should be applied.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1cfa7389bcbeed95ccac2199f0de228a456495c0.png",
+          "alt": "",
+          "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Act"
+      },
+      {
+        "title": "Influence",
+        "_ariaLevel": 0,
+        "body": "<p>Consequences that need to be handled by other stakeholders, either within the organisation or externally, but within reachable networks.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ac11fbf2674f1ecd9ca51f7650a98f4a1a2701e3.png",
+          "alt": "",
+          "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Influence"
+      },
+      {
+        "title": "Montior",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">These are consequences that you cannot control, such as political climate or global trends.</p>",
+        "_graphic": {
+          "src": "course/en/assets/615ea4dfbe6e53558739e80b995ea23b8a13e3b0.png",
+          "alt": "",
+          "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Montior"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How to use the consequence scanning toolkit",
+    "displayTitle": "",
+    "body": "<p>The&nbsp;questions below help your team to share knowledge and expertise in order to map the potential impact of your work. Most importantly, these questions are designed to be asked to a varied group of stakeholders ensuring that everyone has the opportunity to input into the project.</p>",
+    "_id": "64f732d694389ef9d9f955bf",
+    "_parentId": "64e8cf050667765a0b978bc5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/9ca57e557c063801aacac0e02a39ed526b19ca41.png",
+      "small": "course/en/assets/9ca57e557c063801aacac0e02a39ed526b19ca41.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The four sections of the data ethics canvas",
+    "displayTitle": "The four sections of the data ethics canvas",
+    "body": "",
+    "_id": "64f7422b94389ef9d9f955c6",
+    "_parentId": "64e5ce320667765a0b978b13",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_tabLayout": "horizontal",
+    "_items": [
+      {
+        "tabTitle": "Assess the data",
+        "title": "Assess the data",
+        "body": "<p>By asking you to assess the data sources, their limitations, the rights and legislative context of data collection, use, and share that apply to your sector.</p>",
+        "_classes": "pink",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Identify the impact",
+        "title": "Identify the impact",
+        "body": "<p>By asking you to identify your reasons for using data to develop this service/product, the potential positive and negative impact on people and society, and the potential approaches to minimise negative harm.</p>",
+        "_classes": "green",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Evaluate the engagement",
+        "title": "Evaluate the engagement",
+        "body": "<p dir=\"ltr\">Challenges you to think about the people involved, your approaches to communication and transparency.</p>",
+        "_classes": "orange",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Decide the process",
+        "title": "Decide the process",
+        "body": "<p>Helps you decide on the next steps: what should you prioritise, when will you iterate, do you need training, etc.</p>",
+        "_classes": "blue",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -2791,11 +2745,11 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Taking action on consequences",
-    "displayTitle": "Taking action on consequences",
-    "body": "<p dir=\"ltr\">Categorising the consequences into <strong>ACT</strong>, <strong>INFLUENCE</strong> and <strong>MONITOR</strong> aids in creating focused action plans for these consequences. This helps to promote the positive outcomes, but mitigate the negative potential of others.&nbsp;</p><p dir=\"ltr\">The next step is to plan actions that support making the consequences in these areas to be more positive than negative. Actions should be direct and focus on the on-going impact to people and society. They should also be clear on the benefit of the consequence, or the risk and what it means to be mitigated.</p><hr><p>&nbsp;</p><p dir=\"ltr\"><strong>When creating action is is useful to consider the following:</strong></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><em>What could this mean to the consumers of your product? Have you considered security, reliability and support?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>What does this mean for wellbeing or relationships? Who else does your user experience the product with?</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>What does the consequence mean if it was applied across the world? What is the effect on different communities?&nbsp;</em></p></li><li dir=\"ltr\"><p dir=\"ltr\"><em>Are there any differences between professional and personal lives? What might this mean in different geographic contexts?</em></p></li></ul><p dir=\"ltr\">&nbsp;</p><p><hr>Remember, consequence scanning is a high-level and holistic approach to evaluating your data project. Actions you define at this stage do not need to be all encompassing or solve every issue. They are to be used as an anchor point to support your future design, development and implementation.</p><p>&nbsp;</p><p dir=\"ltr\">We are not asking you to define your actions here, but take a moment to think about them before proceeding.</p>",
-    "_id": "64ef01380667765a0b978bef",
-    "_parentId": "64ef01330667765a0b978bee",
+    "title": "Barclays building trust through data ethics",
+    "displayTitle": "Barclays building trust through data ethics",
+    "body": "<div class=\"barclays-container\">\n        <p class=\"intro\">Let’s take a look at an example of the Data Ethics Canvas being used in practice.</p>\n        <p>Barclays UK wants to work with data in a way that <span class=\"highlight\">builds trust</span> with customers and society. They also want to document their decisions around data and data ethics in a standardised, consistent way.</p>\n        <blockquote>It’s important for customers to trust us with their data at the same level as they do with their money.</blockquote>\n        <p>To achieve this goal, Barclays decided to use the <span class=\"highlight\">Data Ethics Canvas</span>...</p>\n        <p>The Data Ethics Canvas has been fully embraced, enabling Barclays to build up a substantial library of use cases...</p>\n        <p class=\"conclusion\">Barclays UK received external recognition of its work in this field, having won the ‘Best Data and AI Ethics Initiative’ category in the 2021 DataIQ Awards.</p>\n    </div>",
+    "_id": "64f7436794389ef9d9f955ca",
+    "_parentId": "64f7436694389ef9d9f955c9",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2803,8 +2757,18 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -2821,15 +2785,171 @@
     "_disableAccessibilityState": false,
     "title": "Data Ethics Maturity Model",
     "displayTitle": "Data Ethics Maturity Model",
-    "body": "<p>Unlike the other two tools, this is not intended for specific data sets, but is more overarching</p><p dir=\"ltr\">Considering data ethics at project level is good, but deep and lasting developments must happen at organisation level. This is the focus of the Data</p>",
-    "_id": "64ef3cf00667765a0b978bf9",
-    "_parentId": "64ef3ce80667765a0b978bf8",
+    "body": "<p dir=\"ltr\">Unlike the other tools, the Data Ethics Maturity Model is not intended for specific data sets. Considering data ethics at project level is good, but deep and lasting developments must happen at organisation level. This is the focus of the Data Ethics Maturity Model. The tool helps assess and benchmark how widely embedded data ethics culture and practices are across your organisation.</p><p dir=\"ltr\">It provides a framework to consider current performance and future ambitions, to embed a culture of ethical data practices. This tool builds on the Open Data Institute’s <a href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\">Data Ethics Canvas</a>, which helps identify and manage ethical issues within a specific project, and may be particularly helpful to <a href=\"https://www.theodi.org/event_series/data-ethics-professional/\">Data Ethics Professionals</a> who are working to embed a data ethics culture within their organisation.</p><p>Materials and guidance to support your use of the <a href=\"https://www.theodi.org/article/data-ethics-maturity-model-benchmarking-your-approach-to-data-ethics/\">Data Ethics Maturity Model can be found on the ODI website</a>, shared under an open licence.</p>",
+    "_id": "64f7446694389ef9d9f955cc",
+    "_parentId": "64f7446294389ef9d9f955cb",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Scenario 1: Taking action on the consequences",
+    "displayTitle": "Scenario 1: Taking action on the consequences",
+    "body": "        <p>Categorising the consequences into <span class=\"key-term\">ACT</span>, <span class=\"key-term\">INFLUENCE</span>, and <span class=\"key-term\">MONITOR</span> aids in creating focused action plans for these consequences. This helps to promote the positive outcomes but mitigate the negative potential of others.</p>\n        \n        <p>The next step is to plan actions that support making the consequences in these areas more positive than negative. Actions should be direct and focus on the ongoing impact on people and society. They should also be clear on the benefit of the consequence, or the risk and what it means to be mitigated.</p>\n\n        <div class=\"highlight-box\">\n            <strong>When creating action it is useful to consider the following:</strong>\n            <ul>\n                <li>What could this mean to the consumers of your product? Have you considered security, reliability, and support?</li>\n                <li>What does this mean for well-being or relationships? Who else does your user experience the product with?</li>\n                <li>What does the consequence mean if it was applied across the world? What is the effect on different communities?</li>\n                <li>Are there any differences between professional and personal lives? What might this mean in different geographic contexts?</li>\n            </ul>\n        </div>\n        \n        <p>Remember, consequence scanning is a high-level and holistic approach to evaluating your data project. Actions you define at this stage do not need to be all-encompassing or solve every issue. They are to be used as an anchor point to support your future design, development, and implementation.</p>\n\n        <p class=\"call-to-action\">We are not asking you to define your actions here, but take a moment to think about them before proceeding. When you’re ready, open the accordion below and see how your actions differ from the ones we’ve created.</p>\n",
+    "_id": "64f8676894389ef9d9f955da",
+    "_parentId": "64f8671b94389ef9d9f955d8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Case Study 1: A charitable donation (possible actions)",
+        "body": "<div class=\"case-study\">\n\t<p>Given the consequences identified (both positive and negative), the charity could take the following actions:</p>\n\n\t<ul class=\"actions-list\">\n\t\t<li>Define clear permissions and user groups to ensure that any access to systems by stakeholders is managed and that only\n\t\trelevant data can be accessed, used or shared.</li>\n\t\t<li>Implement new/improved data schemas once data is consolidated to ensure that data is managed effectively and sustainably\n\t\tmaintained in the longer term.</li>\n\t\t<li>Reduce profiling activities of service users to and research additional approaches to reviewing suitability of animal adoption.</li>\n\t<li>Improve IT security resources to ensure appropriate backup systems to reduce risk of data loss and/or breach.</li>\n\t\t<li>Design and implement communication and training plans as a process of change management. The focus points should be on\n\t\ttransparency and clarity of purpose to ensure that stakeholders understand the what, why and how of the programme and be\n\t\tsufficiently supported in developing new skills.</li>\n\t</ul>\n\n\t<p class=\"note\">Of course, these are only a few of the actions that the organisation could take forward. Some\n\t\tactions are technical, while others are organisational and process-driven.</p>\n\n\t<p class=\"conclusion\">Finally, the implementation of a change management plan focuses on stakeholder engagement. A\n\t\tbroad range of activities are required to support and engage stakeholders in order to maintain trust.</p>\n</div>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "remove-margin",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Scenario 2: Taking action on the consequences",
+    "displayTitle": "Scenario 2: Taking action on the consequences",
+    "body": "     <p>Categorising the consequences into <span class=\"key-term\">ACT</span>, <span class=\"key-term\">INFLUENCE</span>, and <span class=\"key-term\">MONITOR</span> aids in creating focused action plans for these consequences. This helps to promote the positive outcomes but mitigate the negative potential of others.</p>\n        \n        <p>The next step is to plan actions that support making the consequences in these areas more positive than negative. Actions should be direct and focus on the ongoing impact on people and society. They should also be clear on the benefit of the consequence, or the risk and what it means to be mitigated.</p>\n\n        <div class=\"highlight-box\">\n            <strong>When creating action it is useful to consider the following:</strong>\n            <ul>\n                <li>What could this mean to the consumers of your product? Have you considered security, reliability, and support?</li>\n                <li>What does this mean for well-being or relationships? Who else does your user experience the product with?</li>\n                <li>What does the consequence mean if it was applied across the world? What is the effect on different communities?</li>\n                <li>Are there any differences between professional and personal lives? What might this mean in different geographic contexts?</li>\n            </ul>\n        </div>\n        \n        <p>Remember, consequence scanning is a high-level and holistic approach to evaluating your data project. Actions you define at this stage do not need to be all-encompassing or solve every issue. They are to be used as an anchor point to support your future design, development, and implementation.</p>\n\n        <p class=\"call-to-action\">We are not asking you to define your actions here, but take a moment to think about them before proceeding. When you’re ready, open the accordion below and see how your actions differ from the ones we’ve created.</p>",
+    "_id": "64f86bee94389ef9d9f955dd",
+    "_parentId": "64f86bee94389ef9d9f955dc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Case Study 2: The supply and demand of taxi services (possible actions)",
+        "body": "<p>There are both positive and negative outcomes from this type of data-driven dynamic pricing model. To ensure positive outcomes and mitigate any potential harm, the taxi firm could do the following:</p>\n<ul>\n<li>Implement a cap on surge pricing to ensure that, despite rapid increases in demand, service users are not unfairly targeted by price rises due to events out of their control.</li>\n<li>Implement standardisation of direct earnings for drivers as a percentage of the base fare where drivers can earn improved fares in areas that are in low demand to support fair coverage of service. Similar processes can be applied to time of day to maintain purported flexibility in driver work/life balance.</li>\n<li>Implement data collection measures for air quality and environment with incentives and appropriate support for drivers to use more environmentally friendly vehicles.</li>\n<li>Implement anonymisation methods to data collected about people and their journeys. Randomisation and generalisation methods can ensure that data utility is maintained, and suppression of high risk data points can be used to maintain privacy.&nbsp;</li>\n</ul>\n<p>These are just a few of the possible actions that could be taken, and as you can see, not all of them are directly about data - although they may be informed by or inform what data is used, collected and shared. It may be that some of these actions are deemed low priority, and although the consequence has been identified, it is also deemed to be a low risk to the organisation. Regardless, there is plenty more work to be done to ensure positive outcomes where possible.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "text",
+    "_classes": "banner",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of actions",
+    "displayTitle": "",
+    "body": "<div class=\"callout-box\"><p>One of the important lessons here is that the recommendations and actions you derive in your discussions with stakeholders will not always lead to positive outcomes, or mitigate the negative consequences. Sometimes, it is a case of balancing the risk of the consequence and the efforts required to implement change.&nbsp;</p><p>The actions we define are purely the first step. More research may be required, or preparatory activities to enable the longer term gains. Before any major changes to your working processes or project it is necessary to evaluate the potential of these actions and ensure that you do not inadvertently cause further harm or distress.</p></div>",
+    "_id": "64f86e3894389ef9d9f955df",
+    "_parentId": "64f86e1194389ef9d9f955de",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -2847,17 +2967,27 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Data Ethics Canvas",
-    "displayTitle": "Data Ethics Canvas",
-    "body": "<p>For deep consideration of a project. It is divided into four areas: ‘Data’, ‘Impact’, ‘Engagement’ and ‘Process’. This is a tool to focus discussions from ideation to implementation, and considers everything from purpose to effects, as well as how to monitor and iterate.</p>",
-    "_id": "64ef3e000667765a0b978bfb",
-    "_parentId": "64ef3dfa0667765a0b978bfa",
+    "title": "The Data Ethics Canvas",
+    "displayTitle": "The Data Ethics Canvas",
+    "body": "<p>The Data Ethics Canvas helps teams to have a guided discussion to identify the positive and negative impacts of their data project on people and society. It's a tool for anyone who collects, shares or uses data. It helps identify and manage ethical issues - in both the promotion of positive outcomes and mitigation of negative outcomes.</p>",
+    "_id": "64f86f7594389ef9d9f955e1",
+    "_parentId": "64e5ce320667765a0b978b0e",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -2866,7 +2996,7 @@
     "instruction": ""
   },
   {
-    "_component": "graphic",
+    "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2875,11 +3005,11 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Data ethics maturity model graphic",
-    "displayTitle": "",
+    "title": "Project Level",
+    "displayTitle": "Project Level",
     "body": "",
-    "_id": "64ef3ef70667765a0b978bfc",
-    "_parentId": "64ef3ce80667765a0b978bf8",
+    "_id": "65005f8794389ef9d9f9567a",
+    "_parentId": "65005f7f94389ef9d9f95679",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -2887,25 +3017,51 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/18070442332608ea7c63acaf74b741ecba7241b9.png",
-      "small": "course/en/assets/18070442332608ea7c63acaf74b741ecba7241b9.png",
-      "attribution": "<a href=\"https://www.theodi.org/article/data-ethics-maturity-model-benchmarking-your-approach-to-data-ethics/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Consequence Scanning",
+        "body": "<p dir=\"ltr\">For a quick assessment of a project, with particular emphasis on the intended and unintended consequences on people, communities and the planet. It provides an opportunity to enhance positive consequences, and to mitigate or address potential harms from negative consequences before they happen. It considers what can be acted upon, what can be influenced, and how to monitor.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data Ethics Canvas",
+        "body": "<p>For deep consideration of a project. It is divided into four areas: ‘Data’, ‘Impact’, ‘Engagement’ and ‘Process’. This is a tool to focus discussions from ideation to implementation, and considers everything from purpose to effects, as well as how to monitor and iterate.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
-    "_component": "graphic",
+    "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2914,11 +3070,11 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "DE graphic building",
-    "displayTitle": "",
+    "title": "Organisational Level",
+    "displayTitle": "Organisational Level",
     "body": "",
-    "_id": "64ef3fac0667765a0b978bff",
-    "_parentId": "64ef3dfa0667765a0b978bfa",
+    "_id": "6500606c94389ef9d9f9567b",
+    "_parentId": "65005f7f94389ef9d9f95679",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -2926,88 +3082,36 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/cfdeb5a685e5c413707ed9b35b8481ab32aa4ac6.jpg",
-      "small": "course/en/assets/cfdeb5a685e5c413707ed9b35b8481ab32aa4ac6.jpg",
-      "attribution": "<a href=\"https://unsplash.com/photos/6psstU2DLKs\" target=\"_blank\">David East</a> <span class='assetLicence'>[CC0]</span>",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Consequence scanning toolkit",
-    "displayTitle": "Conseuqence scanning toolkit",
-    "body": "<p>For a quick assessment of a project, with particular emphasis on the intended and unintended consequences on people, communities and the planet. It provides an opportunity to enhance positive consequences, and to&nbsp;mitigate or address potential harms from negative consequences before they happen. It considers what can be acted upon, what can be influenced, and how to monitor.</p>",
-    "_id": "64ef40180667765a0b978c03",
-    "_parentId": "64ef40080667765a0b978c02",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
       "_classes": "",
-      "_percentInviewVertical": 50
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Consequence Scanning Toolkit Graphic",
-    "displayTitle": "",
-    "body": "",
-    "_id": "64ef40260667765a0b978c04",
-    "_parentId": "64ef40080667765a0b978c02",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/f9ef4032a6e4dc799bab35e53563d9be489ec418.jpg",
-      "small": "course/en/assets/f9ef4032a6e4dc799bab35e53563d9be489ec418.jpg",
-      "attribution": "<a href=\"https://unsplash.com/photos/3V8xo5Gbusk\" target=\"_blank\">Kaleidico</a> <span class='assetLicence'>[CC0]</span>",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data Ethics Maturity Model",
+        "body": "<p dir=\"ltr\">Unlike the other two tools, this is not intended for specific data sets, but is more overarching</p><p>Considering data ethics at project level is good, but deep and lasting developments must happen at organisation level. This is the focus of the Data Ethics Maturity Model. This tool provides a means to assess and benchmark an organisation’s effectiveness with data ethics, divided into six themes and five levels of maturity.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   }
 ]

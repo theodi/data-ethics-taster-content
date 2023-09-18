@@ -144,6 +144,10 @@
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_hide": {
       "_isEnabled": false,
       "_isDynamic": true,
@@ -151,17 +155,13 @@
       "_onClasses": "",
       "_proxyId": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/8cfb57f3093169df4877d51ce2e9e7bc721408d0.jpg",
+      "small": "course/en/assets/8cfb57f3093169df4877d51ce2e9e7bc721408d0.jpg",
+      "attribution": "<a href=\"https://elements.envato.com/close-up-view-of-human-green-eye-with-data-illustr-34JTMW7\" target=\"_blank\">LightFieldStudios</a> <span class='assetLicence'>[Envato Element Licence]</span>",
       "_url": "",
       "_target": null
     },
@@ -256,6 +256,10 @@
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_hide": {
       "_isEnabled": false,
       "_isDynamic": true,
@@ -263,16 +267,12 @@
       "_onClasses": "",
       "_proxyId": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/4450648f1ced09efeb257498cdb779e1a1595641.png",
-      "small": "course/en/assets/4450648f1ced09efeb257498cdb779e1a1595641.png",
+      "large": "course/en/assets/e68719240d8b66b3b087182332e049d4c4f33618.png",
+      "small": "course/en/assets/e68719240d8b66b3b087182332e049d4c4f33618.png",
       "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span>",
       "_url": "",
       "_target": null
@@ -393,7 +393,7 @@
     "_disableAccessibilityState": false,
     "title": "What is data ethics?",
     "displayTitle": "",
-    "body": "<blockquote><p dir=\"ltr\" style=\"text-align:center\"><em>Data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact on people and society.</em></p><p dir=\"ltr\" style=\"text-align:center\"></p></blockquote><p dir=\"ltr\" style=\"text-align:right\"><strong>- Open Data Institute</strong></p>",
+    "body": "<blockquote><p dir=\"ltr\" style=\"text-align:center\"><em>Data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact on people and society&nbsp;</em><strong>—</strong> in data collection, sharing and use.</p><p dir=\"ltr\" style=\"text-align:center\">&nbsp;</p></blockquote><p dir=\"ltr\" style=\"text-align:right\"><strong>- Open Data Institute</strong></p>",
     "_id": "64f0959f94389ef9d9f9551b",
     "_parentId": "64f094220667765a0b978e47",
     "_type": "component",
@@ -413,16 +413,16 @@
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_hide": {
       "_isEnabled": false,
       "_isDynamic": true,
       "_onMediaQuery": "",
       "_onClasses": "",
       "_proxyId": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -438,7 +438,7 @@
     "_disableAccessibilityState": false,
     "title": "What this means for organisations",
     "displayTitle": "What this means for organisations",
-    "body": "<p>At the ODI, we focus on changing the behaviour of companies and governments in their roles as stewards, creators and decision makers, emphasising activities early in the value chain.</p><ul><li>Stewarding data – collecting it, maintaining it and sharing it</li><li>Creating information from that data – in the form of products and services, analysis and insights, or stories and visualisations</li><li>Deciding what to do – informed by information from multiple sources along with experience and understanding</li></ul><p>The behaviour of those who steward data, create information from it, and decide what to do based on this knowledge, is influenced by other kinds of organisations. To build a culture of openness and trust around data, we have to work with and through them.</p>",
+    "body": "<p>At the ODI, we focus on changing the behaviour of companies and governments in their roles as stewards, creators and decision makers, emphasising activities early in the value chain.</p><ul><li><strong>Stewarding data</strong> – collecting it, maintaining it and sharing it</li><li><strong>Creating information from that data</strong> – in the form of products and services, analysis and insights, or stories and visualisations</li><li><strong>Deciding what to do</strong> – informed by information from multiple sources along with experience and understanding</li></ul><p>The behaviour of those who steward data, create information from it, and decide what to do based on this knowledge, is influenced by other kinds of organisations. To build a culture of openness and trust around data, we have to work with and through them.</p>",
     "_id": "64f0971b94389ef9d9f95521",
     "_parentId": "64f096fc94389ef9d9f9551f",
     "_type": "component",
@@ -503,6 +503,10 @@
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_hide": {
       "_isEnabled": false,
       "_isDynamic": true,
@@ -510,17 +514,13 @@
       "_onClasses": "",
       "_proxyId": ""
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "instruction": "",
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>",
+      "large": "course/en/assets/2eacc15a692bb9ea91d963fd1c9b936af7e00f57.jpg",
+      "small": "course/en/assets/2eacc15a692bb9ea91d963fd1c9b936af7e00f57.jpg",
+      "attribution": "<a href=\"https://elements.envato.com/group-of-workers-gathered-to-make-decisions-about--JUFCCLZ\" target=\"_blank\">isitophotostock</a> <span class='assetLicence'>[Envato Element Licence]</span>",
       "_url": "",
       "_target": null
     },
