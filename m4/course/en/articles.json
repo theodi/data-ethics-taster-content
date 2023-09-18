@@ -331,7 +331,7 @@
       "_scoreToPass": 60,
       "_correctToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 0.2,
+      "_assessmentWeight": 1,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -351,10 +351,6 @@
         "_canShowMarking": true,
         "_canShowModelAnswer": true
       }
-    },
-    "_branching": {
-      "_isEnabled": false,
-      "_start": "64e893a00667765a0b978bac"
     },
     "_trickle": {
       "_isEnabled": false,
@@ -385,6 +381,10 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_isEnabled": false,
+      "_start": "64e893a00667765a0b978bac"
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -453,7 +453,7 @@
       }
     },
     "_trickle": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_autoScroll": false,
       "_scrollDuration": 500,
       "_onChildren": false,
@@ -531,7 +531,7 @@
       "_scoreToPass": 60,
       "_correctToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 0.2,
+      "_assessmentWeight": 1,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,

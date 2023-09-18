@@ -11,7 +11,7 @@
     "_disableAccessibilityState": false,
     "title": "Why is data ethics important?",
     "displayTitle": "Why is data ethics important?",
-    "body": "<p>In our modern digital age, data has become an invaluable resource, driving innovation and shaping every facet of society. However, unethical data practices can lead to discrimination, unintended harmful consequences, and exacerbate societal inequalities. This can lead to people losing trust in data and the products and services that use it.</p><p>In this module we explore why data ethics is important, and examine real-world examples of what can happen when data ethics is not considered and the challenges this creates. In this module you will:</p><ul dir=\"ltr\"><li>Explore the impact of unethical data practices</li><li>Develop your understanding of data ethics and how it applies across the data lifecycle</li><li>Reflect on your own professional practice, and examine how data ethics applies in your context</li></ul>",
+    "body": "<p>In our modern digital age, data has become an invaluable resource, driving innovation and shaping every facet of society. However, unethical data practices can lead to discrimination, unintended harmful consequences, and exacerbate societal inequalities. This can lead to people losing trust in data and the products and services that use it.</p><p>In this module,&nbsp;we explore why data ethics is important, and examine real-world examples of what can happen when data ethics is not considered and the challenges this creates. In this module, you will:</p><ul dir=\"ltr\"><li>Explore the impact of unethical data practices</li><li>Develop your understanding of data ethics and how it applies across the data lifecycle</li><li>Reflect on your own professional practice, and examine how data ethics applies in your context</li></ul>",
     "_id": "64f1c12c94389ef9d9f9555d",
     "_parentId": "64f1c12b94389ef9d9f95552",
     "_type": "component",
@@ -152,27 +152,49 @@
     "_disableAccessibilityState": false,
     "title": "But remember, it’s not all bad!",
     "displayTitle": "But remember, it’s not all bad!",
-    "body": "<p>Data ethics is about evaluating the practices related to the collection, sharing and use of data. It&rsquo;s the process of identifying potential risks, as well as understanding what mitigating measures could be implemented, but ultimately, it&rsquo;s about making informed decisions about data we use and the outcomes we are responsible for.</p><p>There are many unethical examples, but equally as important are the examples of positive impact.</p>",
+    "body": "<p>Data ethics is about evaluating the practices related to the collection, sharing and use of data. It’s the process of identifying potential risks, as well as understanding what mitigating measures could be implemented, but ultimately, it’s about making informed decisions about data we use and the outcomes we are responsible for.</p><p>There are many unethical examples, but equally as important are the examples of positive impact.</p>",
     "_id": "64f1c12c94389ef9d9f95561",
     "_parentId": "64f1c12b94389ef9d9f95556",
     "_type": "component",
     "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_graphicExpand": {
+      "_isEnabled": false,
+      "_selector": "",
+      "_button": {
+        "buttonText": "",
+        "ariaLabel": "",
+        "iconClass": "icon-expand_1"
+      }
     },
     "instruction": "Select the headings to find out more.",
-    "_shouldCollapseItems": true,
-    "_shouldExpandFirstItem": false,
-    "_comment": "setCompletionOn = inview | allItems",
     "_setCompletionOn": "allItems",
     "_items": [
       {
         "title": "Disease outbreak Prediction: Flowmind",
-        "body": "<p>During the Ebola outbreak in West Africa, mobile phone data was used to track population movement and predict the spread of the disease, helping health organisations respond effectively while minimising privacy concerns.</p> <p>The organisation behind using mobile phone data to track and predict the spread of Ebola during the outbreak in West Africa was Flowminder Foundation. Flowminder is a non-profit organisation that specialises in using big data for public health and development purposes. They collaborated with mobile phone operators and health organisations to collect and analyse anonymised and aggregated mobile phone data to understand population movement and aid in disease outbreak response by sharing relevant insights with the appropriate bodies.</p> <h3>Further Reading</h3> <p><a href=\\\"https://www.technologyreview.com/2014/08/22/250264/cell-phone-data-might-help-predict-ebolas-spread/#:~:text=A%20West%20African%20mobile%20carrier,predict%20the%20spread%20of%20Ebola.\\&amp;text=The%20new%20model%20helped%20Flowminder,of%20people%20across%20West%20Africa\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Cell-Phone Data Might Help Predict Ebola\\&rsquo;s Spread | MIT Technology Review</a></p> <p><a href=\\\"https://obamawhitehouse.archives.gov/blog/2014/10/29/innovating-fight-ebola\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Innovating to Fight Ebola | whitehouse.gov</a></p>",
+        "body": "<p>During the Ebola outbreak in West Africa, mobile phone data was used to track population movement and predict the spread of the disease, helping health organisations respond effectively while minimising privacy concerns.</p><p>The organisation behind using mobile phone data to track and predict the spread of Ebola during the outbreak in West Africa was Flowminder Foundation. Flowminder is a non-profit organisation that specialises in using big data for public health and development purposes. They collaborated with mobile phone operators and health organisations to collect and analyse anonymised and aggregated mobile phone data to understand population movement and aid in disease outbreak response by sharing relevant insights with the appropriate bodies.</p><p>Further Reading</p><p><a href=\"https://www.technologyreview.com/2014/08/22/250264/cell-phone-data-might-help-predict-ebolas-spread/#:~:text=A%20West%20African%20mobile%20carrier,predict%20the%20spread%20of%20Ebola.&amp;text=The%20new%20model%20helped%20Flowminder,of%20people%20across%20West%20Africa\" rel=\"\\&quot;noopener\\&quot;\" target=\"\\&quot;_blank\\&quot;\">Cell-Phone Data Might Help Predict Ebola\\’s Spread | MIT Technology Review</a></p><p><a href=\"https://obamawhitehouse.archives.gov/blog/2014/10/29/innovating-fight-ebola\" rel=\"\\&quot;noopener\\&quot;\" target=\"\\&quot;_blank\\&quot;\">Innovating to Fight Ebola | whitehouse.gov</a></p>",
         "_imageAlignment": "full",
         "_graphic": {
-          "src": "",
           "alt": "",
+          "src": "",
           "attribution": ""
         },
         "_classes": ""
@@ -188,7 +210,9 @@
         },
         "_classes": ""
       }
-    ]
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "mcq",
@@ -570,7 +594,7 @@
     "_disableAccessibilityState": false,
     "title": "Reflecting on your own ethical practice",
     "displayTitle": "Reflecting on your own ethical practice",
-    "body": "<p>Consider what data you use in your professional practice. Do you build products, or deliver services? Maybe you collect and analyse data to share with a range of stakeholders?</p>\n\n<p><strong>Whatever your purpose is, the data you use has come from somewhere. Now, ask yourself, did you collect the data? If so:</strong></p>\n\n<ul>\n\t<li><em>What methods did you use for data collection?</em></li>\n\t<li><em>How confident are you in the accuracy and reliability of this data?</em></li>\n</ul>\n<hr>\n<p><strong>But, what if you didn’t directly collect the data. Instead, you may have collated that data from elsewhere. In which case, change the framing of the prompts:</strong></p>\n\n<ul>\n\t<li><em>Considering the data you've compiled:</em></li>\n\t<li><em>How do you ensure the accuracy and consistency of the aggregated data?</em></li>\n\t<li><em>Are there challenges in reconciling disparate data sources?</em></li>\n</ul>\n\n<p>With this in mind, are you fully aware of the potential risks associated with your data, whether that is how you use it, or the misuse of someone it has been shared with? Maybe there are unforeseen users who are delivering positive outcomes?</p>\n\n<hr>\n\n<p><em><strong>What will you do to promote positive outcomes, and mitigate potential harm?</strong></em></p>",
+    "body": "<p>Consider what data you use in your professional practice. Do you build products, or deliver services? Maybe you collect and analyse data to share with a range of stakeholders?</p>\n\n<p><strong>Whatever your purpose is, the data you use has come from somewhere. Now, ask yourself, did you collect the data? If so:</strong></p>\n\n<ul>\n\t<li><em>What methods did you use for data collection?</em></li>\n\t<li><em>How confident are you in the accuracy and reliability of this data?</em></li>\n</ul>\n<hr>\n<p><strong>But, what if you didn’t directly collect the data. Instead, you may have collated that data from elsewhere. In which case, change the framing of the prompts:</strong></p>\n\nConsidering the data you've compiled:\n<ul>\n\n\t<li><em>How do you ensure the accuracy and consistency of the aggregated data?</em></li>\n\t<li><em>Are there challenges in reconciling disparate data sources?</em></li>\n</ul>\n\n<p>With this in mind, are you fully aware of the potential risks associated with your data, whether that is how you use it, or the misuse of someone it has been shared with? Maybe there are unforeseen users who are delivering positive outcomes?</p>\n\n<hr>\n\n<p><em><strong>What will you do to promote positive outcomes, and mitigate potential harm?</strong></em></p>",
     "_id": "64f1c12d94389ef9d9f95566",
     "_parentId": "64f1c12c94389ef9d9f9555b",
     "_type": "component",
@@ -617,7 +641,7 @@
     "_disableAccessibilityState": false,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>Data ethics is a key consideration at every stage of the data lifecycle and applies to all data, not just personal data. Organisations should embed holistic approaches that acknowledge the ethical challenges that can arise at any point from data collection and storage, to processing and eventual disposal.&nbsp;&nbsp;</p><p>Asking the right questions, and often the opposite question will help consider the full range of ethical issues. Rigorous inquiry is the basis for a comprehensive ethics evaluation that examines the challenges, potential consequences (both positive and negative) and guards against any possible harm. It should also be recognised that societal values and norms evolve over time and, as a result, so will what is ethical.&nbsp; Data and the associated practices should be reviewed regularly to understand what ethical issues might emerge as society changes and understands the wrongs of the past.</p>",
+    "body": "<p>Data ethics is a key consideration at every stage of the data lifecycle and applies to all data, not just personal data. Organisations should embed holistic approaches that acknowledge the ethical challenges that can arise at any point from data collection and storage, to processing and eventual disposal.&nbsp;&nbsp;</p><p>Asking the right questions, and often the opposite question will help consider the full range of ethical issues. Rigorous inquiry is the basis for a comprehensive ethics evaluation that examines the challenges, potential consequences (both positive and negative) and guards against any possible harm. It should also be recognised that societal values and norms evolve over time and, as a result, so will what is ethical.&nbsp; Data and the associated practices should be reviewed regularly to understand what ethical issues might emerge as society changes and understands the wrongs of the past.</p><p><a href=\"http://tastercontent.learndata.info/data-ethics-taster-content/m4\">Next Module: Applying data ethics</a></p>",
     "_id": "64f1c12d94389ef9d9f95567",
     "_parentId": "64f1e10f94389ef9d9f95574",
     "_type": "component",
@@ -654,7 +678,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "lifecycle-padding",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -712,7 +736,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "lifecycle-padding",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,

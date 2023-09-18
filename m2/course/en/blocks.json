@@ -191,65 +191,11 @@
     }
   },
   {
-    "title": "The demand for data ethics",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 5,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64f04f920667765a0b978ca7",
-    "_parentId": "64f04f900667765a0b978c9a",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_hide": {
-      "_isEnabled": false,
-      "_isDynamic": true,
-      "_onMediaQuery": "",
-      "_onClasses": "",
-      "_proxyId": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
     "title": "The impact of data ethics on value propositions",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 6,
+    "_trackingId": 5,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -303,7 +249,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 7,
+    "_trackingId": 6,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -357,7 +303,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 8,
+    "_trackingId": 7,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -411,7 +357,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 9,
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -420,6 +366,60 @@
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
     "_id": "64f04f910667765a0b978ca6",
+    "_parentId": "64f04f900667765a0b978c9a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_hide": {
+      "_isEnabled": false,
+      "_isDynamic": true,
+      "_onMediaQuery": "",
+      "_onClasses": "",
+      "_proxyId": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The demand for data ethics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64f04f920667765a0b978ca7",
     "_parentId": "64f04f900667765a0b978c9a",
     "_type": "block",
     "_onScreen": {

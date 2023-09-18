@@ -11,7 +11,7 @@
     "_disableAccessibilityState": false,
     "title": "What is data ethics?",
     "displayTitle": "What is data ethics?",
-    "body": "<p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Data ethics is a branch of ethics that examines data practices to identify and evaluate the potential risks. Different practices include the collection, classification, storage, use, sharing and retention of data. All of which have different ethical considerations that affect people.&nbsp;&nbsp;</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Through this definition the ODI draws focus to the evaluation techniques that can be applied to data practices in order to ascertain the extent of the potential impact (both positive and negative) so that we can decide on the appropriate action to take forward.&nbsp;</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">By informing ourselves of the potential impact of the data we collect, share and use, we create opportunities to perform a balancing test and determine our next steps, whether that is to continue, to perform remediations and mitigative action, or to stop altogether.</span></p>",
+    "body": "<p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Data ethics is a branch of ethics that examines data practices to identify and evaluate&nbsp;potential risks. Different practices include the collection, classification, storage, use, sharing and retention of data. All of which have different ethical considerations that affect people.&nbsp;&nbsp;</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Through this definition the ODI draws focus to the evaluation techniques that can be applied to data practices in order to ascertain the extent of the potential impact (both positive and negative) so that we can decide on the appropriate action to take forward.&nbsp;</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">By informing ourselves of the potential impact of the data we collect, share and use, we create opportunities to perform a balancing test and determine our next steps, whether that is to continue, to perform remediations and mitigative action, or to stop altogether.</span></p>",
     "_id": "64f04f970667765a0b978cd2",
     "_parentId": "64f04f910667765a0b978ca4",
     "_type": "component",
@@ -31,16 +31,16 @@
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_hide": {
       "_isEnabled": false,
       "_isDynamic": true,
       "_onMediaQuery": "",
       "_onClasses": "",
       "_proxyId": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -56,7 +56,7 @@
     "_disableAccessibilityState": false,
     "title": "The demand for data ethics",
     "displayTitle": "The demand for data ethics",
-    "body": "<p>Research undertaken by Doteveryone (<a href=\"https://doteveryone.org.uk/wp-content/uploads/2019/04/PeoplePowerTech_Doteveryone_May2019.pdf\" rel=\"noopener\" target=\"_blank\">Miller &amp; Coldicutt, 2020</a>) provides evidence that tech workers believe in the power of their products to drive positive change. However, the level of positive change is dependent on their ability to raise concerns, work with broad ranges of stakeholders with different expertise and ultimately understand the possible outcomes of their work - both positive and negative.</p>\n\n<p>A key finding from the research published by Doteveryone found that:</p>\n\n<blockquote class=\"quote\">\"More than a quarter (28%) of tech workers in the UK have seen decisions made about a technology that they felt could have negative consequences for people or society. Nearly one in five (18%) of those went on to leave their companies as a result.\"</blockquote>\n\n<p>Within this research, DotEveryone found that 78% of workers wanted practical tools to support them in exploring the impact of their products. However, there is uncertainty about the tools available, and the opportunities to develop ethical practices and perform ethical evaluations.</p>\n\n<p>One such tool, we look at later, is the Consequence Scanning toolkit. This tool, designed to be used at the start of any data centric project, helps organisations consider the duality - positive and negative impacts - of data.</p>",
+    "body": "<p>Research undertaken by Doteveryone (<a href=\"https://doteveryone.org.uk/wp-content/uploads/2019/04/PeoplePowerTech_Doteveryone_May2019.pdf\" rel=\"noopener\" target=\"_blank\">Miller &amp; Coldicutt, 2020</a>) provides evidence that tech workers believe in the power of their products to drive positive change. However, the level of positive change is dependent on their ability to raise concerns, work with broad ranges of stakeholders with different expertise and ultimately understand the possible outcomes of their work - both positive and negative.</p><p>A key finding from the research published by Doteveryone found that:</p><blockquote>\"More than a quarter (28%) of tech workers in the UK have seen decisions made about a technology that they felt could have negative consequences for people or society. Nearly one in five (18%) of those went on to leave their companies as a result.\"</blockquote><p>Within this research, DotEveryone found that 78% of workers wanted practical tools to support them in exploring the impact of their products. However, there is uncertainty about the tools available, and the opportunities to develop ethical practices and perform ethical evaluations.</p><p>One such tool, we will look at later, is the Consequence Scanning toolkit. This tool, designed to be used at the start of any data centric project, helps organisations consider the duality - positive and negative impacts - of data.</p>",
     "_id": "64f04f970667765a0b978cd5",
     "_parentId": "64f04f920667765a0b978ca7",
     "_type": "component",
@@ -101,14 +101,36 @@
     "_disableAccessibilityState": false,
     "title": "So, what is data ethics?",
     "displayTitle": "So, what is data ethics?",
-    "body": "<p>Data ethics is a branch of ethics. But, where the philosophy of ethics seeks to understand the decision making that underpins right and wrong, data ethics concerns itself with the practical skills associated with evaluating data practices to understand the broader implications, risks and impact.&nbsp;</p><p>Through data ethics we build a picture of the consequences, both positive and negative, and evaluate these potential outcomes with the driving focus of promoting the positive, mitigating the negative and delivering value.&nbsp;</p>",
+    "body": "<p>Data ethics is a branch of ethics. But, where the philosophy of ethics seeks to understand the decision making that underpins right and wrong, data ethics concerns itself with the practical skills associated with evaluating data practices to understand the broader implications, risks and impact.&nbsp;</p><p>Through data ethics we build a picture of the consequences, both positive and negative, and evaluate these potential outcomes with the driving focus of promoting the positive, mitigating the negative and delivering value.&nbsp;</p><p><a href=\"tastercontent.learndata.info/data-ethics-taster-content/m3/\">Next module: Why is Data Ethics Important?</a></p>",
     "_id": "64f04f970667765a0b978cd6",
     "_parentId": "64f04f920667765a0b978ca8",
     "_type": "component",
     "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_hide": {
+      "_isEnabled": false,
+      "_isDynamic": true,
+      "_onMediaQuery": "",
+      "_onClasses": "",
+      "_proxyId": ""
     },
     "instruction": ""
   },
@@ -292,7 +314,7 @@
     "_disableAccessibilityState": false,
     "title": "Introduction",
     "displayTitle": "Introduction",
-    "body": "<p>Data ethics is a branch of ethics. But, where the philosophy of ethics seeks to understand the decision making that underpins right and wrong, data ethics concerns itself with the practical skills associated with evaluating data practices to understand the broader implications, risks and impact.</p><p><br />In this module we look at:</p><ul><li>What is data ethics?</li><li>The impact of data ethics on value propositions</li><li>What this means for organisations</li><li>Data ethics as the foundation of openness and trust</li><li>When to consider data ethics</li><li>Why apply data ethics?</li></ul>",
+    "body": "<p>Data ethics is a branch of ethics. But, where the philosophy of ethics seeks to understand the decision making that underpins right and wrong, data ethics concerns itself with the practical skills associated with evaluating data practices to understand the broader implications, risks and impact.</p><p><br />In this module we look at:</p><ul><li>What is data ethics?</li><li>The impact of data ethics on value propositions</li><li>What this means for organisations</li><li>Data ethics as the foundation of openness and trust</li><li>The demand for data ethics</li><li>When to consider data ethics</li></ul>",
     "_id": "64f094360667765a0b978e4a",
     "_parentId": "64f094360667765a0b978e49",
     "_type": "component",
@@ -312,16 +334,16 @@
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_hide": {
       "_isEnabled": false,
       "_isDynamic": true,
       "_onMediaQuery": "",
       "_onClasses": "",
       "_proxyId": ""
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -393,7 +415,7 @@
     "_disableAccessibilityState": false,
     "title": "What is data ethics?",
     "displayTitle": "",
-    "body": "<blockquote><p dir=\"ltr\" style=\"text-align:center\"><em>Data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact on people and society&nbsp;</em><strong>—</strong> in data collection, sharing and use.</p><p dir=\"ltr\" style=\"text-align:center\">&nbsp;</p></blockquote><p dir=\"ltr\" style=\"text-align:right\"><strong>- Open Data Institute</strong></p>",
+    "body": "<blockquote><p dir=\"ltr\" style=\"text-align:center\"><em>Data ethics is a branch of ethics that evaluates data practices with the potential to adversely impact people and society&nbsp;</em><strong>—</strong> in data collection, sharing and use.</p><p dir=\"ltr\" style=\"text-align:center\">&nbsp;</p></blockquote><p dir=\"ltr\" style=\"text-align:right\"><strong>- Open Data Institute</strong></p>",
     "_id": "64f0959f94389ef9d9f9551b",
     "_parentId": "64f094220667765a0b978e47",
     "_type": "component",
@@ -584,7 +606,7 @@
     "_disableAccessibilityState": false,
     "title": "The impact of data ethics on value propositions",
     "displayTitle": "The impact of data ethics on value propositions",
-    "body": "<p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">While it is completely appropriate to provide a public good and create value, this does not mean that there will not also be harms that arise as a result. Balancing the positive impacts you are intending to deliver with potential harms this could create, is where ethics comes in.&nbsp;</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">The video below introduces the ODI’s Theory of Change. It explores the goal of creating value from data - known as the </span><strong>farmland</strong><span style=\"background-color:transparent; color:#000000\">, and introduces two common dystopias that can result in unethical outcomes - the </span><strong>oilfield</strong><span style=\"background-color:transparent; color:#000000\"> and the </span><strong>wasteland.</strong></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">At the ODI, we believe that organisations can work toward a good balance between encouraging and restricting how data is collected and used.&nbsp;</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">As you watch and listen, consider the practices you and your organisation undertake. Are you balanced in your practices?</span></p>",
+    "body": "<p dir=\"ltr\">While it is completely appropriate to provide a public good and create value, this does not mean that there will not also be harms that arise as a result. Balancing the positive impacts you are intending to deliver with potential harms this could create, is where ethics comes in.&nbsp;</p>\n<p dir=\"ltr\">The video below introduces the ODI&rsquo;s Theory of Change. It explores the goal of creating value from data - known as the <strong>farmland</strong>, and introduces two common dystopias that can result in unethical outcomes - the <strong>oilfield</strong> and the <strong>wasteland.</strong></p>\n<p dir=\"ltr\">At the ODI, we believe that organisations can work toward a good balance between encouraging and restricting how data is collected and used.&nbsp;</p>\n<p dir=\"ltr\">As you watch and listen, consider the practices you and your organisation undertake. Are you balanced in your practices?</p>\n<p>You chose to make an intervention. Which of the following reasons played a factor in your decision?</p>",
     "_id": "64f0a36a94389ef9d9f95529",
     "_parentId": "64f04f910667765a0b978ca5",
     "_type": "component",

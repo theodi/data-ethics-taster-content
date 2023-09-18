@@ -51,13 +51,13 @@
     "large": 900
   },
   "_xapi": {
-    "_isEnabled": false,
+    "_isEnabled": true,
     "_specification": "xAPI",
-    "_activityID": "https://testing.learndata.info/odi-taster-content-test",
+    "_activityID": "https://tastercontent.learndata.info/m2-what-is-data-ethics",
     "_cookiePrefix": "info.learndata.lms",
     "_endpoint": "https://theodi.learninglocker.net/data/xAPI",
-    "_user": "",
-    "_password": "",
+    "_user": "57e37159cfa89a70ab9a21ce2cecd84709fffb22",
+    "_password": "4f20625713683369f3b84af6c3b9435ebbdd09dc",
     "_lang": "en-US",
     "_generateIds": false,
     "_shouldTrackState": true,

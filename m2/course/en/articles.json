@@ -24,8 +24,8 @@
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "taster-content-what-is-de",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
@@ -47,9 +47,9 @@
       },
       "_questions": {
         "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_hide": {

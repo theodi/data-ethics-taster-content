@@ -167,7 +167,7 @@
   },
   {
     "title": "Q: Ethics and data governance",
-    "displayTitle": "",
+    "displayTitle": "Ethics and data governance",
     "body": "",
     "_classes": "",
     "_trackingId": 3,
@@ -185,12 +185,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -228,6 +222,12 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -584,7 +584,7 @@
     "title": "The importance of actions",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "remove-spacing",
     "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
@@ -1426,7 +1426,7 @@
   },
   {
     "title": "Intended and unintended consequences",
-    "displayTitle": "",
+    "displayTitle": "Intended and unintended consequences",
     "body": "",
     "_classes": "",
     "_trackingId": 19,
@@ -1444,12 +1444,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -1487,6 +1481,12 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {

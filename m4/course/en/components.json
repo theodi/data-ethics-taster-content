@@ -1,7 +1,7 @@
 [
   {
     "_component": "text",
-    "_classes": "",
+    "_classes": "ticks",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -11,7 +11,7 @@
     "_disableAccessibilityState": false,
     "title": "Applying data ethics",
     "displayTitle": "Applying data ethics",
-    "body": "<p dir=\"ltr\">In this module we will explore the application of data ethics using tools that support individuals and organisations in developing products and services that mitigate negative risks and serve to promote positive outcomes for people and society.&nbsp;</p><p dir=\"ltr\">This module provides you with the knowledge and skills to:</p><ol><li dir=\"ltr\"><p dir=\"ltr\">Describe the types of questions to ask when embedding ethical data practices</p></li><li dir=\"ltr\"><p dir=\"ltr\">Identify common barriers to adopting approaches to data ethics</p></li><li dir=\"ltr\"><p dir=\"ltr\">Explain how to use tools and frameworks to support ethical thinking around collection, use and sharing of data in projects</p></li><li dir=\"ltr\"><p dir=\"ltr\">Make several recommendations to improve the ethical handling of data</p></li></ol>",
+    "body": "<p dir=\"ltr\">In this module, we will explore the application of data ethics using tools that support individuals and organisations in developing products and services that mitigate negative risks and serve to promote positive outcomes for people and society.&nbsp;</p><p dir=\"ltr\">This module provides you with the knowledge and skills to:</p><ul dir=\"ltr\"><li>Describe the types of questions to ask when embedding ethical data practices</li><li>Identify common barriers to adopting approaches to data ethics</li><li>Explain how to use tools and frameworks to support ethical thinking around collection, use and sharing of data in projects</li><li>Make several recommendations to improve the ethical handling of data</li></ul>",
     "_id": "64e5ce320667765a0b978b2c",
     "_parentId": "64e5ce320667765a0b978b08",
     "_type": "component",
@@ -20,10 +20,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_tutor": {
       "_isInherited": true,
@@ -34,6 +30,10 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -147,7 +147,7 @@
     "_disableAccessibilityState": false,
     "title": "Summary: what have we learned?",
     "displayTitle": "Summary: what have we learned?",
-    "body": "<p dir=\"ltr\">Applied Data Ethics is the practice of evaluating our data practices to understand the impact of our work. This module has introduced tools that help us evaluate ethical data practices at the project level, and at the organisational level. Engaging with these tools is unlikely to remove all of the negative impacts that result from collecting, using and sharing data (or lack-of). However, they will support individuals and organisations to mitigate the negative consequences and promote more positive outcomes.&nbsp;</p><p dir=\"ltr\">When evaluating ethical risk, it is also important to evaluate the risk of NOT doing something. For example, what is the ethical risk of not developing a product for a specific purpose? What is the ethical risk of not sharing data with others? What is the ethical risk of not collecting data from a wide variety of different groups in society and only focusing on one?</p><p dir=\"ltr\">Most importantly, make time for ethics. Invest in people, policies and processes. Also be prepared to adapt. Society changes, as will what is ethical and not. Only this investment and ability to adapt will help organisations demonstrate they are committed to their individual and organisational principles.</p>",
+    "body": "<p dir=\"ltr\">Applied Data Ethics is the practice of evaluating our data practices to understand the impact of our work. This module has introduced tools that help us evaluate ethical data practices at the project level, and at the organisational level. Engaging with these tools is unlikely to remove all of the negative impacts that result from collecting, using and sharing data (or lack-of). However, they will support individuals and organisations to mitigate the negative consequences and promote more positive outcomes.&nbsp;</p><p dir=\"ltr\">When evaluating ethical risk, it is also important to evaluate the risk of NOT doing something. For example, what is the ethical risk of not developing a product for a specific purpose? What is the ethical risk of not sharing data with others? What is the ethical risk of not collecting data from a wide variety of different groups in society and only focusing on one?</p><p dir=\"ltr\">Most importantly, make time for ethics. Invest in people, policies and processes. Also be prepared to adapt. Society changes, as will what is ethical and not. Only this investment and ability to adapt will help organisations demonstrate they are committed to their individual and organisational principles.</p><p dir=\"ltr\">&nbsp;</p><p dir=\"ltr\">&nbsp;</p>\n",
     "_id": "64e5ce320667765a0b978b36",
     "_parentId": "64e5ce320667765a0b978b09",
     "_type": "component",
@@ -156,10 +156,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_tutor": {
       "_isInherited": true,
@@ -170,6 +166,10 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -184,7 +184,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Q: Ethics and data governance",
-    "displayTitle": "Ethics and data governance",
+    "displayTitle": "",
     "body": "<p>In addition to practical tools, what else do organisations need to provide in order to ensure data ethics is prioritised?</p>",
     "_id": "64e5ce320667765a0b978b39",
     "_parentId": "64e5ce320667765a0b978b0a",
@@ -194,10 +194,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_tutor": {
       "_isInherited": true,
@@ -209,7 +205,12 @@
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "Choose your answer, then click 'Submit'",
+    "ariaQuestion": "",
     "_items": [
       {
         "text": "Clear roles and responsibilities to manage data ethics concerns ",
@@ -413,7 +414,7 @@
     "_disableAccessibilityState": false,
     "title": "Q: Avoiding failure in data projects",
     "displayTitle": " Avoiding failure in data projects",
-    "body": "<p>In 2018, Gartner published a report that estimated the proportion of data projects that fail. Consider your own experience of data projects, how many do you think fail?</p>",
+    "body": "<p>In 2018, Gartner published a report that estimated the proportion of AI data projects that fail. Consider your own experience of data projects, how many do you think fail?</p>",
     "_id": "64e5ce320667765a0b978b3b",
     "_parentId": "64e5ce320667765a0b978b10",
     "_type": "component",
@@ -464,9 +465,9 @@
     "_showScaleNumbers": true,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That's right!</strong></p><p>Gartner found that 85% of data projects fail (<a href=\"https://www.gartner.com/en/newsroom/press-releases/2018-02-13-gartner-says-nearly-half-of-cios-are-planning-to-deploy-artificial-intelligence\">Gartner, 2017</a>)</p>",
+      "correct": "<p><strong>That's right!</strong></p><p>Gartner found that 85% of AI data projects fail (<a href=\"https://www.gartner.com/en/newsroom/press-releases/2018-02-13-gartner-says-nearly-half-of-cios-are-planning-to-deploy-artificial-intelligence\">Gartner, 2017</a>)</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Gartner found that 85% of data projects fail (<a href=\"https://www.gartner.com/en/newsroom/press-releases/2018-02-13-gartner-says-nearly-half-of-cios-are-planning-to-deploy-artificial-intelligence\">Gartner, 2017</a>)</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Gartner found that 85% of AI data projects fail (<a href=\"https://www.gartner.com/en/newsroom/press-releases/2018-02-13-gartner-says-nearly-half-of-cios-are-planning-to-deploy-artificial-intelligence\">Gartner, 2017</a>)</p>",
         "notFinal": ""
       }
     },
@@ -1029,7 +1030,7 @@
     "_disableAccessibilityState": false,
     "title": "Using the Data Ethics Canvas",
     "displayTitle": "Using the Data Ethics Canvas",
-    "body": "<p dir=\"ltr\">The Data Ethics Canvas is a tool for anyone who collects, shares or uses data. It helps identify and manage ethical issues – at the start of a project that uses data, and throughout.</p><p dir=\"ltr\">It encourages you to ask important questions about projects that use data, and reflect on the responses. These might be:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">What is your primary purpose for using data in this project?</p></li><li dir=\"ltr\"><p dir=\"ltr\">Who could be negatively affected by this project?</p></li></ul><p dir=\"ltr\">The Data Ethics Canvas provides a framework to develop ethical guidance that suits any context, whatever the project’s size or scope. There is guidance and support for using the <a href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\">Data Ethics Canvas on the ODI website</a>, shared under an open licence.</p>",
+    "body": "<p dir=\"ltr\">The Data Ethics Canvas is a tool for anyone who collects, shares or uses data. It helps identify and manage ethical issues – at the start of a project that uses data, and throughout.</p><p dir=\"ltr\">It encourages you to ask important questions about projects that use data, and reflect on the responses. These might be:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">What is your primary purpose for using data in this project?</p></li><li dir=\"ltr\"><p dir=\"ltr\">Who could be negatively affected by this project?</p></li></ul><p dir=\"ltr\">The Data Ethics Canvas provides a framework to develop ethical guidance that suits any context, whatever the project’s size or scope. There is guidance and support for using the <a href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\" target=\"_blank\">Data Ethics Canvas on the ODI website</a>, shared under an open licence.</p>",
     "_id": "64e5ce320667765a0b978b60",
     "_parentId": "64e5ce320667765a0b978b1c",
     "_type": "component",
@@ -1038,10 +1039,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_tutor": {
       "_isInherited": true,
@@ -1052,6 +1049,10 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
@@ -1763,8 +1764,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Scenario 1: unattended consequences",
-    "displayTitle": "Scenerio 1: unitneded consequences",
+    "title": "Scenario 1: unintended consequences",
+    "displayTitle": "Scenario 1:  unintended consequences",
     "body": "",
     "_id": "64e8a7e80667765a0b978bc0",
     "_parentId": "64e8a7d90667765a0b978bbf",
@@ -1775,10 +1776,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_tutor": {
       "_isInherited": true,
       "_type": "notify",
@@ -1788,6 +1785,10 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_choices": [
@@ -2033,8 +2034,8 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Intended and unintended consequences",
-    "displayTitle": "Intended and unintended consequences",
-    "body": "\t<div class=\"highlight-box\">\n\t\t<div class=\"consequence-section\">\n\t\t\t<span class=\"new-key-term\">Intended Consequences:</span>\n\t\t\t<p>Describe your purpose. What are you trying to achieve? What is the positive goal of the project? Who will\n\t\t\t\tbe positively impacted?</p>\n\t\t</div>\n    </div>\n\t<div class=\"highlight-box\">\n\t\t<div class=\"consequence-section\">\n\t\t\t<span class=\"new-key-term\">Unintended Consequences:</span>\n\t\t\t<p>Describe the potential side-effects of your project and focus on who could be negatively impacted or\n\t\t\t\texcluded from your project. Consider the impact on wider society, the economy, or even the environment.\n\t\t\t</p>\n\t\t</div>\n\t</div>",
+    "displayTitle": "",
+    "body": "<div class=\"highlight-box\"><div class=\"consequence-section\"><strong><span class=\"new-key-term\">Intended Consequences:</span></strong><p>Describe your purpose. What are you trying to achieve? What is the positive goal of the project? Who will be positively impacted?</p></div></div><div class=\"highlight-box\"><div class=\"consequence-section\"><strong><span class=\"new-key-term\">Unintended Consequences:</span></strong><p>Describe the potential side-effects of your project and focus on who could be negatively impacted or excluded from your project. Consider the impact on wider society, the economy, or even the environment.</p></div></div>",
     "_id": "64e8cf070667765a0b978bd5",
     "_parentId": "64e8cf050667765a0b978bc6",
     "_type": "component",
@@ -2434,10 +2435,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_tutor": {
       "_isInherited": true,
       "_type": "notify",
@@ -2448,12 +2445,16 @@
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "Your first task is to choose one scenario that captures your interest. Understand the case study and its objectives. Select the headings to find out more.",
     "_setCompletionOn": "allItems",
     "_items": [
       {
         "title": "Scenario 1: A charitable transformation ",
-        "body": "<p>An animal charity is going through a digital transformation process. This charity supports animal care and rehoming. Therefore it holds data on the animals, the users of the service such as those who hand over animals, and those who foster or adapt, as well as data associated with volunteers, donors and broader stakeholders.&nbsp;</p><p dir=\"ltr\">As part of this transformation the charity wants to retire redundant platforms and consolidate all data and data processes into a single platform. This includes employee record systems, Customer Relationship Management (CRM) platforms, Volunteer Management Systems (VMS) as well as donations, animal welfare data, data supplied by local authorities and information related to internal processes and practices.</p><p dir=\"ltr\">The data the charity holds includes (amongst others):</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Financial Donors: personal details, level of involvement, etc</p></li><li dir=\"ltr\"><p dir=\"ltr\">Volunteers: personal details, experience, etc</p></li><li dir=\"ltr\"><p dir=\"ltr\">Adopters: potential, previous and existing. Including details of refusals and returns</p></li><li dir=\"ltr\"><p dir=\"ltr\">Users: individuals who have previously handed an animal to the charity</p></li></ul><p dir=\"ltr\"><strong>Objective:</strong></p><p dir=\"ltr\">To reduce costs and increase efficiencies by simplifying the digital estate of the charity and reduce the redundancies in existing processes to mitigate risks. The digital transformation should maintain stakeholder privacy and maintain performance in relation to animal care.&nbsp;&nbsp;</p>",
+        "body": "<p>An animal charity is going through a digital transformation process. This charity supports animal care and rehoming. Therefore it holds data on the animals, the users of the service such as those who hand over animals, and those who foster or adopt, as well as data associated with volunteers, donors and broader stakeholders.&nbsp;</p><p dir=\"ltr\">As part of this transformation the charity wants to retire redundant platforms and consolidate all data and data processes into a single platform. This includes employee record systems, Customer Relationship Management (CRM) platforms, Volunteer Management Systems (VMS) as well as donations, animal welfare data, data supplied by local authorities and information related to internal processes and practices.</p><p dir=\"ltr\">The data the charity holds includes (amongst others):</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Financial Donors: personal details, level of involvement, etc</p></li><li dir=\"ltr\"><p dir=\"ltr\">Volunteers: personal details, experience, etc</p></li><li dir=\"ltr\"><p dir=\"ltr\">Adopters: potential, previous and existing. Including details of refusals and returns</p></li><li dir=\"ltr\"><p dir=\"ltr\">Users: individuals who have previously handed an animal to the charity</p></li></ul><p dir=\"ltr\"><strong>Objective:</strong></p><p dir=\"ltr\">To reduce costs and increase efficiencies by simplifying the digital estate of the charity and reduce the redundancies in existing processes to mitigate risks. The digital transformation should maintain stakeholder privacy and maintain performance in relation to animal care.&nbsp;&nbsp;</p>",
         "_imageAlignment": "full",
         "_graphic": {
           "alt": "",
@@ -2489,7 +2490,7 @@
     "_disableAccessibilityState": false,
     "title": "Consequence scanning: deciding what to do",
     "displayTitle": "Consequence scanning: deciding what to do",
-    "body": "<p>Once your team has had the opportunity to explore the intended and unintended consequences and rated those highest in risk. You can then group these consequences into the following categories:</p>",
+    "body": "<p>Once your team has had the opportunity to explore the intended and unintended consequences and rated those highest in risk, you can then group these consequences into the following categories:</p>",
     "_id": "64f72d8694389ef9d9f955a7",
     "_parentId": "64e8cf060667765a0b978bc9",
     "_type": "component",
@@ -2785,7 +2786,7 @@
     "_disableAccessibilityState": false,
     "title": "Data Ethics Maturity Model",
     "displayTitle": "Data Ethics Maturity Model",
-    "body": "<p dir=\"ltr\">Unlike the other tools, the Data Ethics Maturity Model is not intended for specific data sets. Considering data ethics at project level is good, but deep and lasting developments must happen at organisation level. This is the focus of the Data Ethics Maturity Model. The tool helps assess and benchmark how widely embedded data ethics culture and practices are across your organisation.</p><p dir=\"ltr\">It provides a framework to consider current performance and future ambitions, to embed a culture of ethical data practices. This tool builds on the Open Data Institute’s <a href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\">Data Ethics Canvas</a>, which helps identify and manage ethical issues within a specific project, and may be particularly helpful to <a href=\"https://www.theodi.org/event_series/data-ethics-professional/\">Data Ethics Professionals</a> who are working to embed a data ethics culture within their organisation.</p><p>Materials and guidance to support your use of the <a href=\"https://www.theodi.org/article/data-ethics-maturity-model-benchmarking-your-approach-to-data-ethics/\">Data Ethics Maturity Model can be found on the ODI website</a>, shared under an open licence.</p>",
+    "body": "<p dir=\"ltr\">Unlike the other tools, the Data Ethics Maturity Model is not intended for specific data sets. Considering data ethics at project level is good, but deep and lasting developments must happen at organisation level. This is the focus of the Data Ethics Maturity Model. The tool helps assess and benchmark how widely embedded data ethics culture and practices are across your organisation.</p><p dir=\"ltr\">It provides a framework to consider current performance and future ambitions, to embed a culture of ethical data practices. This tool builds on the Open Data Institute’s <a href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\" target=\"_blank\">Data Ethics Canvas</a>, which helps identify and manage ethical issues within a specific project, and may be particularly helpful to <a href=\"https://www.theodi.org/event_series/data-ethics-professional/\" target=\"_blank\">Data Ethics Professionals</a> who are working to embed a data ethics culture within their organisation.</p><p>Materials and guidance to support your use of the <a href=\"https://www.theodi.org/article/data-ethics-maturity-model-benchmarking-your-approach-to-data-ethics/\" target=\"_blank\">Data Ethics Maturity Model can be found on the ODI website</a>, shared under an open licence.</p>",
     "_id": "64f7446694389ef9d9f955cc",
     "_parentId": "64f7446294389ef9d9f955cb",
     "_type": "component",

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tincan xmlns="http://projecttincan.com/tincan.xsd">
     <activities>
-        <activity id="https://testing.learndata.info/odi-taster-content-test" type="http://adlnet.gov/expapi/activities/course">
+        <activity id="https://tastercontent.learndata.info/m4-applying-data-ethics" type="http://adlnet.gov/expapi/activities/course">
             <name><![CDATA[Taster content M4: Applying Data Ethics]]></name>
             <description lang="en-US"><![CDATA[]]></description>
             <launch lang="en-US">index.html</launch>
