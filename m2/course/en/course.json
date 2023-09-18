@@ -310,6 +310,9 @@
       "_vimeo": {
         "ariaRegion": "This is a media component which displays a Vimeo video. Select the play / pause button to watch it.",
         "skipToTranscript": "Skip to transcript"
+      },
+      "_textinputAI": {
+        "ariaRegion": "<p>Text input. Type your answer and then submit.</p>"
       }
     },
     "_menu": {
@@ -473,7 +476,12 @@
     }
   },
   "_FooterLink": {
-    "_items": []
+    "_items": [
+      {
+        "title": "Report bug/enhacement",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSdtHVRylSGS4U5-G7gvRQMPiKq7Cfrr38ftD_7MFM-uHlvpSQ/viewform?usp=pp_url&entry.1530449492=Adapt&entry.598945860=Taster+Content+M2:+What+is+Data+Ethics"
+      }
+    ]
   },
   "_aboutPage": {
     "_items": [
