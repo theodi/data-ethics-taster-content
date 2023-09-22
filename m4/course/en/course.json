@@ -1,12 +1,12 @@
 {
-  "title": "Taster content M4: Applying Data Ethics",
-  "displayTitle": "Taster content M4: Applying Data Ethics",
+  "title": "Applying Data Ethics",
+  "displayTitle": "Applying Data Ethics",
   "body": "",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 33,
+  "_latestTrackingId": 36,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -37,7 +37,7 @@
   "_lockType": "",
   "_id": "course",
   "_start": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_startIds": [
       {
         "_id": "64e5ce310667765a0b978b00",
@@ -372,14 +372,14 @@
       "color-ten-inverted": "#ffffff"
     },
     "_items": {
-      "item-color": "#9096a0",
-      "item-color-inverted": "#ffffff",
-      "item-color-hover": "",
-      "item-color-inverted-hover": "",
-      "item-color-selected": "",
-      "item-color-inverted-selected": "",
-      "visited": "#333333",
-      "visited-inverted": "#ffffff"
+      "item-color": "#ffffff",
+      "item-color-inverted": "#2d5da9",
+      "item-color-hover": "#2d5da9",
+      "item-color-inverted-hover": "#ffffff",
+      "item-color-selected": "#2d5da9",
+      "item-color-inverted-selected": "#ffffff",
+      "visited": "#ffffff",
+      "visited-inverted": "#2d5da9"
     },
     "_buttons": {
       "btn-color": "#333333",
@@ -415,7 +415,7 @@
     "_nav": {
       "nav": "#333333",
       "nav-inverted": "#ffffff",
-      "hide-nav": true,
+      "hide-nav": false,
       "nav-icon": "#ffffff",
       "nav-icon-inverted": "#ffffff",
       "nav-icon-hover": "#ffffff",

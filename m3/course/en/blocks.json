@@ -199,7 +199,7 @@
     }
   },
   {
-    "title": "Is data ethics only a consideration when handling personal data?",
+    "title": "But remember, it's not all bad!",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -219,12 +219,30 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_assessment": {
-      "_quizBankID": 1
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -304,7 +322,7 @@
     }
   },
   {
-    "title": "Data ethics across the data lifecycle?",
+    "title": "Data ethics across the data lifecycle",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -324,17 +342,35 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_assessment": {
-      "_quizBankID": 1
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": true
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
-    "title": "Asking the right questions?",
-    "displayTitle": "Asking the right questions?",
+    "title": "Asking the right questions",
+    "displayTitle": "Asking the right questions",
     "body": "<p>There are different considerations to be made across each stage of the data lifecycle. Regardless of the stage you are working at, when doing an ethical evaluation it is always important to ask the opposite question in order to provide balance. Such questions can also provide greater clarity on the ethical consequences. It is also important to ask the opposite questions of the ones usually posed.</p>",
     "_classes": "",
     "_trackingId": 10,
@@ -409,7 +445,7 @@
     }
   },
   {
-    "title": "Quote",
+    "title": "Remember",
     "displayTitle": "",
     "body": "",
     "_classes": "",

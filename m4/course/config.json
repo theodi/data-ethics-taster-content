@@ -30,7 +30,7 @@
       "_notify": "1"
     }
   },
-  "__v": 4,
+  "__v": 5,
   "_completionCriteria": {
     "_requireContentCompleted": false,
     "_requireAssessmentCompleted": true
@@ -62,10 +62,10 @@
     "_isEnabled": false
   },
   "_xapi": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_specification": "xAPI",
-    "_activityID": "https://tastercontent.learndata.info/m4-applying-data-ethics",
-    "_cookiePrefix": "info.learndata.Ims",
+    "_activityID": "https://data-ethics-essentials.learndata.info/m4-applying-data-ethics",
+    "_cookiePrefix": "info.learndata.",
     "_endpoint": "https://theodi.learninglocker.net/data/xAPI",
     "_user": "57e37159cfa89a70ab9a21ce2cecd84709fffb22",
     "_password": "4f20625713683369f3b84af6c3b9435ebbdd09dc",
@@ -82,13 +82,13 @@
         "assessments:complete": true
       },
       "contentObjects": {
-        "change:_isComplete": false
+        "change:_isComplete": true
       },
       "articles": {
         "change:_isComplete": false
       },
       "blocks": {
-        "change:_isComplete": false
+        "change:_isComplete": true
       },
       "components": {
         "change:_isComplete": true

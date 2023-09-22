@@ -332,8 +332,8 @@
     }
   },
   {
-    "title": "Data Ethics Maturity Model",
-    "displayTitle": "Data Ethics Maturity Model",
+    "title": "Picking scenerio",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 5,
@@ -344,19 +344,13 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b0d",
-    "_parentId": "64e5ce310667765a0b978b06",
+    "_id": "650ace8594389ef9d9f96e8d",
+    "_parentId": "650ace8494389ef9d9f96e81",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -395,88 +389,11 @@
         "_isLockedOnRevisit": false
       }
     },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Picking scenerio",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 6,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e893a00667765a0b978bac",
-    "_parentId": "64e5ce310667765a0b978b04",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
     "_branching": {
       "_containerId": "",
-      "_correct": "64e894b50667765a0b978bb2",
-      "_partlyCorrect": "64e894b70667765a0b978bb3",
-      "_incorrect": "64e894b70667765a0b978bb3"
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
+      "_correct": "@block +1",
+      "_partlyCorrect": "@block +3",
+      "_incorrect": "@block +3"
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -498,8 +415,91 @@
     }
   },
   {
-    "title": "Let’s try out the Consequence Scanning Toolkit",
-    "displayTitle": "Let’s try out the Consequence Scanning Toolkit",
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650ace8794389ef9d9f96e9e",
+    "_parentId": "650ace8494389ef9d9f96e84",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The Consequence Scanning Toolkit",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 7,
@@ -510,8 +510,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e8cf050667765a0b978bc4",
-    "_parentId": "64e8cf050667765a0b978bc3",
+    "_id": "650ace8794389ef9d9f96e9f",
+    "_parentId": "650ace8494389ef9d9f96e85",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -581,10 +581,10 @@
     }
   },
   {
-    "title": "The importance of actions",
+    "title": "Summary",
     "displayTitle": "",
     "body": "",
-    "_classes": "remove-spacing",
+    "_classes": "",
     "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
@@ -593,16 +593,22 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64f86e1194389ef9d9f955de",
-    "_parentId": "64e5ce310667765a0b978b05",
+    "_id": "650c9c6494389ef9d9f9741c",
+    "_parentId": "650c9c6194389ef9d9f97402",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -638,12 +644,6 @@
         "_isLockedOnRevisit": false
       }
     },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -664,8 +664,8 @@
     }
   },
   {
-    "title": "The Data Ethics Canvas",
-    "displayTitle": "",
+    "title": "Data Ethics Maturity Model",
+    "displayTitle": "Data Ethics Maturity Model",
     "body": "",
     "_classes": "",
     "_trackingId": 9,
@@ -676,21 +676,20 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b0e",
-    "_parentId": "64e5ce310667765a0b978b05",
+    "_id": "650c9cc194389ef9d9f9748c",
+    "_parentId": "650c9cbf94389ef9d9f97475",
     "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_trickle": {
       "_isEnabled": false,
@@ -721,6 +720,113 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c9cc294389ef9d9f97490",
+    "_parentId": "650c9cbf94389ef9d9f97476",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -728,7 +834,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 10,
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -811,7 +917,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 11,
+    "_trackingId": 12,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -890,67 +996,7 @@
     }
   },
   {
-    "title": "Data Ethics Maturity Model: Themes",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 12,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b14",
-    "_parentId": "64e5ce310667765a0b978b06",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    }
-  },
-  {
-    "title": "[64e8a7d90667765a0b978bbf] New Block Title",
+    "title": "Scenario 1: Consequences",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -962,8 +1008,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e8a7d90667765a0b978bbf",
-    "_parentId": "64e5ce310667765a0b978b04",
+    "_id": "650ace8594389ef9d9f96e8e",
+    "_parentId": "650ace8494389ef9d9f96e81",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -971,7 +1017,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -1009,9 +1055,9 @@
     },
     "_branching": {
       "_containerId": "",
-      "_correct": "64f8671b94389ef9d9f955d8",
-      "_partlyCorrect": "64f8671b94389ef9d9f955d8",
-      "_incorrect": "64f8671b94389ef9d9f955d8"
+      "_correct": "@block +1",
+      "_partlyCorrect": "@block +1",
+      "_incorrect": "@block +1"
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1045,8 +1091,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e8cf050667765a0b978bc5",
-    "_parentId": "64e8cf050667765a0b978bc3",
+    "_id": "650ace8794389ef9d9f96ea0",
+    "_parentId": "650ace8494389ef9d9f96e85",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1116,7 +1162,7 @@
     }
   },
   {
-    "title": "The four sections of the data ethics canvas",
+    "title": "The Data Ethics Canvas",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1128,8 +1174,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b13",
-    "_parentId": "64e5ce310667765a0b978b05",
+    "_id": "650c9c6394389ef9d9f97412",
+    "_parentId": "650c9c6194389ef9d9f97400",
     "_type": "block",
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -1176,11 +1222,94 @@
     }
   },
   {
-    "title": "Q: Why do projects fail?",
+    "title": "Why use the tool?",
     "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650ca84494389ef9d9f974e7",
+    "_parentId": "650c9cbf94389ef9d9f97475",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Q: Why do projects fail?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1259,11 +1388,11 @@
     }
   },
   {
-    "title": "Data Ethics Maturity Model: Assessment levels",
-    "displayTitle": "Data Ethics Maturity Model: Assessment levels",
+    "title": "Organisational Level & Project Level Tools",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 17,
+    "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1271,19 +1400,13 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b2b",
-    "_parentId": "64e5ce310667765a0b978b06",
+    "_id": "65005f7f94389ef9d9f95679",
+    "_parentId": "64e5ce310667765a0b978b03",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -1321,6 +1444,12 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1342,11 +1471,11 @@
     }
   },
   {
-    "title": "Scenario 1 Q1",
+    "title": "Scenario 1: Act, influence, monitor",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 18,
+    "_trackingId": 19,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1354,8 +1483,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e894b50667765a0b978bb2",
-    "_parentId": "64e5ce310667765a0b978b04",
+    "_id": "650ace8694389ef9d9f96e91",
+    "_parentId": "650ace8494389ef9d9f96e81",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1368,12 +1497,6 @@
     },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "64e8a7d90667765a0b978bbf",
-      "_partlyCorrect": "64e8a7d90667765a0b978bbf",
-      "_incorrect": "64e8a7d90667765a0b978bbf"
     },
     "_trickle": {
       "_isEnabled": false,
@@ -1404,6 +1527,12 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "@block +3",
+      "_partlyCorrect": "@block +3",
+      "_incorrect": "@block +3"
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1426,89 +1555,6 @@
   },
   {
     "title": "Intended and unintended consequences",
-    "displayTitle": "Intended and unintended consequences",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 19,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e8cf050667765a0b978bc6",
-    "_parentId": "64e8cf050667765a0b978bc3",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "New Block Title",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1520,68 +1566,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65005f7f94389ef9d9f95679",
-    "_parentId": "64e5ce310667765a0b978b03",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    }
-  },
-  {
-    "title": "Using the data ethics canvas",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 21,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b1c",
-    "_parentId": "64e5ce310667765a0b978b05",
+    "_id": "650ace8894389ef9d9f96ea1",
+    "_parentId": "650ace8494389ef9d9f96e85",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1651,11 +1637,11 @@
     }
   },
   {
-    "title": "[64e894b70667765a0b978bb3] New Block Title",
+    "title": "The four sections of the data ethics canvas",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 22,
+    "_trackingId": 21,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1663,16 +1649,11 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e894b70667765a0b978bb3",
-    "_parentId": "64e5ce310667765a0b978b04",
+    "_id": "650c9c6394389ef9d9f97413",
+    "_parentId": "650c9c6194389ef9d9f97400",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -1680,9 +1661,9 @@
     },
     "_branching": {
       "_containerId": "",
-      "_correct": "64e8a7640667765a0b978bba",
-      "_partlyCorrect": "64e8a7640667765a0b978bba",
-      "_incorrect": "64e8a7640667765a0b978bba"
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_trickle": {
       "_isEnabled": false,
@@ -1713,6 +1694,131 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    }
+  },
+  {
+    "title": "Data Ethics Maturity Model: Themes",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650c9cc194389ef9d9f9748d",
+    "_parentId": "650c9cbf94389ef9d9f97475",
+    "_type": "block",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "title": "Scenario 2: Consequences",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650ace8594389ef9d9f96e8f",
+    "_parentId": "650ace8494389ef9d9f96e81",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "@block +1",
+      "_partlyCorrect": "@block +1",
+      "_incorrect": "@block +1"
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1738,7 +1844,7 @@
     "displayTitle": "Striking a balance between positive and negative impacts",
     "body": "",
     "_classes": "",
-    "_trackingId": 23,
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1746,8 +1852,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e8cf060667765a0b978bc8",
-    "_parentId": "64e8cf050667765a0b978bc3",
+    "_id": "650ace8894389ef9d9f96ea3",
+    "_parentId": "650ace8494389ef9d9f96e85",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1817,11 +1923,11 @@
     }
   },
   {
-    "title": "Data ethics maturity model",
+    "title": "Applying the Data Ethics Canvas",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 24,
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1829,8 +1935,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64f7446294389ef9d9f955cb",
-    "_parentId": "64e5ce310667765a0b978b06",
+    "_id": "650c9c6394389ef9d9f97415",
+    "_parentId": "650c9c6194389ef9d9f97400",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1838,7 +1944,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -1900,11 +2006,11 @@
     }
   },
   {
-    "title": "[64e8a7640667765a0b978bba] New Block Title",
-    "displayTitle": "",
+    "title": "Data Ethics Maturity Model: Assessment levels",
+    "displayTitle": "Data Ethics Maturity Model: Assessment levels",
     "body": "",
     "_classes": "",
-    "_trackingId": 25,
+    "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1912,8 +2018,91 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e8a7640667765a0b978bba",
-    "_parentId": "64e5ce310667765a0b978b04",
+    "_id": "650c9cc194389ef9d9f9748e",
+    "_parentId": "650c9cbf94389ef9d9f97475",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Scenario 2: Act, influence or monitor?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650ace8594389ef9d9f96e90",
+    "_parentId": "650ace8494389ef9d9f96e81",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1921,7 +2110,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
@@ -1959,9 +2148,9 @@
     },
     "_branching": {
       "_containerId": "",
-      "_correct": "64f86bee94389ef9d9f955dc",
-      "_partlyCorrect": "64f86bee94389ef9d9f955dc",
-      "_incorrect": "64f86bee94389ef9d9f955dc"
+      "_correct": "@block +1",
+      "_partlyCorrect": "@block +1",
+      "_incorrect": "@block +1"
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -1987,7 +2176,7 @@
     "displayTitle": "Publishing crime data: unintended consequences",
     "body": "<p dir=\"ltr\"><strong>What do you think the likelihood and severity is related to the following situation?</strong></p><p dir=\"ltr\"><strong>Action: </strong>Releasing crime data with detail at street level</p><p dir=\"ltr\"><strong>Intended positive impact:</strong> Provide a rich dataset for use in consumer applications, such as travel planning apps that can now find out where high crime areas are and recommend people avoid them, making society safer.&nbsp;</p><p dir=\"ltr\"><strong>Potential unintended consequence: </strong>A significant reduction in house prices in high crime areas</p><p><strong>Perceived negative impact: </strong>People in high crime areas being unable to sell or rent out their houses</p><hr>",
     "_classes": "",
-    "_trackingId": 26,
+    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1995,8 +2184,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e8cf050667765a0b978bc7",
-    "_parentId": "64e8cf050667765a0b978bc3",
+    "_id": "650ace8894389ef9d9f96ea2",
+    "_parentId": "650ace8494389ef9d9f96e85",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2045,89 +2234,6 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Barclays building trust through data ethics",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 27,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64f7436694389ef9d9f955c9",
-    "_parentId": "64e5ce310667765a0b978b05",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_odi-theme": {
       "_backgroundImage": {
@@ -2153,66 +2259,6 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 28,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5ce320667765a0b978b1a",
-    "_parentId": "64e5ce310667765a0b978b05",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    }
-  },
-  {
-    "title": "Consequence scanning: deciding what to do",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
     "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
@@ -2221,26 +2267,21 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e8cf060667765a0b978bc9",
-    "_parentId": "64e8cf050667765a0b978bc3",
+    "_id": "650c9c6394389ef9d9f97414",
+    "_parentId": "650c9c6194389ef9d9f97400",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
     },
     "_trickle": {
       "_isEnabled": false,
@@ -2271,28 +2312,10 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
-    },
-    "_odi-theme": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
     }
   },
   {
-    "title": "Taking action on consequences",
+    "title": "Applying the Data Ethics Maturity Model",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -2304,8 +2327,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64f8671b94389ef9d9f955d8",
-    "_parentId": "64e5ce310667765a0b978b04",
+    "_id": "650c9fef94389ef9d9f974e3",
+    "_parentId": "650c9cbf94389ef9d9f97475",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -2318,12 +2341,6 @@
     },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_trickle": {
       "_isEnabled": false,
@@ -2355,6 +2372,12 @@
         "_isLockedOnRevisit": false
       }
     },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
     "_odi-theme": {
       "_backgroundImage": {
         "_large": "",
@@ -2375,7 +2398,7 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "Consequence scanning: deciding what to do",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -2387,86 +2410,26 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64f72eb294389ef9d9f955b7",
-    "_parentId": "64e8cf050667765a0b978bc3",
-    "_type": "block",
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
-    }
-  },
-  {
-    "title": "Taking action on consequences",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 32,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64f86bee94389ef9d9f955dc",
-    "_parentId": "64e5ce310667765a0b978b04",
+    "_id": "650ace8894389ef9d9f96ea4",
+    "_parentId": "650ace8494389ef9d9f96e85",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
     "_branching": {
       "_containerId": "",
       "_correct": "",
       "_partlyCorrect": "",
       "_incorrect": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_trickle": {
       "_isEnabled": false,
@@ -2518,11 +2481,11 @@
     }
   },
   {
-    "title": "New Block Title",
+    "title": "Building trust through data ethics",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 33,
+    "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2530,21 +2493,20 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e8cf060667765a0b978bca",
-    "_parentId": "64e8cf050667765a0b978bc3",
+    "_id": "650c9c6394389ef9d9f97416",
+    "_parentId": "650c9c6194389ef9d9f97400",
     "_type": "block",
-    "_pageLevelProgress": {
+    "_onScreen": {
       "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_quizBankID": 1
-    },
-    "_branching": {
-      "_containerId": "",
-      "_correct": "",
-      "_partlyCorrect": "",
-      "_incorrect": ""
     },
     "_trickle": {
       "_isEnabled": false,
@@ -2575,6 +2537,362 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "How to use the tool",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650ca77494389ef9d9f974e5",
+    "_parentId": "650c9cbf94389ef9d9f97475",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Creating action plans",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 34,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650d7f2b94389ef9d9f974ee",
+    "_parentId": "650ace8494389ef9d9f96e81",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "@block +1",
+      "_partlyCorrect": "@block +1",
+      "_incorrect": "@block +1"
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Bye bye unintended consequences?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-spacing",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650ace8794389ef9d9f96e99",
+    "_parentId": "650ace8494389ef9d9f96e81",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Applying the Consequence Scanning Toolkit",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650ace8894389ef9d9f96ea5",
+    "_parentId": "650ace8494389ef9d9f96e85",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_branching": {
+      "_containerId": "",
+      "_correct": "",
+      "_partlyCorrect": "",
+      "_incorrect": ""
+    },
+    "_odi-theme": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   }
 ]

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tincan xmlns="http://projecttincan.com/tincan.xsd">
     <activities>
-        <activity id="https://tastercontent.learndata.info/m2-what-is-data-ethics" type="http://adlnet.gov/expapi/activities/course">
-            <name><![CDATA[Taster Content M2: What is Data ethics]]></name>
+        <activity id="https://data-ethics-essentials.learndata.info/m2-what-is-data-ethics" type="http://adlnet.gov/expapi/activities/course">
+            <name><![CDATA[What is Data ethics?]]></name>
             <description lang="en-US"><![CDATA[]]></description>
             <launch lang="en-US">index.html</launch>
         </activity>
