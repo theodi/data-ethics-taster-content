@@ -1,0 +1,116 @@
+{
+  "d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png": {
+    "title": "adapt.png",
+    "description": "Adapt logo used in content section of footer",
+    "source": "https://www.adaptlearning.org/",
+    "licence": "CC0",
+    "attribution": "Adapt e-learning",
+    "tags": []
+  },
+  "d4bc14657d8cefb2cf8ce4d8fdaecef6388d2f9a.png": {
+    "title": "CC-BY-SA",
+    "description": "CC-BY-SA \r\nCREATIVE COMMONS",
+    "source": "cc",
+    "licence": "CC-BY",
+    "attribution": "cc",
+    "tags": []
+  },
+  "02c402d1b692354b48e44b8eab1456b789f0d500.jpg": {
+    "title": "Stop Sign",
+    "description": "Stop Sign",
+    "source": "https://www.flickr.com/photos/54409200@N04/5070012761/in/photolist-8J29a8-4WWuyN-6ugQrD-cJEtnE-7JaWan-pnBkuU-bvkp5f-wMtXs-bSFSN4-g84Mh-9arLBf-cdbq1W-h6KE-DYY2g-gfGbAE-eV2f7C-bHpAd4-5P9pFY-5q35Kf-7Ft56n-5X3hqe-n5Sre9-baGXb4-7D6E4M-7DGTXC-dQQQzr-rQXiNK-6QgGHv-pnQzUu-dbTCm1-9f3aCy-bYX2K-godFFd-6DBACY-xr48b-8z7WL7-e3uVmW-5Gp3iU-edED8U-aDJtPw-7BorQr-ytw77e-aUEW1D-5wAwwX-kuqbZv-4kAh66-atsnGd-4aJ4wu-oZz5nx-84eYNm",
+    "licence": "CC-BY",
+    "attribution": "Kt Ann",
+    "tags": [
+      {
+        "title": "Photo",
+        "_id": "608686bed0a9ce7fbf3a2cef"
+      },
+      {
+        "title": "Communication",
+        "_id": "608686bed0a9ce7fbf3a2cf1"
+      },
+      {
+        "title": "stop",
+        "_id": "628512cd134761027a960d22"
+      },
+      {
+        "title": "sign",
+        "_id": "628512cd134761027a960d21"
+      }
+    ]
+  },
+  "b46255d149de4ce358f32a2812df4c9b0658f1a8.png": {
+    "title": "odi-logo-white-small.png",
+    "description": "odi-logo-white-small.png",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": []
+  },
+  "50cd2a8785a924e204ab876d46a71c045cb0f0fc.png": {
+    "title": "clipboard-update-round.png",
+    "description": "clipbaord",
+    "source": "theodi.org",
+    "licence": "All rights reserved",
+    "attribution": "ODI",
+    "tags": []
+  },
+  "848871b0788afcc83b2002c1bcfaf4f39efe0b1d.webp": {
+    "title": "CP catapult logo footer",
+    "description": "CP catapult logo footer graphic",
+    "source": "https://cp.catapult.org.uk/",
+    "licence": "All rights reserved",
+    "attribution": "Connected Places Catapult",
+    "tags": []
+  },
+  "015fa88d738d97e847b53922b20759302fa5a59f.png": {
+    "title": "digital twin hub logo",
+    "description": "digital twin hub logo",
+    "source": "https://content.invisioncic.com/f305442/set_resources_12/d0e70b4cbb9ab8afb1bc1065a3f8487a_logo.png",
+    "licence": "All rights reserved",
+    "attribution": "digital twin hub logo",
+    "tags": []
+  },
+  "028577248dd399867b16b1e5dbbd897a782f658d.png": {
+    "title": "Data Ethics tools",
+    "description": "Open Data Institute",
+    "source": "theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "theodi.org",
+    "tags": []
+  },
+  "ed8c41138dc38e9d42c4c464ef200a62b430716e.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "intro logo",
+        "_id": "608686c5d0a9ce7fbf3a2e18"
+      },
+      {
+        "title": "ODI logo",
+        "_id": "608686c5d0a9ce7fbf3a2e19"
+      }
+    ]
+  },
+  "9abca6401759cbce025e398ee88103b1330c65cb.jpg": {
+    "title": "ethics-and-data-governance.jpg",
+    "description": "Server maintenance checklist",
+    "source": "https://elements.envato.com/server-maintenance-checklist-H6MCH44",
+    "licence": "Envato Element Licence",
+    "attribution": "DC_Studio",
+    "tags": []
+  },
+  "d9d2059c1646a94b49be04ed27cd67532004ff69.jpg": {
+    "title": "Data and technology",
+    "description": "Corporate team with documents and technology working on a project with graphs, data and tech.",
+    "source": "https://elements.envato.com/corporate-team-with-documents-and-technology-worki-MCBAEVT",
+    "licence": "Envato Element Licence",
+    "attribution": "YuriArcursPeopleimages",
+    "tags": []
+  }
+}

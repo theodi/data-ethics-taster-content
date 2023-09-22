@@ -1,0 +1,497 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Data Ethics Canvas",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da0f294389ef9d9f97550",
+    "_parentId": "650da0f294389ef9d9f97523",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/3513fdc9abd83c1eab7367c60095651509cc659a.jpg",
+      "small": "course/en/assets/3513fdc9abd83c1eab7367c60095651509cc659a.jpg",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute </a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Data Ethics Canvas",
+    "displayTitle": "The Data Ethics Canvas",
+    "body": "<p>The Data Ethics Canvas helps teams to have a guided discussion to identify the positive and negative impacts of their data project on people and society. It's a tool for anyone who collects, shares or uses data. It helps identify and manage ethical issues - in both the promotion of positive outcomes and mitigation of negative outcomes.</p>",
+    "_id": "650da0f294389ef9d9f97551",
+    "_parentId": "650da0f294389ef9d9f97523",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The four sections of the data ethics canvas",
+    "displayTitle": "The four sections of the data ethics canvas",
+    "body": "",
+    "_id": "650da0f294389ef9d9f97552",
+    "_parentId": "650da0f294389ef9d9f97524",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_tabLayout": "horizontal",
+    "_items": [
+      {
+        "tabTitle": "Assess the data",
+        "title": "Assess the data",
+        "body": "<p>By asking you to assess the data sources, their limitations, the rights and legislative context of data collection, use, and share that apply to your sector.</p>",
+        "_classes": "pink",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Identify the impact",
+        "title": "Identify the impact",
+        "body": "<p>By asking you to identify your reasons for using data to develop this service/product, the potential positive and negative impact on people and society, and the potential approaches to minimise negative harm.</p>",
+        "_classes": "green",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Evaluate the engagement",
+        "title": "Evaluate the engagement",
+        "body": "<p dir=\"ltr\">Challenges you to think about the people involved, your approaches to communication and transparency.</p>",
+        "_classes": "orange",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Decide the process",
+        "title": "Decide the process",
+        "body": "<p>Helps you decide on the next steps: what should you prioritise, when will you iterate, do you need training, etc.</p>",
+        "_classes": "blue",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da0f294389ef9d9f97553",
+    "_parentId": "650da0f294389ef9d9f97525",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/37cc928979435988b0057ffc90f6ce8937a578e2.jpg",
+      "small": "course/en/assets/37cc928979435988b0057ffc90f6ce8937a578e2.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Putting data in data ethics",
+    "displayTitle": "Putting data in data ethics",
+    "body": "<p>In relation to data, which of the following is likely to cause the biggest data ethics challenges?</p>",
+    "_id": "650da0f294389ef9d9f97554",
+    "_parentId": "650da0f294389ef9d9f97525",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "A lack of data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The quality of the data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Bias in the data",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "No clear rights to use the data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>There is no lack of data, in fact it is the opposite “too much data” that often leads to a greater ethical challenge. Having too much data makes it hard to manage and apply good data management principles such as quality control. A dataset can be evaluated a s high quality, but often quality does not consider bias. One of the biggest challenges arises from bias in data collection. Understanding the purpose for data collection, any targets and also the goals (or even geographic location) of the organisation that collected, stewarded the data, &nbsp;will help understand if the data could be biased.&nbsp;</p><p>Even the most respected research areas such as medical, have been discovered as having historical biases that mean most medical procedures are biassed toward the male anatomy.&nbsp;<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>There is no lack of data, in fact it is the opposite “too much data” that often leads to a greater ethical challenge. Having too much data makes it hard to manage and apply good data management principles such as quality control. A dataset can be evaluated a s high quality, but often quality does not consider bias. One of the biggest challenges arises from bias in data collection. Understanding the purpose for data collection, any targets and also the goals (or even geographic location) of the organisation that collected, stewarded the data, &nbsp;will help understand if the data could be biased.&nbsp;</p><p>Even the most respected research areas such as medical, have been discovered as having historical biases that mean most medical procedures are biassed toward the male anatomy.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Applying the Data Ethics Canvas",
+    "displayTitle": "Applying the Data Ethics Canvas",
+    "body": "<p dir=\"ltr\">The Data Ethics Canvas is a tool for anyone who collects, shares or uses data. It helps identify and manage ethical issues – at the start of a project that uses data, and throughout.</p><p dir=\"ltr\">It encourages you to ask important questions about projects that use data, and reflect on the responses. These might be:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">What is your primary purpose for using data in this project?</p></li><li dir=\"ltr\"><p dir=\"ltr\">Who could be negatively affected by this project?</p></li></ul><p dir=\"ltr\">The Data Ethics Canvas provides a framework to develop ethical guidance that suits any context, whatever the project’s size or scope. There is guidance and support for using the <a href=\"https://www.theodi.org/article/the-data-ethics-canvas-2021/\" target=\"_blank\">Data Ethics Canvas on the ODI website</a>, shared under an open licence.</p>",
+    "_id": "650da0f294389ef9d9f97555",
+    "_parentId": "650da0f294389ef9d9f97526",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Building trust through data ethics",
+    "displayTitle": "Building trust through data ethics",
+    "body": "<div class=\"barclays-container\"><p>Let’s take a look at an example of the Data Ethics Canvas being used in practice.</p><p>Barclays UK wants to work with data in a way that <span class=\"highlight\">builds trust</span> with customers and society. They also want to document their decisions around data and data ethics in a standardised, consistent way.</p><blockquote>It’s important for customers to trust us with their data at the same level as they do with their money.</blockquote><p>To achieve this goal, Barclays decided to use the <span class=\"highlight\">Data Ethics Canvas</span>...</p><p>The Data Ethics Canvas has been fully embraced, enabling Barclays to build up a substantial library of use cases...</p><p>Barclays UK received external recognition of its work in this field, having won the ‘Best Data and AI Ethics Initiative’ category in the 2021 DataIQ Awards.</p></div>",
+    "_id": "650da0f294389ef9d9f97556",
+    "_parentId": "650da0f294389ef9d9f97527",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da0f294389ef9d9f97557",
+    "_parentId": "650da0f294389ef9d9f97528",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>The Data Ethics Canvas is a practical tool for guiding discussions within data project teams, assisting them in assessing the ethical implications of their work on individuals and society. It comprises four key sections that support ethical considerations from project inception through its lifecycle, prompting essential questions about data usage goals and potential harm to stakeholders.<br /><br />The canvas allows the documentation of decisions, helps guide data projects, and enhances confidence and trust in ethical decision-making.</p>",
+    "_id": "650da0f294389ef9d9f97558",
+    "_parentId": "650da0f294389ef9d9f97528",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  }
+]

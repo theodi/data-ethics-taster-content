@@ -1,0 +1,430 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Ethics Maturity Model",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Unlike the other tools, the Data Ethics Maturity Model is not intended for specific data sets. Considering data ethics at project level is good, but deep and lasting developments must happen at organisation level. This is the focus of the Data Ethics Maturity Model. The tool helps assess and benchmark how widely embedded data ethics culture and practices are across your organisation.</p><p dir=\"ltr\">It provides a framework to consider current performance and future ambitions, to embed a culture of ethical data practices.</p><p dir=\"ltr\">The purpose of the Data Ethics Maturity Model is to:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Allow for an initial assessment and benchmarking</p></li><li dir=\"ltr\"><p dir=\"ltr\">Provide understanding of organisation areas to focus on, actions to take, and how to monitor progress, and&nbsp;</p></li><li dir=\"ltr\"><p dir=\"ltr\">Provide a good practical first step for practitioners to use</p></li></ul>",
+    "_id": "650da12f94389ef9d9f97689",
+    "_parentId": "650da12f94389ef9d9f97659",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da12f94389ef9d9f9768a",
+    "_parentId": "650da12f94389ef9d9f97659",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d248af2ed016dda88ceeaf791796496e70d31d2b.jpg",
+      "small": "course/en/assets/d248af2ed016dda88ceeaf791796496e70d31d2b.jpg",
+      "attribution": "<a href=\"https://www.theodi.org/article/data-ethics-maturity-model-benchmarking-your-approach-to-data-ethics/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Ethics Maturity Model: Themes",
+    "displayTitle": "Data Ethics Maturity Model: Themes",
+    "body": "<p>The model introduces six themes. These themes are grouped between ‘people’ and ‘policy &amp; process’:</p><table><tbody><tr><td><p dir=\"ltr\">People</p></td><td><p dir=\"ltr\"><strong>Organisational governance &amp; internal oversight</strong><br />Strategy reflects ethical data practices. Leadership with responsibility and capacity to deliver.</p>&nbsp;<p dir=\"ltr\"><strong>Skills &amp; knowledge</strong><br />Identifying the learning, training and sharing required.</p>&nbsp;<p dir=\"ltr\"><strong>Stakeholder &amp; staff engagement</strong><br />Engagement with communities reflected in or impacted by the data.</p></td></tr><tr><td><p dir=\"ltr\">Policy and Process</p></td><td><p dir=\"ltr\"><strong>Data management risk processes</strong><br />Underpinning ethical collection, use and sharing of data with focus on minimising risks of harm to people.</p>&nbsp;<p dir=\"ltr\"><strong>Funding &amp; procurement</strong><br />Investment in and requirements for ethical data practices.</p>&nbsp;<p dir=\"ltr\"><strong>Legal standing &amp; compliance</strong><br />Relevant laws, regulations and social norms.</p></td></tr></tbody></table>",
+    "_id": "650da12f94389ef9d9f9768b",
+    "_parentId": "650da12f94389ef9d9f9765a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Ethics Maturity Model: Assessment levels",
+    "displayTitle": "",
+    "body": "<p>Across the six themes, the organisation is assessed and categorised into one of five levels:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"levels\" style=\"color:white !important\"><tbody><tr><td style=\"background-color:red\">Initial</td><td style=\"background-color:#f4cccc\">Non-existent, ad-hoc or inconsistent, with no organisational oversight.</td></tr><tr><td style=\"background-color:#ff9900\">Repeatable</td><td style=\"background-color:#ffe599\">Becoming refined and repeatable, but only within individual teams or projects. No organisational standards.</td></tr><tr><td style=\"background-color:#6aa84f\">Defined</td><td style=\"background-color:#b6d7a8\">Standards formed around internal or external best practices. Knowledge starts to be shared internally, but may still not be widely adopted.</td></tr><tr><td style=\"background-color:#4a86e8\">Managed</td><td style=\"background-color:#9fc5e8\">Standards are widely adopted. Monitoring using defined metrics has begun.</td></tr><tr><td style=\"background-color:#0000ff\">Optimising</td><td style=\"background-color:#6d9eeb\">Attempting to refine and increase efficiency, and influence business sector.</td></tr></tbody></table>",
+    "_id": "650da12f94389ef9d9f9768c",
+    "_parentId": "650da12f94389ef9d9f9765b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da12f94389ef9d9f9768d",
+    "_parentId": "650da12f94389ef9d9f9765c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What's next?",
+    "displayTitle": "What's next?",
+    "body": "<p>Using the Data Ethics Maturity Model is a first step to benchmark performance. To get the most from the tool, we recommend the following:</p><ul><li>Request evidence to demonstrate how each level is met, for example copies of policies, processes and role profiles.</li><li>Communicate your current level of data ethics maturity to your leadership team and relevant stakeholders, highlighting areas of strength and areas of weakness.</li><li>Set your ambition – what level of maturity do you want to achieve for each theme, and is this ambition the same for the whole organisation, or just for specific departments?</li><li>Create an action plan for how you will achieve your ambition, including any resources required.</li></ul>",
+    "_id": "650da12f94389ef9d9f9768e",
+    "_parentId": "650da12f94389ef9d9f9765c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Applying the Data Ethics Maturity Model",
+    "displayTitle": "Applying the Data Ethics Maturity Model",
+    "body": "<p>Using the Data Ethics Maturity Model is a first step to benchmark performance. Using the tool below, see if you can benchmark the performance of your organisation?</p>",
+    "_id": "650da12f94389ef9d9f9768f",
+    "_parentId": "650da12f94389ef9d9f9765d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_tabLayout": "horizontal",
+    "_items": [
+      {
+        "tabTitle": "Organisational governance and internal oversight",
+        "title": "Organisational governance and internal oversight",
+        "body": "<table style=\"border-collapse:collapse; border:none\"><tbody><tr><td style=\"background-color:#ff0000; vertical-align:top\"><ol><li dir=\"ltr\"><p dir=\"ltr\"><strong>Initial</strong></p></li></ol></td><td style=\"background-color:#ff9900; vertical-align:top\"><ol start=\"2\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Repeatable</strong></p></li></ol></td><td style=\"background-color:#00ff00; vertical-align:top\"><ol start=\"3\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Defined</strong></p></li></ol></td><td style=\"background-color:#00ffff; vertical-align:top\"><ol start=\"4\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Managed</strong></p></li></ol></td><td style=\"background-color:#4a86e8; vertical-align:top\"><ol start=\"5\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Optimising</strong></p></li></ol></td></tr><tr><td style=\"vertical-align:top\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">The organisation has no strategy, policy or principles that includes ethical collection, use and sharing of data</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Data governance is seen as a legal issue, not a business need.</span></p><br />&nbsp;</td><td style=\"vertical-align:top\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Individual projects or disciplines consider data ethics on an ad hoc basis.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">No coherent strategy for data ethics across the organisation.</span></p><br />&nbsp;</td><td style=\"vertical-align:top\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">The organisation has a clear strategy, policy and principles that include ethical collection, use and sharing of data.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">There is clear responsibility and budget support for consideration of data ethics.&nbsp;</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">&nbsp;</span></p><br /><br />&nbsp;</td><td style=\"vertical-align:top\"><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Identification and management of risks around ethical collection, use and sharing of data is a core part of the organisation's governance.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Measurable targets have been set for ethical practices and mechanisms exist for monitoring &amp; reporting of performance.</span></p><p dir=\"ltr\"><span style=\"background-color:transparent; color:#000000\">Performance assessments of key staff are tied to delivery of objectives in the strategy or adherence to principles for ethical collection, use and sharing of data.</span></p><p dir=\"ltr\">Efforts around data ethics, including available metrics are published and available to stakeholders.<span style=\"background-color:transparent; color:#000000\">&nbsp;</span></p></td><td style=\"vertical-align:top\"><p>The organisation has a clear strategy, policy and principles that include ethical collection, use and sharing of data which is embedded throughout the organisation, from the board down, published and open to public examination.</p><p>The organisation has an ethics committee (or equivalent) to deal with decisions on ethical collection, use and sharing of data that affect the whole organisation.</p><p>Metrics monitoring ethical data practices are actively reviewed, used and adjusted over time to ensure alignment with the wider goals of the organisation.</p></td></tr></tbody></table>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Data management risk processes",
+        "title": "Data management risk processes",
+        "body": "<table style=\"border-collapse:collapse; border:none\"><tbody><tr><td style=\"background-color:#ff0000; vertical-align:top\"><ol><li dir=\"ltr\"><p dir=\"ltr\"><strong>Initial</strong></p></li></ol></td><td style=\"background-color:#ff9900; vertical-align:top\"><ol start=\"2\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Repeatable</strong></p></li></ol></td><td style=\"background-color:#00ff00; vertical-align:top\"><ol start=\"3\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Defined</strong></p></li></ol></td><td style=\"background-color:#00ffff; vertical-align:top\"><ol start=\"4\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Managed</strong></p></li></ol></td><td style=\"background-color:#4a86e8; vertical-align:top\"><ol start=\"5\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Optimising</strong></p></li></ol></td></tr><tr><td style=\"vertical-align:top\"><p>There are no defined processes for identifying and assessing risk of harm to individuals and communities when collecting, using and sharing data.</p><p>Risks are only addressed when they threaten to become problematic for the organisation.</p><br />&nbsp;</td><td style=\"vertical-align:top\"><p>Processes for identifying and assessing risks of harm to individuals and communities when collecting, using and sharing data are ad hoc.</p><p>Risks are dealt with by individuals who care about or feel responsible for the issues, rather than in a systematic way.</p><p>Use of tools (for example Data Ethics Canvas, Consequence Scanning and the ODI’s Data Sharing Risk Assessment) to consider ethical implications from data is done on an<br />ad-hoc basis.</p></td><td style=\"vertical-align:top\"><p>Processes for identifying and assessing risk of harm to individuals and communities when collecting, using and sharing data are standardised and include consideration of positive and negative unintended impacts.</p><p>Adoption of these processes is not universal.</p><p>Risks are prioritised based on expected impact and are dealt with in order of priority.</p><p>Use of data ethics tools (e.g. Data Ethics Canvas, Consequence Scanning or the ODI’s Data Sharing Risk Assessment) are widespread throughout the organisation.</p></td><td style=\"vertical-align:top\"><p>All projects and disciplines follow processes for identifying and assessing risk of harm to individuals and communities when collecting, using and sharing data.</p><p>The organisation puts mitigation processes in place for risks that have a higher likelihood of occurring.</p><p>The organisation seeks independent validation of ethical approaches to data.</p></td><td style=\"vertical-align:top\"><p>The organisation routinely assesses performance around reducing harm to individuals or communities and puts mitigation strategies in place.</p><p>The organisation monitors and adapts to changes to community norms, customs and values that influence what is considered ethical collection, use and sharing of data.</p><p>Data ethics tools have been customised for the organisation specifically and validated.</p></td></tr></tbody></table>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Skills & Knowledge",
+        "title": "Skills & Knowledge",
+        "body": "<table style=\"border-collapse:collapse; border:none\"><tbody><tr><td style=\"background-color:#ff0000; vertical-align:top\"><ol><li dir=\"ltr\"><p dir=\"ltr\"><strong>Initial</strong></p></li></ol></td><td style=\"background-color:#ff9900; vertical-align:top\"><ol start=\"2\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Repeatable</strong></p></li></ol></td><td style=\"background-color:#00ff00; vertical-align:top\"><ol start=\"3\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Defined</strong></p></li></ol></td><td style=\"background-color:#00ffff; vertical-align:top\"><ol start=\"4\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Managed</strong></p></li></ol></td><td style=\"background-color:#4a86e8; vertical-align:top\"><ol start=\"5\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Optimising</strong></p></li></ol></td></tr><tr><td style=\"vertical-align:top\"><p>There is no awareness of the importance of data ethics across the organisation.</p><p>The organisation does not provide any direct support or training for staff in data ethics.</p><p>Early adoption is driven by enthusiasm of self-taught internal evangelists.</p></td><td style=\"vertical-align:top\"><p>here is no shared understanding of data ethics and what it means for collection, use and sharing of data for the organisation.</p><p>Training and support for individuals/teams around data ethics is driven by the needs of specific projects.</p><p>There are individuals with a focus on ethical decision making in each discipline, but it is not commonplace for whole teams to discuss ethical collection, use and sharing of data.</p><p>The organisation relies on external expertise for guidance and practical support.</p></td><td style=\"vertical-align:top\"><p>Data practitioners have a basic understanding of data ethics and what it means for collection, use and sharing of data for the organisation.</p><p>Internal peer groups and experts exist that share advice and guidance on ethical collection, use and sharing of data.</p><p>The organisation allocates budget towards basic data ethics training for all staff but training is not mandatory.</p><p>The organisation may draw on external expertise for support around complex topics and projects.</p></td><td style=\"vertical-align:top\"><p>All staff have a basic understanding of data ethics and what it means for collection, use and sharing of data for the organisation.</p><p>All staff are required to undertake an introduction to data ethics training.</p><p>Data practitioners have a deeper knowledge and understanding of ethical collection, use and sharing of data.</p><p>The organisation is building internal capacity around application of data ethics guidance The organisation builds and fosters networks of expertise within the organisation and wider community.</p></td><td style=\"vertical-align:top\"><p>ll staff at all levels of the organisation have a deeper knowledge and understanding of ethical collection, use and sharing of data.Staff are clear how this informs and supports organisational strategy.</p><p>Professional development of data practitioners in ethical data practices is considered a priority, and staff are encouraged to become certified data ethics practitioners.</p><p>The organisation uses its in-house data ethics expertise to provide leadership to the market, through support and guidance.</p></td></tr></tbody></table>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Funding and procurement",
+        "title": "Funding and procurement",
+        "body": "<table style=\"border-collapse:collapse; border:none\"><tbody><tr><td style=\"background-color:#ff0000; vertical-align:top\"><ol><li dir=\"ltr\"><p dir=\"ltr\"><strong>Initial</strong></p></li></ol></td><td style=\"background-color:#ff9900; vertical-align:top\"><ol start=\"2\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Repeatable</strong></p></li></ol></td><td style=\"background-color:#00ff00; vertical-align:top\"><ol start=\"3\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Defined</strong></p></li></ol></td><td style=\"background-color:#00ffff; vertical-align:top\"><ol start=\"4\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Managed</strong></p></li></ol></td><td style=\"background-color:#4a86e8; vertical-align:top\"><ol start=\"5\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Optimising</strong></p></li></ol></td></tr><tr><td style=\"vertical-align:top\"><p>Activities to support ethical collection, use and sharing of data are unfunded.</p><p>Procurement contracts do not include requirements around ethical data practices.</p><p>The risk that suppliers use unethical practices around data is not recorded or mitigated.</p></td><td style=\"vertical-align:top\"><p>Individual projects may include costs to examine potential positive and negative impacts from their collection, use and sharing of data as part of their budget.</p><p>The organisation sometimes seeks clarity around ethical data practices as part of procurement. This is driven by the needs of specific projects and is not routine.</p></td><td style=\"vertical-align:top\"><p>Project funding and operational costs routinely include long term costs for assessing, building and demonstrating ethical collection, use and sharing of data.</p><p>The organisation tailors individual contracts to cover ethical data practises, as required by the needs of projects/ products.</p></td><td style=\"vertical-align:top\"><p>The organisation has clarity around cost/benefits of ethical data practices.</p><p>The organisation includes standard wording in all contracts that covers ethical data practices.</p></td><td style=\"vertical-align:top\"><p>The organisation proactively carries out due diligence/audit around the ethical data practices of organisations they use data from, share data with and/or who collects data on their behalf.</p><p>The organisation publishes information about cost/benefits of ethical data practices, to help others learn from their approach.</p></td></tr></tbody></table>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Stakeholder and staff engagement",
+        "title": "Stakeholder and staff engagement",
+        "body": "<table style=\"border-collapse:collapse; border:none\"><tbody><tr><td style=\"background-color:#ff0000; vertical-align:top\"><ol><li dir=\"ltr\"><p dir=\"ltr\"><strong>Initial</strong></p></li></ol></td><td style=\"background-color:#ff9900; vertical-align:top\"><ol start=\"2\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Repeatable</strong></p></li></ol></td><td style=\"background-color:#00ff00; vertical-align:top\"><ol start=\"3\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Defined</strong></p></li></ol></td><td style=\"background-color:#00ffff; vertical-align:top\"><ol start=\"4\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Managed</strong></p></li></ol></td><td style=\"background-color:#4a86e8; vertical-align:top\"><ol start=\"5\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Optimising</strong></p></li></ol></td></tr><tr><td style=\"vertical-align:top\"><p>The organisation does not communicate with customers or staff that might be impacted by data collected, used or shared.</p><p>Or</p><p>Communications around ethical data practices are dense, technical and unreadable (for example in legal language)</p></td><td style=\"vertical-align:top\"><p>Communication with customers or staff that might be impacted by projects collecting, using or sharing data is ad-hoc.</p><p>Communications on ethical data practices do not use the language of the community reflected in, or impacted by, the data (for example they use internal, technical language).</p><p>Some teams/ projects begin to use feedback from communities the data is about, or who are impacted by collection, use and sharing of the data, to inform internal data management processes.</p></td><td style=\"vertical-align:top\"><p>The organisation has identified a means by which individuals or communities can raise concerns around ethical collection, use and sharing of data.</p><p>The organisation has documented a repeatable approach for engaging people around collection, use and sharing of data but this is not widely adopted.</p><p>The organisation has documented how teams should use feedback from communities reflected in or impacted by data to inform their work.This is not yet widely adopted.</p><p>The organisation uses language tailored to the audience when communicating with its community.</p></td><td style=\"vertical-align:top\"><p>The policy for ethical collection, use and sharing of data is published online and accessible to the public.</p><p>It is routine for all teams to engage communities reflected in or impacted by the data and to act on their feedback.</p></td><td style=\"vertical-align:top\"><p>The organisation proactively seeks feedback from customers and staff on how much they trust the organisation with data about them.</p><p>The organisation shares its experience around ethical collection, use and sharing of data for example in articles, case studies or at events.</p><p>The communities reflected in, or impacted by data, are actively involved in key decisions that may affect them and decisions will not be taken forwards without consensus.</p></td></tr></tbody></table>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Legal standing and compliance",
+        "title": "Legal standing and compliance",
+        "body": "<table style=\"border-collapse:collapse; border:none\"><tbody><tr><td style=\"background-color:#ff0000; vertical-align:top\"><ol><li dir=\"ltr\"><p dir=\"ltr\"><strong>Initial</strong></p></li></ol></td><td style=\"background-color:#ff9900; vertical-align:top\"><ol start=\"2\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Repeatable</strong></p></li></ol></td><td style=\"background-color:#00ff00; vertical-align:top\"><ol start=\"3\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Defined</strong></p></li></ol></td><td style=\"background-color:#00ffff; vertical-align:top\"><ol start=\"4\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Managed</strong></p></li></ol></td><td style=\"background-color:#4a86e8; vertical-align:top\"><ol start=\"5\"><li dir=\"ltr\"><p dir=\"ltr\"><strong>Optimising</strong></p></li></ol></td></tr><tr><td style=\"vertical-align:top\"><p>There is no awareness of legislative or compliance requirements to protect individuals and communities from harm.</p><p>Relevant legistlative and regulatory requirements might include human rights, data protection, anti-discrimination, intellectual property, database rights, sustainability and personal data processing.</p></td><td style=\"vertical-align:top\"><p>Knowledge of legal and regulatory compliance requirements to protect individuals from harm is limited to a few individuals.</p><p>&nbsp;</p></td><td style=\"vertical-align:top\"><p>There is organisational guidance on compliance with legal and social requirements to avoid harm to individuals and communities, but this is not widely adopted.</p><p>&nbsp;</p></td><td style=\"vertical-align:top\"><p>All teams use a standardised structure for checking compliance against relevant legislation and social norms and this is measured as part of performance reporting.</p><p>The organisation proactively engages with regulators to shape future regulations and guidance to consider ethical collection, use and sharing of data.</p><p>&nbsp;</p></td><td style=\"vertical-align:top\"><p>The organisation shares its approach to compliance with legal and social norms in relation to ethical data practices.</p><p>Application of the organisation’s legal obligations around data collection, use and sharing are routinely reassessed and updated to reflect evolving requirements, social and political priorities.</p></td></tr></tbody></table>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How to use the tool",
+    "displayTitle": "How to use the tool",
+    "body": "<p>The Data Ethics Maturity Model is designed to embed and enable a culture of discussion, awareness and interest around the issues facing ethical decisions within the data lifecycle. It is envisioned the tool be used used:</p><ul><li>When first engaging with the subject of data ethics, the maturity model can be used as a support tool in conversations with teams and specific stakeholders. This can be a prompt to focus conversations on particular issues/areas, or help structure a broader discussion around current practices and policies.</li><li>In benchmarking departments (or teams) within the organisation against each theme to provide an overall profile for the organisation around their data ethics maturity. Engaging each department will help to highlight areas of strength as well as areas needing improvement across different parts of the organisation. This might form part of a wider data management maturity exercise.</li><li>To support the development of an action plan to embed ethical data practises across a department, or organisation.</li></ul><p>It is highly recommended that senior management be engaged, from within and outside the data function, to oversee and ponsor these activities for maximum benefit and buy in.</p>",
+    "_id": "650da12f94389ef9d9f97690",
+    "_parentId": "650da12f94389ef9d9f9765e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "list-with-paragraph",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why use the tool?",
+    "displayTitle": "Why use the tool?",
+    "body": "<ul><li>Build a culture of data ethics<p>Ensuring people have an appreciation of the ethical impacts of collection, use and sharing of data, and embedding this into the norms and behaviours of an organisation can help demonstrate trustworthiness with data and how they are handled. Having engaged staff, customers and stakeholders can increase the likelihood of positive impacts from data, and that unintended risks of harm to people or communities are minimised.</p></li><li>Build trust<p>Organisations can use the Data Ethics Maturity Model to demonstrate to customers, staff, partners and stakeholders that their data practices are ethical, thereby building trust. Trust leads to increased willingness to share and use data, or engage with services, leading to social, economic or environmental value creation in the form of better insights, decisions, products or services.</p></li><li>Manage data ethics in the long term<p>The tool can help teams consider and agree ambitions for the level of maturity of a whole organisation, or for a specific department(s). In some situations, achieving level 2 (Repeatable) or 3 (Defined) might be appropriate, whereas others – for example where demonstration of ethical values and practices is fundamental to an organisation's core values and business model – might aim for levels 4 (Managed) or 5 (Optimising) for some themes.</p></li></ul>",
+    "_id": "650da12f94389ef9d9f97691",
+    "_parentId": "650da12f94389ef9d9f9765f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  }
+]

@@ -1,0 +1,1492 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Which scenario would like to use?",
+    "displayTitle": "Which scenario would like to use?",
+    "body": "<p>Choose which scenario you would like to use for the consequence scanning activity</p>",
+    "_id": "650da10294389ef9d9f975d7",
+    "_parentId": "650da10294389ef9d9f975ad",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Scenario 1: A charitable transformation",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Scenario 2: The supply and demand of taxi services",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "selectchoice",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Unintened consequences: Act, influence or monitor?",
+    "displayTitle": "Unintened consequences: Act, influence or monitor?",
+    "body": "<p dir=\"ltr\">Following the identification of consequences, the next step is to sort the unintended consequences into the following catagories:</p><ul><li dir=\"ltr\"><p dir=\"ltr\"><strong>Act:</strong> The things the core team can take forward and action immediately. Within these, prioritisation and time scales should be applied.</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Influence</strong>: Consequences that need to be handled by other stakeholders, either within the organisation or externally, but within reachable networks.</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Monitor: </strong>These are consequences that you cannot control, such as political climate or global trends.</p></li></ul><p>While you could do this for the intended consequences, the ones we have listed are all in the monitor category.</p>",
+    "_id": "650da10294389ef9d9f975d8",
+    "_parentId": "650da10294389ef9d9f975b0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_choices": [
+      {
+        "text": "Act",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        }
+      },
+      {
+        "text": "Influence",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        }
+      },
+      {
+        "text": "Monitor",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        }
+      }
+    ],
+    "_items": [
+      {
+        "text": "Increase in pricing disparities in communities not appropriately serviced by public transport",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 3
+      },
+      {
+        "text": "User journeys are tracked and potentially identifiable, with risk to personal safety",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Reduced services for communities in areas deemed “low demand” where drivers are encouraged to accept fares in high-demand areas",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Unintended increase in pricing in cases of extreme events (e.g. local emergencies)",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Increase in vehicles on the road, increase the traffic congestion and has an environmental impact",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Increase in data collection and use has an increase in the risks associated with storing and processing the data",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Disparities in driver experiences based on flexibility, earnings and support. Drivers are encouraged to seek high fare periods which impacts work-life balance",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Changes in legislation for gig-economy workers as \"employeed\" by this service",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 2
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>There’s no right or wrong answer to these categorisations. There are both positive and negative outcomes from this type of data-driven dynamic pricing model. To ensure positive outcomes and mitigate any potential harm, the taxi firm could do the following:</p><div class=\"accordion-item__content js-accordion-item-content\" id=\"650d4a0130b39c00883311bb-0-accordion-button-panel\" style=\"display: block;\"><div class=\"accordion-item__content-inner\"><div class=\"accordion-item__body\"><div class=\"accordion-item__body-inner\"><ul><li>Implement a cap on surge pricing to ensure that, despite rapid increases in demand, service users are not unfairly targeted by price rises due to events out of their control.</li><li>Implement standardisation of direct earnings for drivers as a percentage of the base fare where drivers can earn improved fares in areas that are in low demand to support fair coverage of service. Similar processes can be applied to time of day to maintain purported flexibility in driver work/life balance.</li><li>Implement data collection measures for air quality and environment with incentives and appropriate support for drivers to use more environmentally friendly vehicles.</li><li>Implement anonymisation methods to data collected about people and their journeys. Randomisation and generalisation methods can ensure that data utility is maintained, and suppression of high risk data points can be used to maintain privacy.&nbsp;</li></ul><p>These are just a few of the possible actions that could be taken, and as you can see, not all of them are directly about data - although they may be informed by or inform what data is used, collected and shared. It may be that some of these actions are deemed low priority, and although the consequence has been identified, it is also deemed to be a low risk to the organisation. Regardless, there is plenty more work to be done to ensure positive outcomes where possible.</p></div></div></div></div>",
+      "_incorrect": {
+        "final": "<p>There’s no right or wrong answer to these categorisations. There are both positive and negative outcomes from this type of data-driven dynamic pricing model. To ensure positive outcomes and mitigate any potential harm, the taxi firm could do the following:</p><div class=\"accordion-item__content js-accordion-item-content\" id=\"650d4a0130b39c00883311bb-0-accordion-button-panel\" style=\"display: block;\"><div class=\"accordion-item__content-inner\"><div class=\"accordion-item__body\"><div class=\"accordion-item__body-inner\"><ul><li>Implement a cap on surge pricing to ensure that, despite rapid increases in demand, service users are not unfairly targeted by price rises due to events out of their control.</li><li>Implement standardisation of direct earnings for drivers as a percentage of the base fare where drivers can earn improved fares in areas that are in low demand to support fair coverage of service. Similar processes can be applied to time of day to maintain purported flexibility in driver work/life balance.</li><li>Implement data collection measures for air quality and environment with incentives and appropriate support for drivers to use more environmentally friendly vehicles.</li><li>Implement anonymisation methods to data collected about people and their journeys. Randomisation and generalisation methods can ensure that data utility is maintained, and suppression of high risk data points can be used to maintain privacy.&nbsp;</li></ul><p>These are just a few of the possible actions that could be taken, and as you can see, not all of them are directly about data - although they may be informed by or inform what data is used, collected and shared. It may be that some of these actions are deemed low priority, and although the consequence has been identified, it is also deemed to be a low risk to the organisation. Regardless, there is plenty more work to be done to ensure positive outcomes where possible.</p></div></div></div></div>",
+        "notFinal": "<p>There’s no right or wrong answer to these categorisations. There are both positive and negative outcomes from this type of data-driven dynamic pricing model. To ensure positive outcomes and mitigate any potential harm, the taxi firm could do the following:</p><div class=\"accordion-item__content js-accordion-item-content\" id=\"650d4a0130b39c00883311bb-0-accordion-button-panel\" style=\"display: block;\"><div class=\"accordion-item__content-inner\"><div class=\"accordion-item__body\"><div class=\"accordion-item__body-inner\"><ul><li>Implement a cap on surge pricing to ensure that, despite rapid increases in demand, service users are not unfairly targeted by price rises due to events out of their control.</li><li>Implement standardisation of direct earnings for drivers as a percentage of the base fare where drivers can earn improved fares in areas that are in low demand to support fair coverage of service. Similar processes can be applied to time of day to maintain purported flexibility in driver work/life balance.</li><li>Implement data collection measures for air quality and environment with incentives and appropriate support for drivers to use more environmentally friendly vehicles.</li><li>Implement anonymisation methods to data collected about people and their journeys. Randomisation and generalisation methods can ensure that data utility is maintained, and suppression of high risk data points can be used to maintain privacy.&nbsp;</li></ul><p>These are just a few of the possible actions that could be taken, and as you can see, not all of them are directly about data - although they may be informed by or inform what data is used, collected and shared. It may be that some of these actions are deemed low priority, and although the consequence has been identified, it is also deemed to be a low risk to the organisation. Regardless, there is plenty more work to be done to ensure positive outcomes where possible.</p></div></div></div></div>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>There’s no right or wrong answer to these categorisations. There are both positive and negative outcomes from this type of data-driven dynamic pricing model. To ensure positive outcomes and mitigate any potential harm, the taxi firm could do the following:</p><div class=\"accordion-item__content js-accordion-item-content\" id=\"650d4a0130b39c00883311bb-0-accordion-button-panel\" style=\"display: block;\"><div class=\"accordion-item__content-inner\"><div class=\"accordion-item__body\"><div class=\"accordion-item__body-inner\"><ul><li>Implement a cap on surge pricing to ensure that, despite rapid increases in demand, service users are not unfairly targeted by price rises due to events out of their control.</li><li>Implement standardisation of direct earnings for drivers as a percentage of the base fare where drivers can earn improved fares in areas that are in low demand to support fair coverage of service. Similar processes can be applied to time of day to maintain purported flexibility in driver work/life balance.</li><li>Implement data collection measures for air quality and environment with incentives and appropriate support for drivers to use more environmentally friendly vehicles.</li><li>Implement anonymisation methods to data collected about people and their journeys. Randomisation and generalisation methods can ensure that data utility is maintained, and suppression of high risk data points can be used to maintain privacy.&nbsp;</li></ul><p>These are just a few of the possible actions that could be taken, and as you can see, not all of them are directly about data - although they may be informed by or inform what data is used, collected and shared. It may be that some of these actions are deemed low priority, and although the consequence has been identified, it is also deemed to be a low risk to the organisation. Regardless, there is plenty more work to be done to ensure positive outcomes where possible.</p></div></div></div></div>",
+        "notFinal": "<p>There’s no right or wrong answer to these categorisations. When consequence scanning is applied to your own projects, you’ll have a much more granular understanding of what you can act upon, what you can influence and what you should monitor.</p><p>You can view our answer, where we think most can be proactively tackled with remiadiation and data management measures that reduce risk while still providing a fair system for both customers and drivers.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show our answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "selectchoice",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Unintened consequences: Act, influence or monitor?",
+    "displayTitle": "Unintened consequences: Act, influence or monitor?",
+    "body": "<p dir=\"ltr\">Following the identification of consequences, the next step is to sort the unintended consequences into the following catagories:</p><ul><li dir=\"ltr\"><p dir=\"ltr\"><strong>Act:</strong> The things the core team can take forward and action immediately. Within these, prioritisation and time scales should be applied.</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Influence</strong>: Consequences that need to be handled by other stakeholders, either within the organisation or externally, but within reachable networks.</p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>Monitor: </strong>These are consequences that you cannot control, such as political climate or global trends.</p></li></ul><p>While you could do this for the intended consequences, the ones we have listed are all in the monitor category.</p>",
+    "_id": "650da10294389ef9d9f975d9",
+    "_parentId": "650da10294389ef9d9f975b1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_choices": [
+      {
+        "text": "Act",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        }
+      },
+      {
+        "text": "Influence",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        }
+      },
+      {
+        "text": "Monitor",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        }
+      }
+    ],
+    "_items": [
+      {
+        "text": "Users of the service are incorrectly profiled and unable to home an animal",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 3
+      },
+      {
+        "text": "Diverse range of internal users increases the number of data quality issues where data is manually created and input",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Simplified processes and storage leads to overly complex permissions set up and provides disparate or inappropriate access to volunteer staff",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Increased data breaches due to increase of activities undertaken on a single system",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Reduced staff resource as efficiencies in practice have negative effect on individual workloads",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 3
+      },
+      {
+        "text": "Risk of data deletion of duplication of errors in transferring and interacting with data on a single system",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      },
+      {
+        "text": "Data held about individuals (personal or otherwise) is used to create profiles that are biassed",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 3
+      },
+      {
+        "text": "Increase in digital divide for colleagues who are not appropriately supported through large scale digital transformation",
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": ""
+        },
+        "_shouldBeSelected": 1
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>There’s no right or wrong answer to these categorisations. When consequence scanning is applied to your own projects, you’ll have a much more granular understanding of what you can act upon, what you can influence and what you should monitor.</p><div class=\"accordion-item__content js-accordion-item-content\" id=\"650ace8a94389ef9d9f96ec1_branching_0-0-accordion-button-panel\" style=\"display: block;\"><div class=\"accordion-item__content-inner\"><div class=\"accordion-item__body\"><div class=\"accordion-item__body-inner\"><div class=\"case-study\"><p>Given the consequences identified (both positive and negative), we think the charity could take the following actions:</p><ul><li>Define clear permissions and user groups to ensure that any access to systems by stakeholders is managed and that only relevant data can be accessed, used or shared.</li><li>Implement new/improved data schemas once data is consolidated to ensure that data is managed effectively and sustainably maintained in the longer term.</li><li>Reduce profiling activities of service users to and research additional approaches to reviewing suitability of animal adoption.</li><li>Improve IT security resources to ensure appropriate backup systems to reduce risk of data loss and/or breach.</li><li>Design and implement communication and training plans as a process of change management. The focus points should be on transparency and clarity of purpose to ensure that stakeholders understand the what, why and how of the programme and be sufficiently supported in developing new skills.</li></ul><p>Of course, these are only a few of the actions that the organisation could take forward. Some actions are technical, while others are organisational and process-driven.</p></div></div></div></div></div>",
+      "_incorrect": {
+        "final": "<p>There’s no right or wrong answer to these categorisations. When consequence scanning is applied to your own projects, you’ll have a much more granular understanding of what you can act upon, what you can influence and what you should monitor.</p><div class=\"accordion-item__content js-accordion-item-content\" id=\"650ace8a94389ef9d9f96ec1_branching_0-0-accordion-button-panel\" style=\"display: block;\"><div class=\"accordion-item__content-inner\"><div class=\"accordion-item__body\"><div class=\"accordion-item__body-inner\"><div class=\"case-study\"><p>Given the consequences identified (both positive and negative), we think the charity could take the following actions:</p><ul><li>Define clear permissions and user groups to ensure that any access to systems by stakeholders is managed and that only relevant data can be accessed, used or shared.</li><li>Implement new/improved data schemas once data is consolidated to ensure that data is managed effectively and sustainably maintained in the longer term.</li><li>Reduce profiling activities of service users to and research additional approaches to reviewing suitability of animal adoption.</li><li>Improve IT security resources to ensure appropriate backup systems to reduce risk of data loss and/or breach.</li><li>Design and implement communication and training plans as a process of change management. The focus points should be on transparency and clarity of purpose to ensure that stakeholders understand the what, why and how of the programme and be sufficiently supported in developing new skills.</li></ul><p>Of course, these are only a few of the actions that the organisation could take forward. Some actions are technical, while others are organisational and process-driven.</p></div></div></div></div></div>",
+        "notFinal": "<p>There’s no right or wrong answer to these categorisations. When consequence scanning is applied to your own projects, you’ll have a much more granular understanding of what you can act upon, what you can influence and what you should monitor.</p><div class=\"accordion-item__content js-accordion-item-content\" id=\"650ace8a94389ef9d9f96ec1_branching_0-0-accordion-button-panel\" style=\"display: block;\"><div class=\"accordion-item__content-inner\"><div class=\"accordion-item__body\"><div class=\"accordion-item__body-inner\"><div class=\"case-study\"><p>Given the consequences identified (both positive and negative), we think the charity could take the following actions:</p><ul><li>Define clear permissions and user groups to ensure that any access to systems by stakeholders is managed and that only relevant data can be accessed, used or shared.</li><li>Implement new/improved data schemas once data is consolidated to ensure that data is managed effectively and sustainably maintained in the longer term.</li><li>Reduce profiling activities of service users to and research additional approaches to reviewing suitability of animal adoption.</li><li>Improve IT security resources to ensure appropriate backup systems to reduce risk of data loss and/or breach.</li><li>Design and implement communication and training plans as a process of change management. The focus points should be on transparency and clarity of purpose to ensure that stakeholders understand the what, why and how of the programme and be sufficiently supported in developing new skills.</li></ul><p>Of course, these are only a few of the actions that the organisation could take forward. Some actions are technical, while others are organisational and process-driven.</p></div></div></div></div></div>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>There’s no right or wrong answer to these categorisations. When consequence scanning is applied to your own projects, you’ll have a much more granular understanding of what you can act upon, what you can influence and what you should monitor.</p><div class=\"accordion-item__content js-accordion-item-content\" id=\"650ace8a94389ef9d9f96ec1_branching_0-0-accordion-button-panel\" style=\"display: block;\"><div class=\"accordion-item__content-inner\"><div class=\"accordion-item__body\"><div class=\"accordion-item__body-inner\"><div class=\"case-study\"><p>Given the consequences identified (both positive and negative), we think the charity could take the following actions:</p><ul><li>Define clear permissions and user groups to ensure that any access to systems by stakeholders is managed and that only relevant data can be accessed, used or shared.</li><li>Implement new/improved data schemas once data is consolidated to ensure that data is managed effectively and sustainably maintained in the longer term.</li><li>Reduce profiling activities of service users to and research additional approaches to reviewing suitability of animal adoption.</li><li>Improve IT security resources to ensure appropriate backup systems to reduce risk of data loss and/or breach.</li><li>Design and implement communication and training plans as a process of change management. The focus points should be on transparency and clarity of purpose to ensure that stakeholders understand the what, why and how of the programme and be sufficiently supported in developing new skills.</li></ul><p>Of course, these are only a few of the actions that the organisation could take forward. Some actions are technical, while others are organisational and process-driven.</p></div></div></div></div></div>",
+        "notFinal": "<p>There’s no right or wrong answer to these categorisations. When consequence scanning is applied to your own projects, you’ll have a much more granular understanding of what you can act upon, what you can influence and what you should monitor.</p><div class=\"accordion-item__content js-accordion-item-content\" id=\"650ace8a94389ef9d9f96ec1_branching_0-0-accordion-button-panel\" style=\"display: block;\"><div class=\"accordion-item__content-inner\"><div class=\"accordion-item__body\"><div class=\"accordion-item__body-inner\"><div class=\"case-study\"><p>Given the consequences identified (both positive and negative), we think the charity could take the following actions:</p><ul><li>Define clear permissions and user groups to ensure that any access to systems by stakeholders is managed and that only relevant data can be accessed, used or shared.</li><li>Implement new/improved data schemas once data is consolidated to ensure that data is managed effectively and sustainably maintained in the longer term.</li><li>Reduce profiling activities of service users to and research additional approaches to reviewing suitability of animal adoption.</li><li>Improve IT security resources to ensure appropriate backup systems to reduce risk of data loss and/or breach.</li><li>Design and implement communication and training plans as a process of change management. The focus points should be on transparency and clarity of purpose to ensure that stakeholders understand the what, why and how of the programme and be sufficiently supported in developing new skills.</li></ul><p>Of course, these are only a few of the actions that the organisation could take forward. Some actions are technical, while others are organisational and process-driven.</p></div></div></div></div></div>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Show our answer",
+        "ariaLabel": "Show our answer"
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "banner",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Bye bye unintended consequences?",
+    "displayTitle": "Bye bye unintended consequences?",
+    "body": "<div class=\"callout-box\"><p>One of the important lessons here is that the recommendations and actions you derive in your discussions with stakeholders will not always lead to positive outcomes, or mitigate the negative consequences. Sometimes, it is a case of balancing the risk of the consequence and the efforts required to implement change.&nbsp;</p><p>The actions we define are purely the first step. More research may be required, or preparatory activities to enable the longer term gains. Before any major changes to your working processes or project it is necessary to evaluate the potential of these actions and ensure that you do not inadvertently cause further harm or distress.</p></div>",
+    "_id": "650da10294389ef9d9f975da",
+    "_parentId": "650da10294389ef9d9f975b2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da10294389ef9d9f975db",
+    "_parentId": "650da10294389ef9d9f975b3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "small": "course/en/assets/50cd2a8785a924e204ab876d46a71c045cb0f0fc.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">ODI</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Consequence Scanning is an agile and integrated practice within the development cycle, aimed at comprehensively assessing a project's impact on people, communities, and the environment.</p><p>By addressing both intended and unintended consequences, this tool proactively enhances positive outcomes and addresses potential negative effects. It begins with three key questions: identifying consequences, focusing on positive outcomes, and determining which consequences to mitigate. These questions encourage diverse stakeholder input for comprehensive impact mapping.</p><p>After categorising consequences as actionable, influential, or monitorable, roles and responsibilities are assigned for implementation.</p><p>Importantly, the process acknowledges that recommendations and actions may not always guarantee positive outcomes, requiring a balance between risk and change efforts. Thus, these actions serve as initial steps, with the potential need for further research and preparatory activities to avoid unintended harm during project implementation.</p>",
+    "_id": "650da10294389ef9d9f975dc",
+    "_parentId": "650da10294389ef9d9f975b3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Consequence Scanning Toolkit",
+    "displayTitle": "The Consequence Scanning Toolkit",
+    "body": "<p>Consequence Scanning is a dynamic and agile practice seamlessly integrated into the iterative development cycle. Its core objective is to enable organizations to conduct a comprehensive assessment of their project's impact on people, communities, and the environment, both intended and unintended. This innovative tool serves as a proactive approach to enhance positive outcomes and proactively address potential negative consequences. It involves identifying actionable insights, influencing factors, and establishing effective monitoring mechanisms, ensuring potential harms are mitigated or addressed before they materialise.</p>",
+    "_id": "650da10294389ef9d9f975dd",
+    "_parentId": "650da10294389ef9d9f975b4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Consequence scanning",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da10294389ef9d9f975de",
+    "_parentId": "650da10294389ef9d9f975b4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/bc7e49705a29fd0762430eea5fdfffd418cd2b8f.jpg",
+      "small": "course/en/assets/bc7e49705a29fd0762430eea5fdfffd418cd2b8f.jpg",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[Envato Element Licence]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How to use the consequence scanning toolkit",
+    "displayTitle": "",
+    "body": "<p>You start by asking yourself three questions:</p><ol><li>What are the intended and unintended consequences?</li><li>What are the positive consequences to focus on?</li><li>What are the consequences we want to mitigate?</li></ol><p>These questions help your team to share knowledge and expertise in order to map the potential impact of your work. Most importantly, these questions are designed to be asked to a varied group of stakeholders ensuring that everyone has the opportunity to input into the project.</p>",
+    "_id": "650da10294389ef9d9f975df",
+    "_parentId": "650da10294389ef9d9f975b5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Image shows the three key questions: What are the intended and unintended consequences? What are the positive consequences to focus on? What are the consequences we want to mitigate?",
+      "longdescription": "",
+      "large": "course/en/assets/09265671433a0cdf715c8e6b0d008455fdfe01dc.png",
+      "small": "course/en/assets/09265671433a0cdf715c8e6b0d008455fdfe01dc.png",
+      "attribution": "<a href=\"https://www.theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Intended and unintended consequences",
+    "displayTitle": "Intended and unintended consequences",
+    "body": "<div class=\"highlight-box\"><div class=\"consequence-section\"><strong><span class=\"new-key-term\">Intended Consequences:</span></strong><p>Describe your purpose. What are you trying to achieve? What is the positive goal of the project? Who will be positively impacted?</p></div></div><div class=\"highlight-box\"><div class=\"consequence-section\"><strong><span class=\"new-key-term\">Unintended Consequences:</span></strong><p>Describe the potential side-effects of your project and focus on who could be negatively impacted or excluded from your project. Consider the impact on wider society, the economy, or even the environment.</p></div></div>",
+    "_id": "650da10294389ef9d9f975e0",
+    "_parentId": "650da10294389ef9d9f975b6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Potential unintended consequences",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da10294389ef9d9f975e1",
+    "_parentId": "650da10294389ef9d9f975b6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Image shows six potential unintended consequences which are: Imbalance in the benefits, unforeseen uses, erosion of trust, environmental impact, changes in norms and behaviours and displacement and societal shifts.",
+      "longdescription": "",
+      "large": "course/en/assets/16e108d1f3eb95a88af9d6eac962cfe9b320db0f.png",
+      "small": "course/en/assets/16e108d1f3eb95a88af9d6eac962cfe9b320db0f.png",
+      "attribution": "<a href=\"https://www.theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Publishing crime data: unintended consequences",
+    "displayTitle": "",
+    "body": "<p>What is the likelihood of the unintended consequence?</p>",
+    "_id": "650da10294389ef9d9f975e2",
+    "_parentId": "650da10294389ef9d9f975b7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Low",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Medium",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "High",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>Many countries have published highly detailed crime data. Although many had concerns, there has been no significant impact as a result of the data being published. People simply didn’t know what high crime was and it is more about experiences than statistics. Plus people buy houses for other reasons.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Many countries have published highly detailed crime data. Although many had concerns, there has been no significant impact as a result of the data being published. People simply didn’t know what high crime was and it is more about experiences than statistics. Plus people buy houses for other reasons.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: How would you rate the perceived negative impact?",
+    "displayTitle": "",
+    "body": "<p>How would you rate the perceived negative impact?</p>",
+    "_id": "650da10294389ef9d9f975e3",
+    "_parentId": "650da10294389ef9d9f975b7",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Low",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Medium",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "High",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>Not being able to sell your house could cause significant harm, so the impact is at least medium, if not high.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Not being able to sell your house could cause significant harm, so the impact is at least medium, if not high.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Striking a balance between positive and negative impacts",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">To assess if a potential unintended consequence is a real risk it is important to evaluate the likelihood and the severity of the impact. A common method of doing this is to complete a risk matrix and assign a risk score.</p><p dir=\"ltr\">It is important to remember that while the impact of different risks could be the same, e.g. “Damage to organisation's&nbsp;reputation”, the likelihood and severity scores could be significantly different depending on the risk and wider context of the risk within the organisation.</p><p dir=\"ltr\">It is also likely to vary widely depending on the organisation's attitude towards the risk. For example, is sharing poor quality data, which is likely most of the time, actually high in severity? Especially if you tell people the data is likely to contain errors due to the way it was collected.</p>",
+    "_id": "650da10294389ef9d9f975e4",
+    "_parentId": "650da10294389ef9d9f975b8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Risk matrix",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da10294389ef9d9f975e5",
+    "_parentId": "650da10294389ef9d9f975b8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/47e7abec8a30a560968561da8c2fe333f51b0d34.png",
+      "small": "course/en/assets/47e7abec8a30a560968561da8c2fe333f51b0d34.png",
+      "attribution": "<a href=\"https://cabi.org\" target=\"_blank\">CABI</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Consequence scanning: deciding what to do",
+    "displayTitle": "Consequence scanning: deciding what to do",
+    "body": "<p>Once your team has had the opportunity to explore the intended and unintended consequences and rated those highest in risk, you can then group these consequences into the following categories:</p><p><strong>Act</strong>:&nbsp;The things the core team can take forward and action immediately. Within these, prioritisation and time scales should be applied.</p><p><strong>Influence</strong>:&nbsp;Consequences that need to be handled by other stakeholders, either within the organisation or externally, but within reachable networks.</p><p><strong>Monitor</strong>:&nbsp;These are consequences that you cannot control, such as political climate or global trends.</p><p>From this point, you can articulate the required roles and responsibilities, allocate the actions and start implementing them against your projects.</p>",
+    "_id": "650da10294389ef9d9f975e6",
+    "_parentId": "650da10294389ef9d9f975b9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/92da24455d5dbec7a668250cb6066ab6bb9376fe.png",
+      "small": "course/en/assets/92da24455d5dbec7a668250cb6066ab6bb9376fe.png",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Applying the Consequence Scanning Toolkit",
+    "displayTitle": "Applying the Consequence Scanning Toolkit",
+    "body": "<p dir=\"ltr\">This is your opportunity to experience a consequence scanning workshop. To support your learning we’ve provided some pre-populated scenarios for you to consider and work through.&nbsp;</p><p><strong>Scenario Selection and Exploration</strong></p>",
+    "_id": "650da10294389ef9d9f975e7",
+    "_parentId": "650da10294389ef9d9f975ba",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Your first task is to choose one scenario that captures your interest. Understand the case study and its objectives. Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Scenario 1: A charitable transformation ",
+        "body": "<p>An animal charity is going through a digital transformation process. This charity supports animal care and rehoming. Therefore it holds data on the animals, the users of the service such as those who hand over animals, and those who foster or adopt, as well as data associated with volunteers, donors and broader stakeholders.&nbsp;</p><p dir=\"ltr\">As part of this transformation the charity wants to retire redundant platforms and consolidate all data and data processes into a single platform. This includes employee record systems, Customer Relationship Management (CRM) platforms, Volunteer Management Systems (VMS) as well as donations, animal welfare data, data supplied by local authorities and information related to internal processes and practices.</p><p dir=\"ltr\">The data the charity holds includes (amongst others):</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Financial Donors: personal details, level of involvement, etc</p></li><li dir=\"ltr\"><p dir=\"ltr\">Volunteers: personal details, experience, etc</p></li><li dir=\"ltr\"><p dir=\"ltr\">Adopters: potential, previous and existing. Including details of refusals and returns</p></li><li dir=\"ltr\"><p dir=\"ltr\">Users: individuals who have previously handed an animal to the charity</p></li></ul><p dir=\"ltr\"><strong>Objective:</strong></p><p dir=\"ltr\">To reduce costs and increase efficiencies by simplifying the digital estate of the charity and reduce the redundancies in existing processes to mitigate risks. The digital transformation should maintain stakeholder privacy and maintain performance in relation to animal care.&nbsp;&nbsp;</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Scenario 2: The supply and demand of taxi services",
+        "body": "<p>A taxi firm uses data about their uses to provide personalised pricing and create a more efficient transport market where supply matches demand. The automatic pricing algorithm measures the demand in a localised area and increases the price of a fare to encourage more drivers onto the road.&nbsp;</p><p dir=\"ltr\">The increases in prices are temporary and applied on top of the standard fare (for example a 2x multiplier means the dynamic fare is twice that of the standard fare). To determine the dynamic pricing model the taxi firm analyses how much people are willing to pay for a certain route and uses factors such as if your phone battery is getting low, the speed which you type (including the amount of typos), walking speed and the way in which you hold your phone on any given day.&nbsp;</p><p dir=\"ltr\">These factors, coupled with the data about the number of rides requested, taken, cost, location and timing are all analysed together to build a predictive model.</p><p><strong>Objective: </strong></p><p>Dynamic pricing is intended to provide a supply and demand model that provides an effective service for customers, whilst maintaining efficient business practices.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Scenario 1: Consequences",
+    "displayTitle": "Scenario 1: Consequences",
+    "body": "<p>To support your learning, we have provided the following intended and unintended consequences for your chosen case study. Please note, these are not exhaustive and there are many additional consequences that you may identify.</p><p>Before proceeding, take a look through these and try to identify some additional ones.</p>",
+    "_id": "650da10294389ef9d9f975fa",
+    "_parentId": "650da10294389ef9d9f975ae",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "inview",
+    "_tabLayout": "horizontal",
+    "_items": [
+      {
+        "tabTitle": "Intended consequences",
+        "title": "Intended consequences",
+        "body": "<ul><li>Reduction of risk from old systems, including privacy, leaks and disparities in data organisation and structure</li><li>More effect analysis and reporting across the charity</li><li>Consolidation of datasets that support more effective and efficient analysis with the potential to increase the performance of charity outputs</li><li>Simplification of workloads and data practices for all employees, with significant benefits for volunteer stakeholders</li><li>Simplification of training and feedback across user groups which reduces the amount of time and resource spent on training and support</li><li>More effective animal support and animal placement into safe homes</li><li>Reduction of misplacements of animals</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Unintended consequences",
+        "title": "Unintended consequences",
+        "body": "<ul><li>Users of the service are incorrectly profiled and unable to home an animal</li><li>Diverse range of internal users increases the number of data quality issues where data is manually created and input</li><li>Simplified processes and storage leads to overly complex permissions set up and provides disparate or inappropriate access to volunteer staff</li><li>Increased data breaches due to increase of activities undertaken on a single system</li><li>Reduced staff resource as efficiencies in practice have negative effect on individual workloads</li><li>Risk of data deletion of duplication of errors in transferring and interacting with data on a single system</li><li>Data held about individuals (personal or otherwise) is used to create profiles that are biassed</li><li>Increase in digital divide for colleagues who are not appropriately supported through large scale digital transformation</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Scenario 2: Consequences",
+    "displayTitle": "Scenario 2: Consequences",
+    "body": "<p>To support your learning, we have provided the following intended and unintended consequences for your chosen case study. Please note, these are not exhaustive and there are many additional consequences that you may identify.</p><p>Before proceeding, take a look through these and try to identify some additional ones.</p>",
+    "_id": "650da10294389ef9d9f975fb",
+    "_parentId": "650da10294389ef9d9f975af",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "inview",
+    "_tabLayout": "horizontal",
+    "_items": [
+      {
+        "tabTitle": "Intended consequences",
+        "title": "Intended consequences",
+        "body": "<ul><li>Increase overall profits for the firm through efficiencies in employment and service offering</li><li>Improved access to taxi services by being more elastic and available during a 24/7 operation</li><li>Support long-term effective practices by identifying peaks in service requests and usage</li><li>Develop a better service for users by offering more choice and meeting dynamic demand</li><li>Reduced supply during low usage periods, reducing carbon footprint of idling</li><li>Increased flexibility for taxi drivers and benefits in workload management</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Unintended consequences ",
+        "title": "Unintended consequences ",
+        "body": "<ul><li>Increase in pricing disparities in communities not appropriately serviced by public transport</li><li>User journeys are tracked and potentially identifiable, with risk to personal safety</li><li>Reduced services for communities in areas deemed “low demand” where drivers are encouraged to accept fares in high-demand areas</li><li>Unintended increase in pricing in cases of extreme events (e.g. local emergencies)</li><li>Increase in vehicles on the road, increase the traffic congestion and has an environmental impact</li><li>Increase in data collection and use has an increase in the risks associated with storing and processing the data</li><li>Disparities in driver experiences based on flexibility, earnings and support. Drivers are encouraged to seek high fare periods which impacts work-life balance</li><li>Changes in legislation for gig-economy workers as \"employeed\" by this service</li></ul>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Creating action plans",
+    "displayTitle": "Creating action plans",
+    "body": "<p>Categorising the consequences into <span class=\"key-term\">ACT</span>, <span class=\"key-term\">INFLUENCE</span>, and <span class=\"key-term\">MONITOR</span> aids in creating focused action plans for these consequences. This helps to promote the positive outcomes but mitigate the negative potential of others.</p><p><strong>When creating action plans it is useful to consider the following:</strong></p><ul><li>What could this mean to the consumers of your product? Have you considered security, reliability, and support?</li><li>What does this mean for well-being or relationships? Who else does your user experience the product with?</li><li>What does the consequence mean if it was applied across the world? What is the effect on different communities?</li><li>Are there any differences between professional and personal lives? What might this mean in different geographic contexts?</li></ul><p>Remember, consequence scanning is a high-level and holistic approach to evaluating your data project. Actions you define at this stage do not need to be all-encompassing or solve every issue. They are to be used as an anchor point to support your future design, development, and implementation.</p>",
+    "_id": "650da10294389ef9d9f975fc",
+    "_parentId": "650da10294389ef9d9f975c8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Creating action plans",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da10294389ef9d9f975fd",
+    "_parentId": "650da10294389ef9d9f975c8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/f89902c171be56b418e5e507775de1902dd70856.png",
+      "small": "course/en/assets/f89902c171be56b418e5e507775de1902dd70856.png",
+      "attribution": "<a href=\"https://www.theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Bye bye unintended consequences?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650da10294389ef9d9f975fe",
+    "_parentId": "650da10294389ef9d9f975b2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/77b20be707b1d176d8471429959f545787ff1f33.jpg",
+      "small": "course/en/assets/77b20be707b1d176d8471429959f545787ff1f33.jpg",
+      "attribution": "<a href=\"https://elements.envato.com/risk-management-concept-avoid-accept-reduce-and-tr-LMK3MMT\" target=\"_blank\">kenishirotie</a> <span class='assetLicence'>[Envato Element Licence]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  }
+]
