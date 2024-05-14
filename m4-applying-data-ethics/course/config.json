@@ -48,7 +48,8 @@
   "screenSize": {
     "small": 520,
     "medium": 760,
-    "large": 900
+    "large": 900,
+    "xlarge": 1280
   },
   "_devtools": {
     "_isEnabled": false

@@ -17,7 +17,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
+    "_ariaLevel": null,
     "_id": "64e5ce310667765a0b978b00",
     "_type": "page",
     "_parentId": "course",
@@ -43,6 +43,9 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_ODILicence": {
+      "_items": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
